@@ -49,14 +49,3 @@
 3. 點選節點後，可查看資料或依該範圍出題。
 4. 進入考題系統後，可開始練習題目。
 5. 若要查特定內容，可使用搜尋入口。
-
-## GitHub Pages 部署方式
-
-本專案為純靜態網站，可直接部署於 GitHub Pages。
-
-部署設定：
-
-```text
-Source: Deploy from a branch
-Branch: main
-Folder: / root
