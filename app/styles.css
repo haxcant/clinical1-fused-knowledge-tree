@@ -585,3 +585,10 @@ html[data-theme="dark_tech"] .guide-feature-card{background:rgba(255,255,255,.04
 .guide-use{font-size:.92rem;color:var(--muted);background:var(--panel2);border-radius:var(--radius-sm);padding:8px;border:1px solid var(--line)}
 @media(max-width:900px){.guide-hero{grid-template-columns:1fr}.guide-quick-actions{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:520px){.guide-quick-actions{grid-template-columns:1fr}.guide-feature-grid{grid-template-columns:1fr}}
+
+/* public performance polish */
+.light-placeholder{min-height:160px;display:flex;flex-direction:column;justify-content:center;gap:8px}
+.light-placeholder h3{margin:0 0 4px}
+.entity-display-control{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin:10px 0}
+.entity-display-control select,.search-toolbar-2 select{min-width:88px}
+.search-toolbar-2{align-items:center}

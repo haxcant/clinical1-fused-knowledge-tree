@@ -6,10 +6,10 @@
 <title>臨床一融合大資料庫</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="styles.css?v=5.6.9-L11-guide" />
-<link rel="stylesheet" href="modules/knowledge_tree_styles_v3.css?v=5.6.8-L11" />
-<link rel="stylesheet" href="modules/pivot_analysis_styles_v3.css?v=5.6.8-L11" />
-<link rel="stylesheet" href="modules/structured_modules_styles_v3.css?v=5.6.8-L11" />
+<link rel="stylesheet" href="styles.css?v=public-v2" />
+<link rel="stylesheet" href="modules/knowledge_tree_styles_v3.css?v=public-v2" />
+<link rel="stylesheet" href="modules/pivot_analysis_styles_v3.css?v=public-v2" />
+<link rel="stylesheet" href="modules/structured_modules_styles_v3.css?v=public-v2" />
 </head>
 <body>
 <div class="app-shell">
@@ -39,33 +39,33 @@
     <section class="hero"><h2 id="pageTitle">導覽頁</h2><p id="pageSub">功能總覽：先看每個頁面能做什麼，再進入搜尋、出題、知識樹或資料頁。</p></section>
     <section id="tab-guide" class="tab active"><div id="guideRoot"></div></section>
     <section id="tab-search" class="tab"><div id="searchRoot"></div></section>
-    <section id="tab-learning" class="tab"><div id="learningRoot" class="module-frame card"><div class="spinner">學習頁尚未載入。</div></div></section>
-    <section id="tab-entity" class="tab"><div id="entityRoot" class="card">尚未選擇節點。</div></section>
-    <section id="tab-tree" class="tab"><div id="knowledgeTreeRoot" class="tree-frame card"><div class="spinner">知識樹尚未載入。</div></div></section>
-    <section id="tab-relationGraph" class="tab"><div id="relationGraphRoot" class="tree-frame card"><div class="spinner">關係圖尚未載入。</div></div></section>
-    <section id="tab-quiz" class="tab"><div id="quizRoot"></div></section>
-    <section id="tab-qhotspot" class="tab"><div id="questionHotspotRoot" class="pivot-frame card"><div class="spinner">考題熱點尚未載入。</div></div></section>
-    <section id="tab-pivot" class="tab"><div id="pivotRoot" class="pivot-frame card"><div class="spinner">樞紐分析尚未載入。</div></div></section>
-    <section id="tab-formulaTools" class="tab"><div id="formulaToolsRoot" class="module-frame card"><div class="spinner">方劑工具尚未載入。</div></div></section>
-    <section id="tab-shanghan" class="tab"><div id="shanghanRoot" class="module-frame card"><div class="spinner">傷寒論資料尚未載入。</div></div></section>
-    <section id="tab-jingui" class="tab"><div id="jinguiRoot" class="module-frame card"><div class="spinner">金匱要略資料尚未載入。</div></div></section>
-    <section id="tab-wenbing" class="tab"><div id="wenbingRoot" class="module-frame card"><div class="spinner">溫病學資料尚未載入。</div></div></section>
-    <section id="tab-zhengzhi" class="tab"><div id="zhengzhiRoot" class="module-frame card"><div class="spinner">證治學模組尚未載入。</div></div></section>
-    <section id="tab-diagnosis" class="tab"><div id="diagnosisRoot" class="module-frame card"><div class="spinner">診斷學模組尚未載入。</div></div></section>
+    <section id="tab-learning" class="tab"><div id="learningRoot" class="module-frame card light-placeholder"><h3>學習頁</h3><p class="muted">整理五本書的章節脈絡、方證重點與題型樣本。開啟後才載入完整資料，減少初始等待。</p></div></section>
+    <section id="tab-entity" class="tab"><div id="entityRoot" class="card light-placeholder"><h3>節點頁</h3><p class="muted">預設顯示桂枝湯，並可調整相關考題、章節來源與關係資料的顯示筆數。</p></div></section>
+    <section id="tab-tree" class="tab"><div id="knowledgeTreeRoot" class="tree-frame card light-placeholder"><h3>知識樹</h3><p class="muted">依五本書章節綱目查看資料與指定範圍出題。開啟頁面後再載入樹狀資料。</p></div></section>
+    <section id="tab-relationGraph" class="tab"><div id="relationGraphRoot" class="tree-frame card light-placeholder"><h3>關係圖</h3><p class="muted">預設以桂枝湯作為中心節點，開啟後才繪製關係網路以降低卡頓。</p></div></section>
+    <section id="tab-quiz" class="tab"><div id="quizRoot"><div class="card light-placeholder"><h3>考題系統</h3><p class="muted">預設以桂枝湯搜尋相關題目，初始題數 30 題，可改為全部符合題目。</p></div></div></section>
+    <section id="tab-qhotspot" class="tab"><div id="questionHotspotRoot" class="pivot-frame card light-placeholder"><h3>考題熱點</h3><p class="muted">預設顯示前 30 筆高頻考點，避免手機一次渲染過多資料。</p></div></section>
+    <section id="tab-pivot" class="tab"><div id="pivotRoot" class="pivot-frame card light-placeholder"><h3>樞紐分析</h3><p class="muted">用表格與圖表查看題目、選項與章節統計；開啟後才載入分析資料。</p></div></section>
+    <section id="tab-formulaTools" class="tab"><div id="formulaToolsRoot" class="module-frame card light-placeholder"><h3>方劑工具</h3><p class="muted">可查組成、類方、變方、方族與反查。開啟工具時再載入方劑資料。</p></div></section>
+    <section id="tab-shanghan" class="tab"><div id="shanghanRoot" class="module-frame card light-placeholder"><h3>傷寒論</h3><p class="muted">依六經、條文、方證、禁例與兼證查看資料與出題。</p></div></section>
+    <section id="tab-jingui" class="tab"><div id="jinguiRoot" class="module-frame card light-placeholder"><h3>金匱要略</h3><p class="muted">依篇章、病證、方劑與婦人病等範圍查看資料與出題。</p></div></section>
+    <section id="tab-wenbing" class="tab"><div id="wenbingRoot" class="module-frame card light-placeholder"><h3>溫病學</h3><p class="muted">依病因、衛氣營血、三焦、病種、治法與方劑查看資料。</p></div></section>
+    <section id="tab-zhengzhi" class="tab"><div id="zhengzhiRoot" class="module-frame card light-placeholder"><h3>證治學</h3><p class="muted">依病證、證型、症狀、病機、治法與主方查看資料。</p></div></section>
+    <section id="tab-diagnosis" class="tab"><div id="diagnosisRoot" class="module-frame card light-placeholder"><h3>診斷學</h3><p class="muted">依四診、八綱、氣血、臟腑、六淫痰食等分類查看診斷資料。</p></div></section>
     <section id="tab-health" class="tab"><div id="healthRoot"></div></section>
   </main>
 </div>
-<script src="modules/lazy_data_loader_l11.js?v=L11-COMPLETE"></script>
+<script src="modules/lazy_data_loader_l11.js?v=public-v2"></script>
 <script src="modules/search_engine_v3.js"></script>
-<script src="modules/knowledge_tree_data_adapter.js?v=5.6.8-L11"></script>
-<script src="modules/knowledge_tree_module_v3.js?v=5.6.8-L11"></script>
+<script src="modules/knowledge_tree_data_adapter.js?v=public-v2"></script>
+<script src="modules/knowledge_tree_module_v3.js?v=public-v2"></script>
 <script src="modules/bar_chart_module_v3.js"></script>
-<script src="modules/pivot_analysis_module_v3.js?v=5.6.8-L11"></script>
+<script src="modules/pivot_analysis_module_v3.js?v=public-v2"></script>
 <script src="modules/zhengzhi_module_v3.js"></script>
 <script src="modules/diagnosis_module_v3.js"></script>
 <script src="modules/source_pages_module_v3.js"></script>
-<script src="modules/formula_tools_module_v3.js?v=5.6.8-L11"></script>
-<script src="modules/question_hotspot_module_v3.js?v=5.6.8-L11"></script>
-<script src="modules/learning_page_module_v5.js?v=5.6.8-L11"></script>
-<script src="app.js?v=5.6.9-L11-guide"></script>
+<script src="modules/formula_tools_module_v3.js?v=public-v2"></script>
+<script src="modules/question_hotspot_module_v3.js?v=public-v2"></script>
+<script src="modules/learning_page_module_v5.js?v=public-v2"></script>
+<script src="app.js?v=public-v2"></script>
 </body></html>

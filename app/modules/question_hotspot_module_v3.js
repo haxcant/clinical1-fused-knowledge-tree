@@ -26,7 +26,7 @@
       this.metric='questions';
       this.peerMode='observed';
       this.alpha=0.05;
-      this.displayLimit=160;
+      this.displayLimit=30;
       this.sortDir='desc';
       this.sortBy='weighted_score';
       this.quiz=null;
@@ -71,7 +71,7 @@
           <label>考題位置<select id="qh-pos">${['answer','distractor','stem','all'].map(p=>`<option value="${p}">${label[p]}</option>`).join('')}</select></label>
           <label>排序依據<select id="qh-sort-by"><option value="weighted_score">加權分數</option><option value="question_count">題數</option><option value="canonical_name">名稱</option></select></label>
           <label>排序方向<select id="qh-sort-dir"><option value="desc">高頻 → 低頻</option><option value="asc">低頻 → 高頻</option></select></label>
-          <label>顯示筆數<select id="qh-limit"><option value="30">30</option><option value="60">60</option><option value="100">100</option><option value="160" selected>160</option><option value="300">300</option><option value="500">500</option><option value="all">全部</option></select></label>
+          <label>顯示筆數<select id="qh-limit"><option value="30" selected>30</option><option value="60">60</option><option value="100">100</option><option value="160">160</option><option value="300">300</option><option value="500">500</option><option value="all">全部</option></select></label>
           <label>列表搜尋<input id="qh-filter" placeholder="搜尋熱點名稱，例如 桂枝湯、小柴胡湯、痰熱" /></label>
           <button class="btn primary" id="qh-run">更新列表</button>
         </div>
@@ -162,7 +162,7 @@
       this.sortBy=get('#qh-sort-by',this.sortBy);
       this.sortDir=get('#qh-sort-dir',this.sortDir);
       const limVal=get('#qh-limit',Number.isFinite(this.displayLimit)?String(this.displayLimit):'all');
-      this.displayLimit=limVal==='all'?Infinity:(Number(limVal)||160);
+      this.displayLimit=limVal==='all'?Infinity:(Number(limVal)||30);
     }
 
     update(){
