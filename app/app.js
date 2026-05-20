@@ -3,7 +3,7 @@
 const $=(s,r=document)=>r.querySelector(s), $$=(s,r=document)=>Array.from(r.querySelectorAll(s));
 const state={cache:{},searchEngine:null,quiz:null,currentScope:{},currentExam:[],wrongBook:[],stats:{done:0,correct:0},relationGraph:null,lastEntityId:null,nav:{back:[],forward:[],current:{kind:'tab',tab:'guide'},restoring:false}};
 const titles={
- guide:['導覽頁','功能總覽：先看每個頁面能做什麼，再進入搜尋、出題、知識樹或資料頁。'],
+ guide:['導覽頁','功能總覽：說明各頁面用途，並提供搜尋、出題、知識樹與資料頁入口。'],
  search:['搜尋入口','Search v3：節點、章節、題目、條文、表格列分群搜尋。'],
  learning:['學習頁','L11 slim：五本書學習入口、章節路徑、方劑方證要點與考生化鑑別。'],
  entity:['節點頁','統一 entity page：有資料就顯示，沒有就略過；接 L4.5 方劑本體。'],
@@ -111,15 +111,15 @@ async function renderGuidePage(){
   ];
   const workflow=[
     {name:'快速查資料',steps:['到「搜尋入口」輸入關鍵字','從結果開「節點頁」或「題目」','需要更多脈絡時再開「關係圖」']},
-    {name:'照 PDF 綱目出題',steps:['到「知識樹」選五本書綱目','點章、節、小節的出題按鈕','進入「考題系統」後確認指定題組數量']},
-    {name:'分析高頻考點',steps:['先看「考題熱點」或「樞紐分析」','找高頻正解與干擾選項','點節點後進入考題或關係圖驗證']},
+    {name:'照 PDF 綱目出題',steps:['到「知識樹」選五本書綱目','點選章、節、小節的出題按鈕','進入「考題系統」後確認指定題組數量']},
+    {name:'分析高頻考點',steps:['先看「考題熱點」或「樞紐分析」','找高頻正解與干擾選項','開啟節點後進入考題或關係圖驗證']},
     {name:'讀單本書',steps:['進入傷寒／金匱／溫病／證治／診斷資料頁','依章節瀏覽 PDF 綱目與內容','再用該章節或相關節點出題']}
   ];
   root.innerHTML=`
     <div class="guide-hero card">
       <div>
         <h2>功能導覽</h2>
-        <p>這個頁面是使用說明首頁。先依需求選功能：查資料、照綱目出題、看知識圖譜、分析考點，或進入五本書資料頁。</p>
+        <p>本頁提供功能總覽，可依需求進入資料查詢、綱目出題、知識圖譜、考點分析或五本書資料頁。</p>
         <div class="chip-list"><span class="chip">先搜尋</span><span class="chip">再開節點</span><span class="chip">可由綱目出題</span><span class="chip">資料頁與考題聯動</span></div>
       </div>
       <div class="guide-quick-actions">
@@ -150,7 +150,7 @@ function renderResult(h){
   return `<article class="card result-card"><div class="result-title"><div><b>${esc(h.title)}</b><div class="muted"><span class="result-doc-type">${esc(docTypeZh(h.doc_type))}</span>｜${esc(h.subtitle||h.source||'')}｜相關度 ${Math.round(h.score||0)}</div></div>${btn}</div><p>${esc(short(h.body||h.text,260))}</p>${note?`<p class="muted">${esc(note)}</p>`:''}<div>${(h.reasons||[]).slice(0,4).map(r=>`<span class="chip">${esc(r)}</span>`).join('')}</div></article>`;
 }
 
-async function openEntity(id, record=true){state.lastEntityId=id; if(state.relationGraph&&state.relationGraph.state){state.relationGraph.state.selectedEntity=id;} if(record)commitSnapshot(makeSnapshot('entity',{id})); switchTab('entity'); const root=$('#entityRoot'); root.innerHTML='<div class="card">載入節點頁…</div>'; const p=await loadEntityPageL11(id); if(!p){root.innerHTML=`<div class="card"><h3>找不到節點</h3><p class="muted">節點 id：${esc(id)}</p><p>這代表該按鈕已觸發，但資料庫尚未建立可開啟的節點頁；可改用全庫搜尋追資料。</p><button class="btn primary" data-run-search="${esc(id)}">搜尋此 id</button></div>`;return} const ft=await loadJSON('data/formula_tools_payload_v3_1.json').catch(()=>({formula_blocks:{},zhengzhi_rows:[],wenbing_rows:[]})); const fblocks=ft.formula_blocks||await loadJSON('data/formula/formula_page_blocks_v3.json').catch(()=>({})); root.innerHTML=renderEntityPage(p,fblocks[id],ft);}
+async function openEntity(id, record=true){state.lastEntityId=id; if(state.relationGraph&&state.relationGraph.state){state.relationGraph.state.selectedEntity=id;} if(record)commitSnapshot(makeSnapshot('entity',{id})); switchTab('entity'); const root=$('#entityRoot'); root.innerHTML='<div class="card">載入節點頁…</div>'; const p=await loadEntityPageL11(id); if(!p){root.innerHTML=`<div class="card"><h3>找不到節點</h3><p class="muted">節點 id：${esc(id)}</p><p>該按鈕已觸發，但資料庫尚未建立可開啟的節點頁；可改用全庫搜尋追資料。</p><button class="btn primary" data-run-search="${esc(id)}">搜尋此 id</button></div>`;return} const ft=await loadJSON('data/formula_tools_payload_v3_1.json').catch(()=>({formula_blocks:{},zhengzhi_rows:[],wenbing_rows:[]})); const fblocks=ft.formula_blocks||await loadJSON('data/formula/formula_page_blocks_v3.json').catch(()=>({})); root.innerHTML=renderEntityPage(p,fblocks[id],ft);}
 function renderEntityPage(p,fb,ft={}){const qstat=p.question_location_counts||{}; const qsample=p.questions_sample||[]; const sections=p.sections_sample||[]; const out=p.relations_out_sample||[], inn=p.relations_in_sample||[]; const ext=p.fused_v3_extension_refs||{}; return `<div class="entity-head"><div><h2 class="entity-title">${esc(p.name)}</h2><div><span class="badge">${esc(p.type)}</span>${(p.aliases||[]).slice(0,10).map(a=>`<span class="chip">${esc(a)}</span>`).join('')}</div></div><div class="entity-actions"><button class="btn primary" data-quiz-scope='${esc(JSON.stringify({entity_id:p.canonical_id,layer:'official_exam'}))}'>以此節點出題</button><button class="btn" data-tree-entity="${esc(p.canonical_id)}">看中心網路</button><button class="btn" data-hotspot-test="${esc(p.canonical_id)}">考頻檢定</button><button class="btn" data-run-search="${esc(p.name)}">全庫搜尋</button>${String(p.type||'').includes('formula')||fb?`<button class="btn" data-formula-action="reverse" data-formula-query="${esc(p.name)}">方劑反查</button><button class="btn" data-formula-action="diff" data-formula-query="${esc(p.name)}">類方鑑別</button><button class="btn" data-formula-action="variants" data-formula-query="${esc(p.name)}">變體／條件式處方</button>`:''}</div></div><div class="grid entity-section"><div class="card soft"><b>考題位置</b><p>正解 ${esc(qstat.answer||0)}｜干擾 ${esc(qstat.distractor||0)}｜題幹 ${esc(qstat.stem||0)}</p></div><div class="card soft"><b>延伸資料</b><p>證治 ${(ext.zhengzhi_row_ids||[]).length}｜溫病 ${(ext.wenbing_state_row_ids||[]).length}｜source refs ${(p.source_ref_ids||[]).length}</p></div></div>${fb?renderFormulaBlock(fb):''}${renderExtensionRefs(ext,ft)}<div class="split entity-section"><div class="card"><h3>相關考題</h3>${qsample.slice(0,12).map(renderQuestionFromEvent).join('')||'<p class="muted">無樣本。</p>'}</div><div class="card"><h3>章節來源</h3>${sections.slice(0,12).map(s=>`<div class="source-row">${esc(s.section_title)}<div class="muted">${esc(s.book_id_y||s.book_id)} p.${esc(s.page_start||'')}</div></div>`).join('')||'<p class="muted">無章節樣本。</p>'}</div></div><div class="split entity-section"><div class="card"><h3>下游關係</h3>${out.slice(0,16).map(renderRel).join('')||'<p class="muted">無。</p>'}</div><div class="card"><h3>上游關係</h3>${inn.slice(0,16).map(renderRel).join('')||'<p class="muted">無。</p>'}</div></div>`;}
 
 function arrField(v,k){const x=v&&v[k]; if(Array.isArray(x))return x.filter(Boolean); if(!x)return []; return String(x).split(/[、,，；;|]/).map(s=>s.trim()).filter(Boolean);}
@@ -380,7 +380,7 @@ function gradePaper(){
       if(label===val && !ok) opt.classList.add('selected-wrong');
       if(label===val && ok) opt.classList.add('selected-correct');
     });
-    row.insertAdjacentHTML('beforeend',`<div class="grade-card ${ok?'ok':'bad'}"><b>${ok?'正確':'錯誤'}</b><span>你的答案：${esc(val||'未作答')}</span><span>正解：${esc(correctLabels.join('/') || q.answer_label || '待補')} ${esc(q.answer_text)}</span><div class="grade-links">${(q.entity_ids||[]).slice(0,10).map(id=>`<button class="btn" data-open-entity="${esc(id)}">${esc(entityNameL11(id))}</button>`).join('')}</div></div>`);
+    row.insertAdjacentHTML('beforeend',`<div class="grade-card ${ok?'ok':'bad'}"><b>${ok?'正確':'錯誤'}</b><span>作答：${esc(val||'未作答')}</span><span>正解：${esc(correctLabels.join('/') || q.answer_label || '待補')} ${esc(q.answer_text)}</span><div class="grade-links">${(q.entity_ids||[]).slice(0,10).map(id=>`<button class="btn" data-open-entity="${esc(id)}">${esc(entityNameL11(id))}</button>`).join('')}</div></div>`);
   });
   state.stats.done=(state.stats.done||0)+state.currentExam.length;
   state.stats.correct=(state.stats.correct||0)+correct;
@@ -429,7 +429,7 @@ document.addEventListener('click',async e=>{const prev=e.target.closest('#global
 function bindGlobal(target){target.addEventListener('clinical1:entity-selected',e=>{if(e.detail?.entity_id)openEntity(e.detail.entity_id)});target.addEventListener('clinical1:question-selected',e=>{if(e.detail?.question_id)openQuestion(e.detail.question_id)});target.addEventListener('clinical1:quiz-scope-requested',e=>{window.startQuizByScope(e.detail||{})});target.addEventListener('clinical1:pivot-row-selected',e=>{const d=e.detail||{};if(d.entity_id)openEntity(d.entity_id);else if(d.canonical_id)openEntity(d.canonical_id);else if(d.answer_formula_id)openEntity(d.answer_formula_id)});} bindGlobal(window);bindGlobal(document);
 $('#themeSelect').onchange=e=>document.documentElement.dataset.theme=e.target.value; $$('#navTabs button').forEach(b=>b.onclick=(ev)=>{ev.preventDefault(); ev.stopPropagation(); navigateTab(b.dataset.tab);}); renderGuidePage(); initSearch().catch(e=>{
   const root=document.querySelector('#searchRoot');
-  if(root){root.innerHTML=`<div class="card"><h3>首頁載入失敗</h3><p>通常是沒有用本機伺服器啟動，或目前網址/port 指到錯的資料夾。</p><pre>${esc(e.stack||e.message||e)}</pre><p class="muted">請關掉舊的啟動視窗後，重新執行 00_START_CLINICAL1_FUSED_L11.bat，並開啟 http://127.0.0.1:8756/app/index.html。</p></div>`;}
+  if(root){root.innerHTML=`<div class="card"><h3>首頁載入失敗</h3><p>通常是沒有用本機伺服器啟動，或目前網址/port 指到錯的資料夾。</p><pre>${esc(e.stack||e.message||e)}</pre><p class="muted">請確認網站已由 HTTP 伺服器或 GitHub Pages 正常提供服務，並確認網址指向專案根目錄。</p></div>`;}
   console.error(e);
 });
 })();
