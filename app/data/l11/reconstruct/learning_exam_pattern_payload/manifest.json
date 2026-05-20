@@ -1,0 +1,35 @@
+{
+  "name": "learning_exam_pattern_payload",
+  "original_path": "data/learning_exam_pattern_payload_v5_0a.json",
+  "base": "base.json",
+  "merge": [
+    {
+      "key": "formula_cards",
+      "mode": "list_extend",
+      "files": [
+        "formula_cards_0000.json"
+      ],
+      "count": 619
+    },
+    {
+      "key": "pattern_disease_cards",
+      "mode": "list_extend",
+      "files": [
+        "pattern_disease_cards_0000.json"
+      ],
+      "count": 278
+    },
+    {
+      "key": "comparison_index",
+      "mode": "dict_update",
+      "files": [
+        "comparison_index_0000.json",
+        "comparison_index_0001.json",
+        "comparison_index_0002.json"
+      ],
+      "count": 5
+    }
+  ],
+  "source_sha16": "752f0c74ded045a8",
+  "source_bytes": 25833842
+}

@@ -1,0 +1,476 @@
+﻿link_id,clause_master_id,book_id,clause_no,formula_name,formula_canonical_id,relation_type,evidence_text,source_pdf_pages
+k3_clause_formula_33939e9f90,clause_jg_c9be4800a5,jingui,37.0,大承氣湯,can_b8804ab23f,classic_clause_uses_formula,下利，三部脈皆平，按之心下堅者，急下之，宜大承氣湯。(37),122
+k3_clause_formula_67d66e7e8e,clause_jg_e2d149f051,jingui,38.0,大承氣湯,can_b8804ab23f,classic_clause_uses_formula,下利脈遲而滑者，實也，利未欲止，急下之，宜大承氣湯。(38),122
+k3_clause_formula_b804f3537d,clause_jg_aad88ccc2f,jingui,39.0,大承氣湯,can_b8804ab23f,classic_clause_uses_formula,下利脈反滑者，當有所去，下乃愈，宜大承氣湯。(39),122
+k3_clause_formula_cf1a794ea5,clause_jg_602ab7b6fb,jingui,40.0,大承氣湯,can_b8804ab23f,classic_clause_uses_formula,下利已差，至其年月日時復發者，以病不盡故也。當下之，宜大承氣湯。(40),122
+k3_clause_formula_47acd008b4,clause_jg_cdced7aed6,jingui,41.0,小承氣湯,can_fac67569c9,classic_clause_uses_formula,下利譫語者，有燥屎也，小承氣湯主之。(41),122
+k3_clause_formula_433b22beae,clause_jg_1f83c7c085,jingui,42.0,桃花湯,can_4f746eced5,classic_clause_uses_formula,下利便膿血者、桃花湯主之。(42),122
+k3_clause_formula_a0f46554e0,clause_jg_7f6f5375aa,jingui,43.0,白頭翁湯,can_922833cbb5,classic_clause_uses_formula,熱利下重者，白頭翁湯主之。(43),122
+k3_clause_formula_b0685a0531,clause_jg_888d58f2c7,jingui,45.0,通脈四逆湯,can_eaa4fac2c8,classic_clause_uses_formula,下利清穀，裏寒外熱，汗出而厥者，通脈四逆湯主之。(45),122
+k3_clause_formula_6d5543b3ee,clause_jg_d5f3db3bcf,jingui,47.0,訶黎勒散,can_72d716e5f7,classic_clause_uses_formula,氣利，訶黎勒散主之。(47),122
+k3_clause_formula_74f9f31e09,clause_jg_505077ce20,jingui,,桂枝湯,can_2849adeebb,classic_clause_uses_formula,下利腹脹滿，身體疼痛者，先溫其裏，乃攻其表。溫裏宜四逆湯，攻表宜桂枝湯。,122
+k3_clause_formula_1eefad990a,clause_jg_505077ce20,jingui,,四逆湯,can_4bd7a9684a,classic_clause_uses_formula,下利腹脹滿，身體疼痛者，先溫其裏，乃攻其表。溫裏宜四逆湯，攻表宜桂枝湯。,122
+k3_clause_formula_d9707e4b74,clause_jg_895c8d980f,jingui,44.0,梔子豉湯,can_2482e4b13d,classic_clause_uses_formula,下利後更煩，按之心下濡者，為虛煩也，梔子豉湯主之。(44),123
+k3_clause_formula_9c8880a13e,clause_jg_af3938217f,jingui,46.0,紫參湯,can_b18a13f6c2,classic_clause_uses_formula,下利肺痛，紫參湯主之。(46),123
+k3_clause_formula_3cbf96f7cf,clause_jg_fe57c220f6,jingui,15.0,黃土湯,can_d21b4c22dd,classic_clause_uses_formula,下血，先便後血，此遠血也，黃土湯主之。(15),109
+k3_clause_formula_b067c85d4d,clause_jg_1434e397f7,jingui,16.0,赤小豆當歸散,can_22f9c07268,classic_clause_uses_formula,本條論述虛寒便血的證治。 下血，大便在先，便後出血，血來自直腸以上的部位， 稱為「遠血」。 多由中焦脾氣虛寒，統攝無權而血下滲所致。 下血，先血後便，此近血也，赤小豆當歸散主之。(16),109
+k3_clause_formula_c615e2f7e1,clause_jg_30a97b2ba5,jingui,7.0,旋覆花湯,can_6a20369ddb,classic_clause_uses_formula,肝著，其人常欲蹈其胸上，先未苦時，但欲飲熱，旋覆花湯主之。臣億等校諸本旋覆花 湯方，皆同。(7),65
+k3_clause_formula_44221a22c5,clause_jg_392339a05f,jingui,15.0,麻子仁丸,can_c55bf7f8a9,classic_clause_uses_formula,趺陽脈浮而澀，浮則胃氣強，澀則小便數，浮澀相搏，大便則堅，其脾為約， 麻子仁丸主之。(15),65
+k3_clause_formula_1be58988d5,clause_jg_1c82bbae4e,jingui,16.0,甘薑苓朮湯,can_9336ee8e50,classic_clause_uses_formula,腎著之病，其人身體重，腰中冷，如坐水中，形如水狀，反不渴，小便自利，飲食 如故，病屬下焦，身勞汗出，衣一作表裏冷濕，久久得之，腰以下冷痛，腹重如帶 五千錢，甘薑苓朮湯主之。(16),65
+k3_clause_formula_69835a1855,clause_jg_1729f5677e,jingui,14.0,柏葉湯,can_22850559b7,classic_clause_uses_formula,吐血不止者，柏葉湯主之。(14),106
+k3_clause_formula_1580bcfe84,clause_jg_df21561164,jingui,17.0,瀉心湯,can_1a91e01bb6,classic_clause_uses_formula,心氣不足，吐血、衄血，瀉心湯主之。(17),106
+k3_clause_formula_d1657c2648,clause_jg_6ba8c89cf1,jingui,6.0,射干麻黃湯,can_a395e5b3b3,classic_clause_uses_formula,咳而上氣，喉中水雞聲，射干麻黃湯主之。(6),45
+k3_clause_formula_20e3c2842a,clause_jg_6471c3a325,jingui,7.0,皂莢丸,can_50eca2140f,classic_clause_uses_formula,痰氣為病 咳逆上氣，時時吐濁，但坐不得眠，皂莢丸主之。(7),45
+k3_clause_formula_89e52a0392,clause_jg_4b12b4c901,jingui,8.0,厚朴麻黃湯,can_987fd2d512,classic_clause_uses_formula,風寒病外 咳而脈浮者，厚朴麻黃湯主之。(8),45
+k3_clause_formula_fc361dbdb9,clause_jg_07d935c9cd,jingui,9.0,澤漆湯,can_b2ca4cdedd,classic_clause_uses_formula,痰飲病內 脈沈者，澤漆湯主之。(9),45
+k3_clause_formula_c1b4134e20,clause_jg_a422d273c8,jingui,13.0,越婢加半夏湯,can_4bc4dfa755,classic_clause_uses_formula,氣逆肺脹 咳而上氣，此為肺脹，其人喘，目如脫狀，脈浮大者，越婢加半夏湯主之。(13),45
+k3_clause_formula_87db07901c,clause_jg_4d481de3db,jingui,14.0,小青龍加石膏湯,can_738e7dea8a,classic_clause_uses_formula,水氣肺脹 肺脹，咳而上氣，煩躁而喘，脈浮者，心下有水，小青龍加石膏湯主之。(14),45
+k3_clause_formula_88f5e7e3a0,clause_jg_063f49fd1e,jingui,8.0,茱萸湯,can_1ac5dea113,classic_clause_uses_formula,嘔而胸滿者，茱萸湯主之。(8),112
+k3_clause_formula_66fb1b85d0,clause_jg_32ab1cdf63,jingui,9.0,茱萸湯,can_1ac5dea113,classic_clause_uses_formula,乾嘔，吐涎沫，頭痛者，茱萸湯主之。(9),112
+k3_clause_formula_964af82c38,clause_jg_fed6ebe592,jingui,10.0,半夏瀉心湯,can_f7fe3e3a3d,classic_clause_uses_formula,嘔而腸鳴，心下痞者，半夏瀉心湯主之。(10),112
+k3_clause_formula_1bb7068a24,clause_jg_88bb3e48e2,jingui,11.0,黃芩加半夏生薑湯,can_9108e059f2,classic_clause_uses_formula,乾嘔而利者，黃芩加半夏生薑湯主之。(11),112
+k3_clause_formula_f2654dc013,clause_jg_0721ce2b42,jingui,12.0,小半夏湯,can_f51682eb9f,classic_clause_uses_formula,諸嘔吐，穀不得下者，小半夏湯主之。(12),112
+k3_clause_formula_644895bfe3,clause_jg_65b7438bc2,jingui,14.0,四逆湯,can_4bd7a9684a,classic_clause_uses_formula,嘔而脈弱，小便復利，身有微熱，見厥者，難治，四逆湯主之。(14),112
+k3_clause_formula_4d02c83aea,clause_jg_dc4023dbf1,jingui,15.0,小柴胡湯,can_1a0df3ae93,classic_clause_uses_formula,嘔而發熱者，小柴胡湯主之。(15),112
+k3_clause_formula_200608201b,clause_jg_b0161fd5fc,jingui,16.0,大半夏湯,can_ac6aa9ff6c,classic_clause_uses_formula,胃反嘔吐者，大半夏湯主之。《千金》云：治胃反不受食，食入即吐。《外臺》云：治嘔，心下痞硬者。(16),112
+k3_clause_formula_c60245be6c,clause_jg_66529c4c33,jingui,17.0,大黃甘草湯,can_2b5d00f7b0,classic_clause_uses_formula,食已即吐者，大黃甘草湯主之。《外臺》方，又治吐水。(17),112
+k3_clause_formula_6cc9697efb,clause_jg_257dc1d24f,jingui,18.0,茯苓澤瀉湯,can_5824cc8cfa,classic_clause_uses_formula,胃反，吐而渴欲飲水者，茯苓澤瀉湯主之。(18),112
+k3_clause_formula_f95693d8db,clause_jg_1ca45c4249,jingui,19.0,文蛤湯,can_478a8d49e4,classic_clause_uses_formula,吐後，渴欲得水而貪飲者，文蛤湯主之。兼主微風、脈緊、頭痛。(19),112
+k3_clause_formula_04b0806df6,clause_jg_90af7aee6b,jingui,20.0,半夏乾薑散,can_21b8a435c7,classic_clause_uses_formula,乾嘔，吐逆，吐涎沫，半夏乾薑散主之。(20),112
+k3_clause_formula_828b3664a9,clause_jg_f79900b1e3,jingui,,生薑半夏湯,can_6006a2e5b2,classic_clause_uses_formula,病人胸中似喘不喘，似嘔不嘔，似噦不噦，徹心中憒憒然無奈者，生薑半夏湯主之。,112
+k3_clause_formula_9feb2d527d,clause_jg_bdf89f5b78,jingui,22.0,橘皮湯,can_5a61ca3088,classic_clause_uses_formula,乾嘔、噦，若手足厥者，橘皮湯主之。(22),120
+k3_clause_formula_e5de9b62b5,clause_jg_6d7671f48b,jingui,23.0,橘皮竹茹湯,can_4da66939b9,classic_clause_uses_formula,噦逆者，橘皮竹茹湯主之。(23),120
+k3_clause_formula_3be74dfe3f,clause_jg_4752396fdf,jingui,2.0,奔豚湯,can_975ed4b01d,classic_clause_uses_formula,奔豚氣上衝胸，腹痛，往來寒熱，奔豚湯主之。(2),50
+k3_clause_formula_5dff9938bf,clause_jg_cb898be5bd,jingui,3.0,桂枝加桂湯,can_e4355f999b,classic_clause_uses_formula,發汗後，燒鍼令其汗，鍼處被寒，核起而赤者，必發奔豚，氣從少腹上至心，灸其核上各 一壯，與桂枝加桂湯主之。(3),50
+k3_clause_formula_015ba5dd60,clause_jg_f9ca91c7b3,jingui,4.0,茯苓桂枝甘草大棗湯,can_debdfbf1b5,classic_clause_uses_formula,發汗後，臍下悸者，欲作奔豚，茯苓桂枝甘草大棗湯主之。(4),50
+k3_clause_formula_06a0f18b8c,clause_jg_3e4d4ff15f,jingui,1.0,桂枝湯,can_2849adeebb,classic_clause_uses_formula,師曰：婦人得平脈，陰脈小弱，其人渴，不能食，無寒熱，名妊娠，桂枝湯主之。 於法六十日當有此證；設有醫治逆者，卻一月加吐下者，則絕之。(1),132
+k3_clause_formula_5e0c23f9c5,clause_jg_a47c8a6650,jingui,2.0,桂枝茯苓丸,can_357e549ae3,classic_clause_uses_formula,婦人宿有癥病，經斷未及三月，而得漏下不止，胎動在臍上者，為癥痼害。 妊娠六月動者，前三月經水利時，胎也。 下血者，後斷三月衃也。 所以血不止者，其癥不去故也，當下其癥，桂枝茯苓丸主之。(2),132
+k3_clause_formula_5e65f2f4dc,clause_jg_fdc8695a10,jingui,3.0,附子湯,can_4da6dea6c5,classic_clause_uses_formula,婦人懷娠六七月，脈弦發熱，其胎愈脹，腹痛惡寒者，少腹如扇，所以然者，子臟開故也，當以 附子湯溫其臟。方未見。(3),132
+k3_clause_formula_479985dfd7,clause_jg_267c2a8fba,jingui,5.0,當歸芍藥散,can_bbaa8d330a,classic_clause_uses_formula,婦人懷妊，腹中㽲痛，當歸芍藥散主之。(5),132
+k3_clause_formula_ffb6b73d44,clause_jg_b2303ee11c,jingui,6.0,乾薑人參半夏丸,can_bc67e22b6b,classic_clause_uses_formula,妊娠嘔吐不止，乾薑人參半夏丸主之。(6),132
+k3_clause_formula_8f27d3af72,clause_jg_4699c3cd7a,jingui,7.0,當歸貝母苦參丸,can_3d0d53539b,classic_clause_uses_formula,妊娠，小便難，飲食如故，當歸貝母苦參丸主之。(7),132
+k3_clause_formula_5164f73332,clause_jg_be0fa54773,jingui,8.0,葵子茯苓散,can_47d7a863d3,classic_clause_uses_formula,妊娠有水氣，身重，小便不利，洒淅惡寒，起即頭眩，葵子茯苓散主之。(8),132
+k3_clause_formula_7065f8360f,clause_jg_5931cd7583,jingui,9.0,當歸散,can_d8e4f548f9,classic_clause_uses_formula,婦人妊娠，宜常服當歸散主之。(9),132
+k3_clause_formula_547bf00119,clause_jg_033e8ce64b,jingui,10.0,白朮散,can_247f1b5b99,classic_clause_uses_formula,妊娠養胎，白朮散主之。(10),132
+k3_clause_formula_399702fbaf,clause_jg_2f58b0461d,jingui,2.0,小柴胡湯,can_1a0df3ae93,classic_clause_uses_formula,產婦鬱冒，其脈微弱，嘔不能食，大便反堅，但頭汗出。 所以然者，血虛而厥，厥而必冒。冒家欲解，必大汗出。 以血虛下厥，孤陽上出，故頭汗出。 所以產婦喜汗出者，亡陰血虛，陽氣獨盛，故當汗出，陰陽乃復。 大便堅，嘔不能食，小柴胡湯主之。(2),136
+k3_clause_formula_fc01ef985d,clause_jg_f1a5fe47d5,jingui,3.0,大承氣湯,can_b8804ab23f,classic_clause_uses_formula,病解能食，七八日更發熱者，此為胃實，大承氣湯主之。(3),136
+k3_clause_formula_22a6fe4004,clause_jg_ebef9a4c81,jingui,4.0,當歸生薑羊肉湯,can_f63dbab021,classic_clause_uses_formula,產後腹中㽲痛，當歸生薑羊肉湯主之，并治腹中寒疝，虛勞不足。(4),136
+k3_clause_formula_6114e5bb0f,clause_jg_14c61aaf1e,jingui,5.0,枳實芍藥散,can_971dcfe582,classic_clause_uses_formula,產後腹痛，煩滿不得臥，枳實芍藥散主之。(5),136
+k3_clause_formula_3b28ecb67b,clause_jg_7633cb1472,jingui,6.0,枳實芍藥散,can_971dcfe582,classic_clause_uses_formula,產婦腹痛、法當以枳實芍藥散，假令不愈者，此為腹中有瘀血著臍下，宜下瘀血湯主之； 亦主經水不利。(6),136
+k3_clause_formula_ea0156fc88,clause_jg_7633cb1472,jingui,6.0,下瘀血湯,can_9b1ed4476b,classic_clause_uses_formula,產婦腹痛、法當以枳實芍藥散，假令不愈者，此為腹中有瘀血著臍下，宜下瘀血湯主之； 亦主經水不利。(6),136
+k3_clause_formula_2e0aa4dfd5,clause_jg_702eb89687,jingui,7.0,大承氣湯,can_b8804ab23f,classic_clause_uses_formula,產後七八日，無太陽證，少腹堅痛，此惡露不盡；不大便，煩躁發熱、切脈微實，再倍發 熱，日晡時煩躁者，不食，食則譫語，至夜即愈，宜大承氣湯主之。熱在裏，結在膀胱 也。(7),136
+k3_clause_formula_9711a4b8e7,clause_jg_1a1cfaab55,jingui,8.0,桂枝湯,can_2849adeebb,classic_clause_uses_formula,產後風，續之數十日不解，頭微痛，惡寒，時時有熱，心下悶，乾嘔，汗出，雖久，陽旦 證續在耳，可與陽旦湯。即桂枝湯，方見下利中。(8),136
+k3_clause_formula_7ca56437d8,clause_jg_1a1cfaab55,jingui,8.0,陽旦湯,can_702fb263f3,classic_clause_uses_formula,產後風，續之數十日不解，頭微痛，惡寒，時時有熱，心下悶，乾嘔，汗出，雖久，陽旦 證續在耳，可與陽旦湯。即桂枝湯，方見下利中。(8),136
+k3_clause_formula_eeff93be22,clause_jg_0995033ccf,jingui,9.0,竹葉湯,can_4dceaae8e4,classic_clause_uses_formula,產後中風，發熱，面正赤，喘而頭痛，竹葉湯主之。(9),136
+k3_clause_formula_bb3102a041,clause_jg_e2efd0d601,jingui,10.0,竹皮大丸,can_08ea383c3e,classic_clause_uses_formula,婦人乳中虛，煩亂嘔逆，安中益氣，竹皮大丸主之。(10),136
+k3_clause_formula_350f6bda34,clause_jg_89014957c3,jingui,11.0,白頭翁加甘草阿膠湯,can_0e1aca45b9,classic_clause_uses_formula,產後下利虛極，白頭翁加甘草阿膠湯主之。(11),136
+k3_clause_formula_627673f47c,clause_jg_72580713fa,jingui,1.0,小柴胡湯,can_1a0df3ae93,classic_clause_uses_formula,婦人中風，七八日續來寒熱，發作有時，經水適斷，此為熱入血室，其血必結，故使如瘧 狀，發作有時，小柴胡湯主之。(1),142
+k3_clause_formula_a8b6a5d7a4,clause_jg_e33233e058,jingui,5.0,半夏厚朴湯,can_5cbce770ff,classic_clause_uses_formula,婦人咽中如有炙臠，半夏厚朴湯主之。(5),142
+k3_clause_formula_5f31f1a0c2,clause_jg_5f0513a572,jingui,6.0,甘麥大棗湯,can_9903f092e2,classic_clause_uses_formula,婦人臟躁，喜悲傷欲哭，象如神靈所作，數欠伸，甘麥大棗湯主之。(6),142
+k3_clause_formula_b24560b3e4,clause_jg_217d97d770,jingui,7.0,小青龍湯,can_0a5b7e34af,classic_clause_uses_formula,婦人吐涎沫，醫反下之，心下即痞，當先治其吐涎沫，小青龍湯主之；涎沫止，乃治痞， 瀉心湯主之。(7),142
+k3_clause_formula_36de4ecf74,clause_jg_217d97d770,jingui,7.0,瀉心湯,can_1a91e01bb6,classic_clause_uses_formula,婦人吐涎沫，醫反下之，心下即痞，當先治其吐涎沫，小青龍湯主之；涎沫止，乃治痞， 瀉心湯主之。(7),142
+k3_clause_formula_c3ba2d452a,clause_jg_2c4f186727,jingui,9.0,溫經湯,can_79dad92102,classic_clause_uses_formula,問曰：婦人年五十所，病下利數十日不止，暮即發熱，少腹裏急，腹滿，手掌煩熱，唇口 乾燥，何也？ 師曰：此病屬帶下，何以故？曾經半產，瘀血在少腹不去。 何以知之？其證唇口乾燥，故知之。當以溫經湯主之。(9),142
+k3_clause_formula_b47619be93,clause_jg_4130d4ec07,jingui,11.0,旋覆花湯,can_6a20369ddb,classic_clause_uses_formula,寸口脈弦而大，弦則為減，大則為芤，減則為寒，芤則為虛，寒虛相搏，此名曰革，婦人 則半產漏下，旋覆花湯主之。(11),142
+k3_clause_formula_606900b332,clause_jg_3e810aea58,jingui,10.0,土瓜根散,can_2e669b4e32,classic_clause_uses_formula,帶下經水不利，少腹滿痛，經一月再見者，土瓜根散主之。(10),143
+k3_clause_formula_3fd765d9b7,clause_jg_619f8410aa,jingui,13.0,大黃甘遂湯,can_2f623de6a6,classic_clause_uses_formula,婦人少腹滿如敦狀，小便微難而不渴，生後者，此為水與血俱結血室也，大黃甘遂湯主 之。(13),143
+k3_clause_formula_a449b7f907,clause_jg_743f5e1cd3,jingui,14.0,抵當湯,can_65e2755719,classic_clause_uses_formula,婦人經水不利下，抵當湯主之。亦治男子膀胱滿急有瘀血者。(14),143
+k3_clause_formula_447a4e644c,clause_jg_984ef17fca,jingui,15.0,礬石丸,can_cb70c47616,classic_clause_uses_formula,婦人經水閉不利，臟堅癖不止，中有乾血，下白物，礬石丸主之。(15),143
+k3_clause_formula_4ecd488964,clause_jg_a5c15ca50d,jingui,16.0,紅藍花酒,can_a4b1acc0e9,classic_clause_uses_formula,婦人六十二種風，及腹中血氣刺痛，紅藍花酒主之。(16),143
+k3_clause_formula_225b5bc87a,clause_jg_7d39741717,jingui,17.0,當歸芍藥散,can_bbaa8d330a,classic_clause_uses_formula,婦人腹中諸疾痛，當歸芍藥散主之。(17),143
+k3_clause_formula_957f3e1a9c,clause_jg_f061ac0e73,jingui,18.0,小建中湯,can_17b038dbde,classic_clause_uses_formula,婦人腹中痛，小建中湯主之。(18),143
+k3_clause_formula_8a5eb652da,clause_jg_da0d70562b,jingui,20.0,蛇床子散,can_dc102cdb88,classic_clause_uses_formula,蛇床子散方，溫陰中坐藥。(20),143
+k3_clause_formula_4b1f60339d,clause_jg_6028f92c7f,jingui,21.0,狼牙湯,can_ab0e6ee7ba,classic_clause_uses_formula,少陰脈滑而數者，陰中即生瘡，陰中蝕瘡爛者，狼牙湯洗之。(21),143
+k3_clause_formula_b47533ba65,clause_jg_0c5678ebd9,jingui,21.0,大承氣湯,can_b8804ab23f,classic_clause_uses_formula,問曰：人病有宿食，何以別之？ 師曰：寸口脈浮而大，按之反澀，尺中亦微而澀，故知有宿食，大承氣湯主之。(21),64
+k3_clause_formula_a3777d7381,clause_jg_2f24def3bb,jingui,21.0,大承氣湯,can_b8804ab23f,classic_clause_uses_formula,宿食在下：寸口脈浮而大，按之反澀，尺中亦微而澀，故知有宿食，大承氣湯主之。(21),64
+k3_clause_formula_61ef84691b,clause_jg_57a6c01ef2,jingui,22.0,大承氣湯,can_b8804ab23f,classic_clause_uses_formula,脈數而滑者，實也，此有宿食，下之愈，宜大承氣湯。(22),64
+k3_clause_formula_e7b6bfae22,clause_jg_bd1a546b74,jingui,23.0,大承氣湯,can_b8804ab23f,classic_clause_uses_formula,下利不欲食者，有宿食也，當下之，宜大承氣湯。(23),64
+k3_clause_formula_f08e5a8547,clause_jg_102095be24,jingui,24.0,瓜蒂散,can_466f3263b0,classic_clause_uses_formula,宿食在上：宿食在上脘，當吐之，宜瓜蒂散。(24),64
+k3_clause_formula_67a560a761,clause_jg_9bc61a7fa8,jingui,17.0,大烏頭煎,can_669eac28c6,classic_clause_uses_formula,寒疝繞臍痛，若發則白汗出，手足厥冷，其脈沉緊者，大烏頭煎主之。(17),62
+k3_clause_formula_1d3d761dce,clause_jg_e0f8084a79,jingui,18.0,當歸生薑羊肉湯,can_f63dbab021,classic_clause_uses_formula,寒疝腹中痛，及脅痛裏急者，當歸生薑羊肉湯主之。(18),62
+k3_clause_formula_2e6cc6c0d1,clause_jg_1ffa29989e,jingui,19.0,烏頭桂枝湯,can_44bdb5ddeb,classic_clause_uses_formula,寒疝腹中痛，逆冷，手足不仁，若身疼痛，灸刺諸藥不能治，抵當烏頭桂枝湯主之。(19),62
+k3_clause_formula_feeae77eb3,clause_jg_85b8d31062,jingui,26.0,白虎加人參湯,can_29712407d7,classic_clause_uses_formula,太陽中熱者，暍是也。汗出惡寒，身熱而渴，白虎加人參湯主之。(26),19
+k3_clause_formula_76f576a6db,clause_jg_0c238afcc1,jingui,27.0,一物瓜蒂湯,can_5d8516f981,classic_clause_uses_formula,太陽中暍，身熱疼重，而脈微弱，此以夏月傷冷水，水行皮中所致也，一物瓜蒂湯主之。(27),19
+k3_clause_formula_b2c649c083,clause_jg_c6eb3009e1,jingui,8.0,桂枝芍藥知母湯,can_559952c25a,classic_clause_uses_formula,諸肢節疼痛，身體魁羸，腳腫如脫， 頭眩短氣，溫溫欲吐，桂枝芍藥知母湯主之。(8),31
+k3_clause_formula_866a6fb739,clause_jg_8f72a18925,jingui,10.0,烏頭湯,can_a247747e8d,classic_clause_uses_formula,病歷節不可屈伸，疼痛，烏頭湯主之。(10),31
+k3_clause_formula_7437674031,clause_jg_e6bd8568e7,jingui,22.0,防己黃耆湯,can_a26ad2322b,classic_clause_uses_formula,風水，脈浮身重，汗出惡風者，防己黃耆湯主之。腹痛加芍藥。(22),89
+k3_clause_formula_cfc5dd087e,clause_jg_e59ad647df,jingui,23.0,越婢湯,can_1456bfc3e0,classic_clause_uses_formula,風水惡風，一身悉腫，脈浮不渴，續自汗出，無大熱，越婢湯主之。(23),89
+k3_clause_formula_cf467985a8,clause_jg_494ab20d94,jingui,26.0,麻黃附子湯,can_1f90735bbe,classic_clause_uses_formula,水之為病，其脈沉小，屬少陰；浮者為風，無水虛脹者，為氣。水，發其汗即已。 脈沉者宜麻黃附子湯；浮者宜杏子湯。(26),89
+k3_clause_formula_6e460e5c21,clause_jg_494ab20d94,jingui,26.0,杏子湯,can_c175bb9eb9,classic_clause_uses_formula,水之為病，其脈沉小，屬少陰；浮者為風，無水虛脹者，為氣。水，發其汗即已。 脈沉者宜麻黃附子湯；浮者宜杏子湯。(26),89
+k3_clause_formula_f8a0646425,clause_jg_56e1853884,jingui,5.0,越婢加朮湯,can_479e52b534,classic_clause_uses_formula,裏水者，一身面目黃腫，其脈沉，小便不利，故令病水。假如小便自利，此亡津液，故 令渴也。越婢加朮湯主之。(5),90
+k3_clause_formula_2974c08bba,clause_jg_ba6ab828b3,jingui,24.0,防己茯苓湯,can_74f9809d8c,classic_clause_uses_formula,皮水為病，四肢腫，水氣在皮膚中，四肢聶聶動者，防己茯苓湯主之。(24),90
+k3_clause_formula_f954412105,clause_jg_918a775d1a,jingui,25.0,甘草麻黃湯,can_c6991f8c43,classic_clause_uses_formula,裏水，越婢加朮湯主之；甘草麻黃湯亦主之。(25),90
+k3_clause_formula_dced4d519b,clause_jg_918a775d1a,jingui,25.0,越婢加朮湯,can_479e52b534,classic_clause_uses_formula,裏水，越婢加朮湯主之；甘草麻黃湯亦主之。(25),90
+k3_clause_formula_63f28720ec,clause_jg_b6e5382064,jingui,27.0,蒲灰散,can_8a501b666d,classic_clause_uses_formula,厥而皮水者，蒲灰散主之。(27),90
+k3_clause_formula_f50f4801d0,clause_jg_701dd9f68c,jingui,29.0,桂枝加黃耆湯,can_f6f14b7644,classic_clause_uses_formula,黃汗之病，兩脛自冷；假令發熱，此屬歷節。食已汗出，又身常暮盜汗出者，此勞氣也。 若汗出已反發熱者，久久其身必甲錯；發熱不止者，必生惡瘡。 若身重，汗出已輒輕者，久久必身瞤，瞤即胸中痛，又從腰以上必汗出，下無汗，腰髖弛 痛，如有物在皮中狀，劇者不能食，身疼重，煩躁，小便不利，此為黃汗，桂枝加黃耆湯 主之。(29),90
+k3_clause_formula_1998c86dfe,clause_jg_4d7c6e297c,jingui,31.0,附子湯,can_4da6dea6c5,classic_clause_uses_formula,氣分，心下堅，大如盤，邊如旋杯，水飲所作，桂枝去芍藥加麻辛附子湯主之。(31),90
+k3_clause_formula_5db37a8f3a,clause_jg_fe9b49c232,jingui,32.0,枳朮湯,can_9d6d527d5a,classic_clause_uses_formula,心下堅，大如盤，邊如旋盤，水飲所作，枳朮湯主之。(32),90
+k3_clause_formula_2df47ff61a,clause_jg_6b3f6978c6,jingui,4.0,五苓散,can_4ec3299305,classic_clause_uses_formula,水熱互結 脈浮，小便不利，微熱消渴者，宜利小便發汗，五苓散主之。(4),83
+k3_clause_formula_9c39b0c83f,clause_jg_3a12f448ba,jingui,5.0,五苓散,can_4ec3299305,classic_clause_uses_formula,渴欲飲水，水入則吐者，名曰水逆，五苓散主之。(5),83
+k3_clause_formula_49696c23c9,clause_jg_e251b80885,jingui,6.0,文蛤散,can_545af3d074,classic_clause_uses_formula,渴欲飲水不止者，文蛤散主之。(6),83
+k3_clause_formula_80209ec8fb,clause_jg_1e830cb71c,jingui,10.0,栝蔞瞿麥丸,can_4e401dc622,classic_clause_uses_formula,水氣內停 小便不利者，有水氣，其人若渴，栝蔞瞿麥丸主之。(10),83
+k3_clause_formula_12cbf283a1,clause_jg_d537bc5b40,jingui,11.0,滑石白魚散,can_b88121df22,classic_clause_uses_formula,小便不利，蒲灰散主之，滑石白魚散、茯苓戎鹽湯并主之。(11),83
+k3_clause_formula_e4339f4842,clause_jg_d537bc5b40,jingui,11.0,茯苓戎鹽湯,can_ab6fb2f92f,classic_clause_uses_formula,小便不利，蒲灰散主之，滑石白魚散、茯苓戎鹽湯并主之。(11),83
+k3_clause_formula_8d0bb7f24e,clause_jg_d537bc5b40,jingui,11.0,蒲灰散,can_8a501b666d,classic_clause_uses_formula,小便不利，蒲灰散主之，滑石白魚散、茯苓戎鹽湯并主之。(11),83
+k3_clause_formula_cd3f8c3922,clause_jg_b88386cdc3,jingui,12.0,白虎加人參湯,can_29712407d7,classic_clause_uses_formula,渴欲飲水，口乾舌燥者，白虎加人參湯主之。(12),83
+k3_clause_formula_7a0914c4f7,clause_jg_0795825c30,jingui,13.0,豬苓湯,can_615ab27c27,classic_clause_uses_formula,脈浮發熱，渴欲飲水，小便不利者，豬苓湯主之。(13),83
+k3_clause_formula_83321d9228,clause_jg_c8feac5c8c,jingui,20.0,麻黃加朮湯,can_30a0c009b1,classic_clause_uses_formula,寒濕在表：濕家身煩疼，可與麻黃加朮湯發其汗為宜，慎不可以火攻之。(20),15
+k3_clause_formula_0fcef7ecf8,clause_jg_6a43c6686c,jingui,21.0,麻黃杏仁薏苡甘草湯,can_b272d7ec13,classic_clause_uses_formula,風濕在表：病者一身盡疼，發熱，日晡所劇者，名風濕。此病傷於汗出當風 ，或久傷取冷所致也。可與麻黃杏仁薏苡甘草湯。(21),15
+k3_clause_formula_8a027ec2e5,clause_jg_67e20d8e54,jingui,22.0,防己黃耆湯,can_a26ad2322b,classic_clause_uses_formula,風濕表虛：風濕，脈浮身重，汗出惡風者，防己黃耆湯主之。(22),15
+k3_clause_formula_ea2d71172d,clause_jg_d7cf14db8a,jingui,23.0,桂枝附子湯,can_70d8a89772,classic_clause_uses_formula,風濕表陽虛：傷寒八九日，風濕相搏，身體疼煩，不能自轉側，不嘔不渴 ，脈浮虛而澀者，桂枝附子湯主之； 若大便堅，小便自利者，去桂加白朮湯主之。(23),15
+k3_clause_formula_7b113e8e7e,clause_jg_67611c42e2,jingui,24.0,甘草附子湯,can_dba26ca75a,classic_clause_uses_formula,風濕相搏，骨節疼煩掣痛，不得屈伸，近之則痛劇，汗出短氣，小便不利，惡風 不欲去衣，或身微腫者，甘草附子湯主之。(24),15
+k3_clause_formula_a93cb713d7,clause_jg_db98669baf,jingui,10.0,甘草瀉心湯,can_25ddb73d49,classic_clause_uses_formula,蝕於上部則聲喝一作嗄，甘草瀉心湯主之。(10),24
+k3_clause_formula_bce59b8802,clause_jg_d79829de5e,jingui,11.0,苦參湯,can_9548aa8499,classic_clause_uses_formula,蝕於下部則咽乾，苦參湯洗之。(11),24
+k3_clause_formula_7d1e11b177,clause_jg_4decc31130,jingui,13.0,赤豆當歸散,can_a9f0081074,classic_clause_uses_formula,病者脈數，無熱，微煩，默默但欲臥，汗出，初得之三、四日，目赤如鳩眼； 七、八日，目四眥一本此有黃字黑。若能食者，膿已成也，赤豆當歸散主之。(13),24
+k3_clause_formula_c729ea690a,clause_jg_97f47b2a63,jingui,11.0,栝蔞桂枝湯,can_4d1113ca58,classic_clause_uses_formula,太陽病，其證備，身體強，几几然，脈反沉遲，此為痙，栝蔞桂枝湯主之。(11),12
+k3_clause_formula_f95aed728e,clause_jg_90495e2033,jingui,12.0,葛根湯,can_3d655bf013,classic_clause_uses_formula,太陽病，無汗而小便反少，氣上衝胸，口噤不得語，欲作剛痙，葛根湯主之。(12),12
+k3_clause_formula_c8ce5e7272,clause_jg_a37bdd8003,jingui,13.0,大承氣湯,can_b8804ab23f,classic_clause_uses_formula,痙為病，一本痙字上有剛字。胸滿，口噤，臥不著席，腳攣急，必齘齒，可與大承氣湯。(13),12
+k3_clause_formula_36abee5bf0,clause_jg_6962f4f479,jingui,16.0,苓桂朮甘湯,can_00d802f1e5,classic_clause_uses_formula,不能行水 心下有痰飲，胸脅支滿，目眩。苓桂朮甘湯主之。(16),70
+k3_clause_formula_23667b28f7,clause_jg_59a3159e2e,jingui,17.0,苓桂朮甘湯,can_00d802f1e5,classic_clause_uses_formula,夫短氣有微飲，當從小便去之，苓桂朮甘湯主之。腎氣丸亦主之。(17),70
+k3_clause_formula_88e321b060,clause_jg_561e0ac262,jingui,29.0,己椒藶黃丸,can_17af992be4,classic_clause_uses_formula,腸間有水飲 腹滿，口舌乾燥，此腸間有水氣，己椒藶黃丸主之。(29),70
+k3_clause_formula_a10ea7b140,clause_jg_076b4dff6c,jingui,30.0,小半夏加茯苓湯,can_b7bc26913a,classic_clause_uses_formula,膈間有水 卒嘔吐，心下痞，膈間有水，眩悸者，小半夏加茯苓湯主之。(30),70
+k3_clause_formula_b0e87cad59,clause_jg_ac050cf027,jingui,31.0,五苓散,can_4ec3299305,classic_clause_uses_formula,水停臍下 假令瘦人臍下有悸，吐涎沫而癲眩，此水也，五苓散主之。(31),70
+k3_clause_formula_32e190c398,clause_jg_29e7370862,jingui,22.0,十棗湯,can_f3ad66a19d,classic_clause_uses_formula,病懸飲者，十棗湯主之。(22),71
+k3_clause_formula_5c60617d7b,clause_jg_bd9bc4618e,jingui,23.0,小青龍湯,can_0a5b7e34af,classic_clause_uses_formula,病溢飲者，當發其汗，大青龍湯主之；小青龍湯亦主之。(23),71
+k3_clause_formula_ec2474c8ae,clause_jg_bd9bc4618e,jingui,23.0,大青龍湯,can_a1400e6cd2,classic_clause_uses_formula,病溢飲者，當發其汗，大青龍湯主之；小青龍湯亦主之。(23),71
+k3_clause_formula_691d12306e,clause_jg_88e8a6adee,jingui,24.0,木防己湯,can_d02d5ea55c,classic_clause_uses_formula,膈間支飲，其人喘滿，心下痞堅，面色黧黑，其脈沉緊，得之數十日，醫吐下之不 愈，木防己湯主之。虛者即愈，實者三日復發，後與不愈者，宜木防己湯去石膏 加茯苓芒硝湯主之。(24),71
+k3_clause_formula_ff94cb6c62,clause_jg_2d2216cd55,jingui,25.0,澤瀉湯,can_6fc2209755,classic_clause_uses_formula,水在膈下 心下有支飲，其人苦冒眩，澤瀉湯主之。(25),71
+k3_clause_formula_3b524a0640,clause_jg_b2901b306e,jingui,26.0,厚朴大黃湯,can_15c1cd6128,classic_clause_uses_formula,支飲胸滿者，厚朴大黃湯主之。(26),71
+k3_clause_formula_911b597e38,clause_jg_66a2a6590d,jingui,27.0,葶藶大棗瀉肺湯,can_07f55734cb,classic_clause_uses_formula,支飲偏溢於肺 支飲不得息，葶藶大棗瀉肺湯主之。(27),71
+k3_clause_formula_85efbb2390,clause_jg_fb241d0139,jingui,28.0,小半夏湯,can_f51682eb9f,classic_clause_uses_formula,嘔家本渴，渴者為欲解，今反不渴，心下有支飲故也，小半夏湯主之。《千金》云小半 夏加茯苓湯。(28),71
+k3_clause_formula_b18ef8a11f,clause_jg_b4a805f6fc,jingui,32.0,十棗湯,can_f3ad66a19d,classic_clause_uses_formula,咳家其脈弦，為有水。十棗湯主之。(32),71
+k3_clause_formula_f986e747a3,clause_jg_f4ccae555e,jingui,33.0,十棗湯,can_f3ad66a19d,classic_clause_uses_formula,夫有支飲家，咳煩胸中痛者，不卒死，至一百日或一歲，宜十棗湯。(33),71
+k3_clause_formula_1c6c222da9,clause_jg_bd3c3cf262,jingui,35.0,小青龍湯,can_0a5b7e34af,classic_clause_uses_formula,咳逆倚息不得臥，小青龍湯主之。(35),71
+k3_clause_formula_2e4589b9c1,clause_jg_0ce62b2289,jingui,36.0,甘草湯,can_745cdb8317,classic_clause_uses_formula,青龍湯下已，多唾口燥，寸脈沉，尺脈微，手足厥逆，氣從小腹上衝胸咽，手 足痹，其面翕熱如醉狀，因復下流陰股，小便難，時復冒者，與茯苓桂枝五味 甘草湯，治其氣衝。(36),71
+k3_clause_formula_f6b77005d8,clause_jg_9d35c9e388,jingui,37.0,桂苓五味甘草湯,can_bf1d0528e8,classic_clause_uses_formula,衝氣即低，而反更咳、胸滿者，用桂苓五味甘草湯去桂加乾薑、細辛，以治其 咳滿。(37),71
+k3_clause_formula_bbb400d327,clause_jg_be7dd3b5cf,jingui,2.0,鱉甲煎丸,can_5d30838b26,classic_clause_uses_formula,病瘧以月，一日發，當以十五日愈；設不差，當月盡解； 如其不差，當云何？ 師曰：此結為癥瘕，名曰瘧母，急治之，宜鱉甲煎丸。(2),27
+k3_clause_formula_c73451c90b,clause_jg_fa57b6958f,jingui,4.0,白虎加桂枝湯,can_6dec689ab1,classic_clause_uses_formula,溫瘧 溫瘧者，其脈如平，身無寒但熱，骨節疼煩，時嘔，白虎加桂枝湯主之。(4),27
+k3_clause_formula_1f6caada90,clause_jg_0a965e8094,jingui,5.0,蜀漆散,can_c4a276d57d,classic_clause_uses_formula,瘧多寒者，名曰牝瘧，蜀漆散主之。(5),27
+k3_clause_formula_853779dcf6,clause_jg_a75ec14075,jingui,2.0,百合知母湯,can_e2a38b6c0c,classic_clause_uses_formula,誤治 百合病，發汗後者，百合知母湯主之。(2),20
+k3_clause_formula_628be979ce,clause_jg_7c870b081d,jingui,3.0,滑石代赭湯,can_49c5f6687a,classic_clause_uses_formula,百合病，下之後者，滑石代赭湯主之。(3),20
+k3_clause_formula_609f25296a,clause_jg_9d687f581d,jingui,5.0,百合地黃湯,can_0dabdac775,classic_clause_uses_formula,百合病，不經吐、下、發汗，病形如初者，百合地黃湯主之。(5),20
+k3_clause_formula_2249eea91c,clause_jg_06c6fbc3c5,jingui,6.0,百合洗方,can_cdb87d969f,classic_clause_uses_formula,百合病，一月不解，變成渴者，百合洗方主之。(6),20
+k3_clause_formula_54da3107e4,clause_jg_59f2b20f75,jingui,8.0,百合滑石散,can_dcbc01dc7a,classic_clause_uses_formula,百合病，變發熱者，一作發寒熱。百合滑石散主之。(8),20
+k3_clause_formula_d384a8a7c5,clause_jg_1951e75999,jingui,5.0,甘草乾薑湯,can_ec1a31ebb3,classic_clause_uses_formula,肺痿吐涎沫而不咳者，其人不渴，必遺尿，小便數。所以然者，以上虛不能制下故也。 此為肺中冷，必眩，多涎唾，甘草乾薑湯以溫之。若服湯已渴者，屬消渴。(5),40
+k3_clause_formula_a588c803ea,clause_jg_a8d8cd88de,jingui,10.0,麥門冬湯,can_5becc09d33,classic_clause_uses_formula,大逆上氣，咽喉不利，止逆下氣者，麥門冬湯主之。(10),40
+k3_clause_formula_5f4b80bcc1,clause_jg_dc51dfd400,jingui,11.0,葶藶大棗瀉肺湯,can_07f55734cb,classic_clause_uses_formula,肺癰胸滿脹，一身面目浮腫，鼻塞清涕出，不聞香臭酸辛，咳逆上氣，喘鳴迫塞， 葶藶大棗瀉肺湯主之。(11),42
+k3_clause_formula_ae4cf346c4,clause_jg_60e1c3fa8d,jingui,11.0,葶藶大棗瀉肺湯,can_07f55734cb,classic_clause_uses_formula,肺癰，喘不得臥，葶藶大棗瀉肺湯主之。(11),42
+k3_clause_formula_d18c89ae75,clause_jg_734526bc4f,jingui,12.0,桔梗湯,can_5bb3be4fd3,classic_clause_uses_formula,膿已成：咳而胸滿，振寒脈數，咽乾不渴，時出濁唾腥臭，久久吐膿如米粥者，為肺癰， 桔梗湯主之。(12),42
+k3_clause_formula_399a5e6385,clause_jg_a6b52debab,jingui,4.0,栝蔞薤白半夏湯,can_749be479d4,classic_clause_uses_formula,胸痹不得臥，心痛徹背者，栝蔞薤白半夏湯主之。(4),53
+k3_clause_formula_2a88bdca1d,clause_jg_b79f791e44,jingui,5.0,枳實薤白桂枝湯,can_5a2b52f66f,classic_clause_uses_formula,胸痹心中痞，留氣結在胸，胸滿，脅下逆搶心，枳實薤白桂枝湯主之；人參湯亦主之。(5),53
+k3_clause_formula_9b7879dcab,clause_jg_b79f791e44,jingui,5.0,人參湯,can_116bc8aefe,classic_clause_uses_formula,胸痹心中痞，留氣結在胸，胸滿，脅下逆搶心，枳實薤白桂枝湯主之；人參湯亦主之。(5),53
+k3_clause_formula_91ebe6ed6c,clause_jg_ff5d979197,jingui,6.0,茯苓杏仁甘草湯,can_8da1754712,classic_clause_uses_formula,胸痹，胸中氣塞，短氣，茯苓杏仁甘草湯主之；橘枳薑湯亦主之。(6),53
+k3_clause_formula_3ea4227fde,clause_jg_ff5d979197,jingui,6.0,橘枳薑湯,can_5511e42f2b,classic_clause_uses_formula,胸痹，胸中氣塞，短氣，茯苓杏仁甘草湯主之；橘枳薑湯亦主之。(6),53
+k3_clause_formula_dc78e90e5e,clause_jg_6f039f26e1,jingui,7.0,薏苡附子散,can_fd6168584b,classic_clause_uses_formula,胸痹緩急者，薏苡附子散主之。(7),53
+k3_clause_formula_663cb2dc78,clause_jg_fac9a1eea5,jingui,8.0,桂枝生薑枳實湯,can_c0e3df661a,classic_clause_uses_formula,心中痞，諸逆，心懸痛，桂枝生薑枳實湯主之。(8),53
+k3_clause_formula_c67e8a12c3,clause_jg_c9c76929b9,jingui,9.0,赤石脂丸,can_6b72053b46,classic_clause_uses_formula,心痛徹背，背痛徹心，烏頭赤石脂丸主之。(9),53
+k3_clause_formula_2ba56cc017,clause_jg_42f2b49acb,jingui,3.0,薏苡附子敗醬散,can_27ce46d718,classic_clause_uses_formula,腸癰之為病，其身甲錯，腹皮急，按之濡，如腫狀，腹無積聚，身無熱，脈 數，此為腸內有癰膿，薏苡附子敗醬散主之。(3),127
+k3_clause_formula_2d311b7946,clause_jg_7d5d17be52,jingui,9.0,厚朴七物湯,can_dc9fafa098,classic_clause_uses_formula,病腹滿，發熱十日，脈浮而數，飲食如故，厚朴七物湯主之。(9),58
+k3_clause_formula_96a3bee6b7,clause_jg_6e53c0cb8f,jingui,10.0,附子粳米湯,can_b6bb2dd07b,classic_clause_uses_formula,水濕內停 腹中寒氣，雷鳴切痛，胸脅逆滿，嘔吐，附子粳米湯主之。(10),58
+k3_clause_formula_347e3872ea,clause_jg_87718c069f,jingui,11.0,厚朴三物湯,can_d371fad8d5,classic_clause_uses_formula,痛而閉者，厚朴三物湯主之。(11),58
+k3_clause_formula_ff7515945c,clause_jg_a952086d63,jingui,12.0,大柴胡湯,can_a1985a28fe,classic_clause_uses_formula,按之心下滿痛者，此為實也，當下之，宜大柴胡湯。(12),58
+k3_clause_formula_6a8386aa25,clause_jg_f66f4b2c63,jingui,13.0,大承氣湯,can_b8804ab23f,classic_clause_uses_formula,腹滿不減，減不足言，當須下之，宜大承氣湯。(13),58
+k3_clause_formula_3965d50cde,clause_jg_a191150040,jingui,14.0,大建中湯,can_2523049667,classic_clause_uses_formula,心胸中大寒痛，嘔不能飲食，腹中寒，上衝皮起，出見有頭足，上下痛而不可觸近， 大建中湯主之。(14),58
+k3_clause_formula_01e8886ada,clause_jg_8aefa49ffb,jingui,15.0,大黃附子湯,can_971d8bb5f6,classic_clause_uses_formula,寒實內結 脅下偏痛，發熱，其脈緊弦，此寒也，以溫藥下之，宜大黃附子湯。(15),58
+k3_clause_formula_fd24ca1202,clause_jg_691f443e13,jingui,16.0,赤丸,can_e5ee53b9bb,classic_clause_uses_formula,寒氣厥逆，赤丸主之。(16),58
+k3_clause_formula_907bf38f70,clause_jg_b6a3ab36e4,jingui,8.0,桂枝加龍骨牡蠣湯,can_a5504301bc,classic_clause_uses_formula,夫失精家少腹弦急，陰頭寒，目眩一作目眶痛，髮落，脈極虛芤遲，為清穀亡血，失精。 脈得諸芤動微緊，男子失精，女子夢交，桂枝加龍骨牡蠣湯主之。(8),35
+k3_clause_formula_c61e637fa1,clause_jg_1b324e7ede,jingui,14.0,黃耆建中湯,can_4702b3ae84,classic_clause_uses_formula,虛勞裏急、諸不足，黃耆建中湯主之。於小建中湯內加黃耆一兩半，餘依上法，氣短胸滿者加生薑；腹滿者去 棗，加茯苓一兩半；及療肺虛損不足，補氣加半夏三兩。(14),35
+k3_clause_formula_2ce2b68434,clause_jg_1b324e7ede,jingui,14.0,小建中湯,can_17b038dbde,classic_clause_uses_formula,虛勞裏急、諸不足，黃耆建中湯主之。於小建中湯內加黃耆一兩半，餘依上法，氣短胸滿者加生薑；腹滿者去 棗，加茯苓一兩半；及療肺虛損不足，補氣加半夏三兩。(14),35
+k3_clause_formula_3e9224ee76,clause_jg_36b7f9ff34,jingui,16.0,薯蕷丸,can_f2fe8daf3f,classic_clause_uses_formula,虛勞諸不足，風氣百疾，薯蕷丸主之。(16),35
+k3_clause_formula_89a0f42fc0,clause_jg_de902b6296,jingui,17.0,酸棗仁湯,can_8e09801183,classic_clause_uses_formula,虛勞虛煩不得眠，酸棗仁湯主之。(17),35
+k3_clause_formula_64b1182fe8,clause_jg_e2d887a2d7,jingui,18.0,大黃䗪蟲丸,can_bfe8ff2d34,classic_clause_uses_formula,五勞虛極羸瘦，腹滿不能飲食，食傷、憂傷、飲傷、房室傷、飢傷、勞傷、經絡營衛氣傷， 內有乾血，肌膚甲錯，兩目黯黑，緩中補虛，大黃䗪蟲丸主之。(18),35
+k3_clause_formula_a9f6ea4731,clause_jg_fd17f7d9b0,jingui,2.0,黃耆桂枝五物湯,can_40fd943966,classic_clause_uses_formula,血痹陰陽俱微，寸口關上微，尺中小緊，外證身體不仁，如風痹狀，黃耆桂枝五物湯主之。(2),34
+k3_clause_formula_c6e4ccf386,clause_jg_158278f3d0,jingui,2.0,藜蘆甘草湯,can_4bbc171d0e,classic_clause_uses_formula,手指臂腫 病人常以手指臂腫動，此人身體瞤瞤者，藜蘆甘草湯主之。(2),130
+k3_clause_formula_2e93b4ef03,clause_jg_8a57c03c78,jingui,3.0,雞屎白散,can_5d2c831085,classic_clause_uses_formula,轉筋之為病，其人臂腳直，脈上下行，微弦。 轉筋入腹者，雞屎白散主之。(3),130
+k3_clause_formula_34334d43e7,clause_jg_237cb905d4,jingui,4.0,蜘蛛散,can_0cfa3abb8b,classic_clause_uses_formula,陰狐疝氣者，偏有小大，時時上下，蜘蛛散主之。(4),130
+k3_clause_formula_400f4034a9,clause_jg_df0364a313,jingui,6.0,甘草粉蜜湯,can_6ac7540c94,classic_clause_uses_formula,蚘蟲之為病，令人吐涎，心痛發作有時，毒藥不止，甘草粉蜜湯主之。(6),130
+k3_clause_formula_bb0068875c,clause_jg_3378c4b30a,jingui,8.0,烏梅丸,can_e86d108eb3,classic_clause_uses_formula,蚘厥者，烏梅丸主之。(8),130
+k3_clause_formula_56bedba536,clause_jg_039349a86a,jingui,6.0,王不留行散,can_acf4a6018c,classic_clause_uses_formula,病金瘡，王不留行散主之。(6),129
+k3_clause_formula_fa7a134107,clause_jg_dd226b8118,jingui,14.0,升麻鱉甲湯,can_6a81c427d1,classic_clause_uses_formula,陽毒之為病，面赤斑斑如錦紋，咽喉痛，唾膿血， 五日可治，七日不可治，升麻鱉甲湯主之。(14),26
+k3_clause_formula_22a7c24df7,clause_jg_b7843a2fad,jingui,15.0,升麻鱉甲湯,can_6a81c427d1,classic_clause_uses_formula,陰毒之為病，面目青，身痛如被杖，咽喉痛。 五日可治，七日不可治，升麻鱉甲湯去雄黃、蜀椒主之。(15),26
+k3_clause_formula_9263d274d9,clause_jg_980e7d72d9,jingui,12.0,桂枝去芍藥加蜀漆牡蠣龍骨救逆湯,can_3eb22fdca8,classic_clause_uses_formula,火邪者，桂枝去芍藥加蜀漆牡蠣龍骨救逆湯主之。(12),105
+k3_clause_formula_cd614bb92a,clause_jg_6a6d6f8117,jingui,13.0,半夏麻黃丸,can_05e6418eee,classic_clause_uses_formula,心下悸者，半夏麻黃丸主之。(13),105
+k3_clause_formula_a46a7fb903,clause_jg_d01991ee21,jingui,13.0,茵陳蒿湯,can_11513e5db9,classic_clause_uses_formula,穀疸之為病，寒熱不食，食即頭眩，心胸不安，久久發黃為穀疸，茵陳蒿湯主之。 (13),98
+k3_clause_formula_9ac48428ce,clause_jg_34f8e72e7e,jingui,14.0,硝石礬石散,can_05140ae180,classic_clause_uses_formula,黃家日晡所發熱，而反惡寒，此為女勞得之； 膀胱急，少腹滿、身盡黃，額上黑，足下熱，因作黑疸，其腹脹如水狀，大便必黑， 時溏，此女勞之病，非水也。腹滿者難治。硝石礬石散主之。(14),98
+k3_clause_formula_60b7533d8e,clause_jg_278d179449,jingui,15.0,梔子大黃湯,can_7161b48257,classic_clause_uses_formula,酒黃疸，心中懊憹或熱痛，梔子大黃湯主之。(15),98
+k3_clause_formula_41a3026ee1,clause_jg_c3e3d35e7e,jingui,21.0,小柴胡湯,can_1a0df3ae93,classic_clause_uses_formula,諸黃，腹痛而嘔者，宜柴胡湯。必小柴胡湯，方見嘔吐中。(21),98
+k3_clause_formula_54f1db40f3,clause_jg_c3e3d35e7e,jingui,21.0,柴胡湯,can_2a67e77749,classic_clause_uses_formula,諸黃，腹痛而嘔者，宜柴胡湯。必小柴胡湯，方見嘔吐中。(21),98
+k3_clause_formula_bf991ed636,clause_jg_f24f5d74e3,jingui,22.0,小建中湯,can_17b038dbde,classic_clause_uses_formula,男子黃，小便自利，當與虛勞小建中湯。(22),98
+k3_clause_formula_ecf5146fae,clause_jg_ddf39b2c31,jingui,,桂枝加黃耆湯,can_f6f14b7644,classic_clause_uses_formula,諸病黃家，但利其小便；假令脈浮，當以汗解之，宜桂枝加黃耆湯主之。方見水氣病中。,98
+k3_clause_formula_0cf0fa4bc8,clause_jg_f5c6031158,jingui,17.0,豬膏髮煎,can_6eefdf51c6,classic_clause_uses_formula,諸黃，豬膏髮煎主之。(17),99
+k3_clause_formula_068b27545e,clause_jg_a2f505572c,jingui,18.0,茵陳五苓散,can_9225c672aa,classic_clause_uses_formula,黃疸病，茵陳五苓散主之。一本云茵陳湯及五苓散并主之。(18),99
+k3_clause_formula_ae97bfd757,clause_jg_a2f505572c,jingui,18.0,五苓散,can_4ec3299305,classic_clause_uses_formula,黃疸病，茵陳五苓散主之。一本云茵陳湯及五苓散并主之。(18),99
+k3_clause_formula_970b3e4dea,clause_jg_45c104a8ad,jingui,19.0,大黃硝石湯,can_69f65eeb62,classic_clause_uses_formula,黃疸腹滿，小便不利而赤，自汗出，此為表和裏實，當下之，宜大黃硝石湯。(19),99
+k3_clause_formula_142d0982ab,clause_jg_2c2b3ff5ad,jingui,20.0,小半夏湯,can_f51682eb9f,classic_clause_uses_formula,黃疸病，小便色不變，欲自利，腹滿而喘，不可除熱，熱除必噦。 噦者，小半夏湯主之。(20),99
+k3_clause_formula_7422dc1ee5,clause_sh_4b67e8f4a3,shanghan,12.0,桂枝湯,can_2849adeebb,classic_clause_uses_formula,太陽中風，陽浮而陰弱。陽浮者熱自發，陰弱者汗自出，嗇嗇惡寒，淅淅惡 風，翕翕發熱，鼻鳴乾嘔者，桂枝湯主之。（12）,13
+k3_clause_formula_3f80d77795,clause_sh_44cdfd5796,shanghan,13.0,桂枝湯,can_2849adeebb,classic_clause_uses_formula,太陽病，頭痛，發熱，汗出，惡風，桂枝湯主之。（13）,13
+k3_clause_formula_495a0e0d58,clause_sh_5483da13e6,shanghan,15.0,桂枝湯,can_2849adeebb,classic_clause_uses_formula,太陽病，下之後，其氣上衝者，可與桂枝湯，方用前法； 若不上衝者，不可與之。（15）,13
+k3_clause_formula_7cadb02fea,clause_sh_8cec169b98,shanghan,17.0,桂枝湯,can_2849adeebb,classic_clause_uses_formula,若酒客病，不可與桂枝湯，得之則嘔，以酒客不喜甘故也。（17）,13
+k3_clause_formula_2eb588693e,clause_sh_91ab989e55,shanghan,19.0,桂枝湯,can_2849adeebb,classic_clause_uses_formula,凡服桂枝湯吐者，其後必吐膿血也。（19）,13
+k3_clause_formula_18fc96872f,clause_sh_074f828a4b,shanghan,24.0,桂枝湯,can_2849adeebb,classic_clause_uses_formula,太陽病，初服桂枝湯，反煩，不解者，先刺風府、風池， 卻與桂枝湯則愈。（24）,13
+k3_clause_formula_bde119109f,clause_sh_f4318042a6,shanghan,42.0,桂枝湯,can_2849adeebb,classic_clause_uses_formula,太陽病，外證未解，脈浮弱者，當以汗解，宜桂枝湯。（42）,13
+k3_clause_formula_4661af4065,clause_sh_54cd198a74,shanghan,44.0,桂枝湯,can_2849adeebb,classic_clause_uses_formula,太陽傷寒發汗後，餘邪在 表未盡，仍宜汗解。 太陽病，外證未解，不可下也，下之為逆；欲解外者，宜桂枝湯。（44）,13
+k3_clause_formula_26e9bcdf04,clause_sh_6d52810572,shanghan,45.0,桂枝湯,can_2849adeebb,classic_clause_uses_formula,太陽病，先發汗不解，而復下之，脈浮者不愈。浮為在外，而反下之，故令 不愈。今脈浮，故知在外，當須解外則愈，宜桂枝湯。（45）,13
+k3_clause_formula_c8f1c406cd,clause_sh_9af781141f,shanghan,53.0,桂枝湯,can_2849adeebb,classic_clause_uses_formula,誤下後氣不上衝，反映邪已內陷，發生變證，不 能再解表，所以不可與桂枝湯。 病常自汗出者，此為榮氣和。榮氣和者，外不諧，以衛氣不共榮氣諧和故爾。 以榮行脈中，衛行脈外。復發其汗，榮衛和則愈。宜桂枝湯。（53）,13
+k3_clause_formula_cd596d2243,clause_sh_f15c1fdc9a,shanghan,54.0,桂枝湯,can_2849adeebb,classic_clause_uses_formula,病人臟無他病，時發熱，自汗出而不愈者，此衛氣不和也。先其時發汗則愈， 宜桂枝湯。（54）,13
+k3_clause_formula_9948377dfb,clause_sh_88467f3e64,shanghan,56.0,承氣湯,can_e2c9c6b274,classic_clause_uses_formula,傷寒，不大便六七日，頭痛有熱者，與承氣湯； 其小便清者，知不在裡，仍在表也，當須發汗； 若頭痛者，必衄。宜桂枝湯。（56）,13
+k3_clause_formula_8986f5f8e3,clause_sh_88467f3e64,shanghan,56.0,桂枝湯,can_2849adeebb,classic_clause_uses_formula,傷寒，不大便六七日，頭痛有熱者，與承氣湯； 其小便清者，知不在裡，仍在表也，當須發汗； 若頭痛者，必衄。宜桂枝湯。（56）,13
+k3_clause_formula_1c1dd97009,clause_sh_99a3481780,shanghan,57.0,桂枝湯,can_2849adeebb,classic_clause_uses_formula,傷寒，發汗已解，半日許復煩，脈浮數者，可更發汗，宜桂枝湯。（57）,13
+k3_clause_formula_8e216dcdca,clause_sh_db68a6671f,shanghan,95.0,桂枝湯,can_2849adeebb,classic_clause_uses_formula,太陽病，發熱、汗出者，此為榮弱衛強，故使汗出。 欲救邪風者，宜桂枝湯。（95）,13
+k3_clause_formula_5512abb024,clause_sh_5fbdbce1c7,shanghan,14.0,桂枝加葛根湯,can_5def52eacc,classic_clause_uses_formula,太陽病，項背強几几，反汗出惡風者，桂枝加葛根湯主之。（14）,14
+k3_clause_formula_9446ef525d,clause_sh_7fa6e50cab,shanghan,18.0,桂枝湯,can_2849adeebb,classic_clause_uses_formula,喘家作，桂枝湯加厚朴、杏子佳。（18）,14
+k3_clause_formula_401f98f4fe,clause_sh_6734ec2af8,shanghan,20.0,桂枝加附子湯,can_de97b9f678,classic_clause_uses_formula,太陽病誤下，致表邪不解兼肺氣 上逆作喘 太陽病，發汗，遂漏不止，其人惡風，小便難，四肢微急， 難以屈伸者，桂枝加附子湯主之。（20）,14
+k3_clause_formula_0f3b5bf5f7,clause_sh_2ef667d68f,shanghan,21.0,桂枝去芍藥湯,can_8f6838f146,classic_clause_uses_formula, 漏汗不止：為過於發汗而傷陽，表陽虛弱， 衛外不固；  惡風：表邪未解  小便難：汗漏不止導致耗傷陰液。  四肢微急、難以屈伸：陽氣虛不能溫煦，陰 津傷失於濡潤 太陽病，下之後，脈促、胸滿者，桂枝去芍藥湯主之。（21）,14
+k3_clause_formula_a50875b242,clause_sh_34f18dd17f,shanghan,22.0,桂枝去芍藥加附子湯,can_92d4740e5c,classic_clause_uses_formula,病因：太陽病誤下，致表證不解外邪內陷。 若微寒者，桂枝去芍藥加附子湯主之。（22）,14
+k3_clause_formula_7b5d4c7933,clause_sh_5d73544e19,shanghan,43.0,桂枝加厚朴杏子湯,can_b89804367c,classic_clause_uses_formula,太陽病，下之微喘者，表未解故也，桂枝加厚朴杏子湯主之。（43）,14
+k3_clause_formula_4c065d3684,clause_sh_c3eacfe667,shanghan,35.0,麻黃湯,can_a2aaa3190c,classic_clause_uses_formula,太陽病，頭痛，發熱，身疼，腰痛，骨節疼痛，惡風，無汗而喘者，麻黃湯 主之。（35）,22
+k3_clause_formula_352bbeca99,clause_sh_f8ce583f37,shanghan,36.0,麻黃湯,can_a2aaa3190c,classic_clause_uses_formula,太陽與陽明合病，喘而胸滿者，不可下，宜麻黃湯。（36）,22
+k3_clause_formula_80a9dcfe4e,clause_sh_3b68792318,shanghan,37.0,小柴胡湯,can_1a0df3ae93,classic_clause_uses_formula,太陽病，十日以去，脈浮細而嗜臥者，外已解也。 設胸滿脅痛者，與小柴胡湯；脈但浮者，與麻黃湯。（37）,22
+k3_clause_formula_ceaff8e1f8,clause_sh_3b68792318,shanghan,37.0,麻黃湯,can_a2aaa3190c,classic_clause_uses_formula,太陽病，十日以去，脈浮細而嗜臥者，外已解也。 設胸滿脅痛者，與小柴胡湯；脈但浮者，與麻黃湯。（37）,22
+k3_clause_formula_7e4dcfbc71,clause_sh_7ca2046b48,shanghan,46.0,麻黃湯,can_a2aaa3190c,classic_clause_uses_formula,太陽病，脈浮緊，無汗，發熱，身疼痛，八九日不解，表證仍在，此當發其 汗。服藥已微除，其人發煩目瞑，劇者必衄，衄乃解。 所以然者，陽氣重故也。麻黃湯主之。（46）,22
+k3_clause_formula_121e99ff55,clause_sh_f4f3972a8b,shanghan,51.0,麻黃湯,can_a2aaa3190c,classic_clause_uses_formula,脈浮者，病在表，可發汗，宜麻黃湯。（51）,22
+k3_clause_formula_bdefd22691,clause_sh_1edc6f46d0,shanghan,52.0,麻黃湯,can_a2aaa3190c,classic_clause_uses_formula,脈浮而數者，可發汗，宜麻黃湯。（52）,22
+k3_clause_formula_05416e5683,clause_sh_3f54fe5b13,shanghan,55.0,麻黃湯,can_a2aaa3190c,classic_clause_uses_formula,傷寒脈浮緊，不發汗，因致衄者，麻黃湯主之。（55）,22
+k3_clause_formula_55eb383b38,clause_sh_5aa91f527b,shanghan,88.0,禹餘糧丸,can_b7f3496e0a,classic_clause_uses_formula,汗家重發汗，必恍惚心亂，小便已陰疼，與禹餘糧丸。(88),22
+k3_clause_formula_b206f64929,clause_sh_3313f99151,shanghan,31.0,葛根湯,can_3d655bf013,classic_clause_uses_formula,太陽病，項背強几几，無汗，惡風，葛根湯主之。(31),23
+k3_clause_formula_060a555532,clause_sh_3021c0eee0,shanghan,32.0,葛根湯,can_3d655bf013,classic_clause_uses_formula,太陽與陽明合病者，必自下利，葛根湯主之。(32),23
+k3_clause_formula_f0bebeceec,clause_sh_db80c65baf,shanghan,33.0,葛根加半夏湯,can_5fc1013ba0,classic_clause_uses_formula,太陽與陽明合病，不下利，但嘔者，葛根加半夏湯主之。(33),23
+k3_clause_formula_0bb0776957,clause_sh_59833a06bd,shanghan,38.0,大青龍湯,can_a1400e6cd2,classic_clause_uses_formula,太陽中風，脈浮緊，發熱，惡寒，身疼痛，不汗出而煩躁者，大青龍湯主之。 若脈微弱，汗出惡風者，不可服之。 服之則厥逆，筋惕肉瞤，此為逆也。(38),23
+k3_clause_formula_080045245c,clause_sh_5d05a2f67a,shanghan,39.0,大青龍湯,can_a1400e6cd2,classic_clause_uses_formula,傷寒，脈浮緩，身不疼，但重，乍有輕時，無少陰證者，大青龍湯發之。(39),23
+k3_clause_formula_fdf7fba491,clause_sh_4890bdf013,shanghan,40.0,小青龍湯,can_0a5b7e34af,classic_clause_uses_formula,傷寒表不解，心下有水氣，乾嘔，發熱而咳，或渴，或利，或噎，或小便不 利，少腹滿，或喘者，小青龍湯主之。(40),23
+k3_clause_formula_3f9739d61b,clause_sh_e64fc8a3db,shanghan,41.0,小青龍湯,can_0a5b7e34af,classic_clause_uses_formula,傷寒，心下有水氣，咳而微喘，發熱不渴。服湯已渴者，此寒去欲解也， 小青龍湯主之。(41),23
+k3_clause_formula_b7c73cebe7,clause_sh_ff90a4d2c5,shanghan,23.0,桂枝麻黃各半湯,can_71c0518c06,classic_clause_uses_formula,太陽病，得之八九日，如瘧狀，發熱惡寒，熱多寒少，其人不嘔，清便欲自可， 一日二三度發。 脈微緩者，為欲愈也； 脈微而惡寒者，此陰陽俱虛，不可更發汗，更下，更吐也； 面色反有熱色者，未欲解也，以其不能得小汗出，身必癢，宜桂枝麻黃各半湯。(23),29
+k3_clause_formula_baf3a561a1,clause_sh_16d72e8a80,shanghan,25.0,桂枝二麻黃一湯,can_398aca44cd,classic_clause_uses_formula,服桂枝湯，大汗出，脈洪大者，與桂枝湯，如前法。 若形似瘧，一日再發者，汗出必解，宜桂枝二麻黃一湯。(25),29
+k3_clause_formula_47fac40410,clause_sh_16d72e8a80,shanghan,25.0,桂枝湯,can_2849adeebb,classic_clause_uses_formula,服桂枝湯，大汗出，脈洪大者，與桂枝湯，如前法。 若形似瘧，一日再發者，汗出必解，宜桂枝二麻黃一湯。(25),29
+k3_clause_formula_f96ac56a3e,clause_sh_34cccc4599,shanghan,27.0,桂枝二越婢一湯,can_52daa23e13,classic_clause_uses_formula,太陽病，發熱惡寒，熱多寒少，脈微弱者，此無陽也。 不可發汗，宜桂枝二越婢一湯。(27),29
+k3_clause_formula_b89dd3c74a,clause_sh_4c22d9d2cb,shanghan,70.0,調胃承氣湯,can_07468b2497,classic_clause_uses_formula,發汗後惡寒者，虛故也。不惡寒，但熱者，實也，當和胃氣，與調胃承氣湯。(70),31
+k3_clause_formula_c0702e27c8,clause_sh_6cd969e8eb,shanghan,91.0,桂枝湯,can_2849adeebb,classic_clause_uses_formula,傷寒，醫下之，續得下利，清穀不止，身疼痛者，急當救裡； 後身疼痛，清便自調者，急當救表。救裡宜四逆湯，救表宜桂枝湯。(91),32
+k3_clause_formula_2f3168d346,clause_sh_6cd969e8eb,shanghan,91.0,四逆湯,can_4bd7a9684a,classic_clause_uses_formula,傷寒，醫下之，續得下利，清穀不止，身疼痛者，急當救裡； 後身疼痛，清便自調者，急當救表。救裡宜四逆湯，救表宜桂枝湯。(91),32
+k3_clause_formula_c0c2ff9f4c,clause_sh_568607f107,shanghan,92.0,四逆湯,can_4bd7a9684a,classic_clause_uses_formula,病發熱頭痛，脈反沉，若不瘥，身體疼痛，當救其裡，宜四逆湯。(92),32
+k3_clause_formula_76a8b2141a,clause_sh_83e004e223,shanghan,26.0,白虎加人參湯,can_29712407d7,classic_clause_uses_formula,服桂枝湯，大汗出後，大煩渴不解，脈洪大者，白虎加人參湯主之。(26),34
+k3_clause_formula_33a3760260,clause_sh_83e004e223,shanghan,26.0,桂枝湯,can_2849adeebb,classic_clause_uses_formula,服桂枝湯，大汗出後，大煩渴不解，脈洪大者，白虎加人參湯主之。(26),34
+k3_clause_formula_cbbabd181f,clause_sh_f2fac4c475,shanghan,34.0,葛根黃芩黃連湯,can_30cd7a1011,classic_clause_uses_formula,太陽病，桂枝證，醫反下之，利遂不止。 脈促者，表未解也。 喘而汗出者，葛根黃芩黃連湯主之。(34),34
+k3_clause_formula_486cd6af72,clause_sh_478d263093,shanghan,63.0,麻黃杏仁甘草石膏湯,can_aa32ff233a,classic_clause_uses_formula,發汗後，不可更行桂枝湯。 汗出而喘，無大熱者，可與麻黃杏仁甘草石膏湯。(63),34
+k3_clause_formula_4934025d74,clause_sh_478d263093,shanghan,63.0,桂枝湯,can_2849adeebb,classic_clause_uses_formula,發汗後，不可更行桂枝湯。 汗出而喘，無大熱者，可與麻黃杏仁甘草石膏湯。(63),34
+k3_clause_formula_c7a1ab956b,clause_sh_d08e9342fe,shanghan,76.0,梔子甘草豉湯,can_6c4d5a6d65,classic_clause_uses_formula,發汗吐下後，虛煩不得眠，若劇者，必反覆顛倒，心中懊憹，梔子豉湯主之。 若少氣者，梔子甘草豉湯主之。 若嘔者，梔子生薑豉湯主之。(76),34
+k3_clause_formula_454e573c45,clause_sh_d08e9342fe,shanghan,76.0,梔子生薑豉湯,can_c990391d4b,classic_clause_uses_formula,發汗吐下後，虛煩不得眠，若劇者，必反覆顛倒，心中懊憹，梔子豉湯主之。 若少氣者，梔子甘草豉湯主之。 若嘔者，梔子生薑豉湯主之。(76),34
+k3_clause_formula_8d61f3d482,clause_sh_d08e9342fe,shanghan,76.0,梔子豉湯,can_2482e4b13d,classic_clause_uses_formula,發汗吐下後，虛煩不得眠，若劇者，必反覆顛倒，心中懊憹，梔子豉湯主之。 若少氣者，梔子甘草豉湯主之。 若嘔者，梔子生薑豉湯主之。(76),34
+k3_clause_formula_4551602ba4,clause_sh_e4a7cfac54,shanghan,77.0,梔子豉湯,can_2482e4b13d,classic_clause_uses_formula,發汗若下之，而煩熱胸中窒者，梔子豉湯主之。(77),34
+k3_clause_formula_8f9d3b8f04,clause_sh_ca7f154102,shanghan,78.0,梔子豉湯,can_2482e4b13d,classic_clause_uses_formula,傷寒五六日，大下之後，身熱不去，心中結痛者，未欲解也，梔子豉湯主之。(78),34
+k3_clause_formula_abf01896f9,clause_sh_d3d5e51f71,shanghan,79.0,梔子厚朴湯,can_6b3be11e50,classic_clause_uses_formula,傷寒下後，心煩，腹滿，臥起不安者，梔子厚朴湯主之。(79),34
+k3_clause_formula_8cff99f541,clause_sh_a4d7f85481,shanghan,80.0,梔子乾薑湯,can_7d2366857f,classic_clause_uses_formula,傷寒，醫以丸藥大下之，身熱不去，微煩者，梔子乾薑湯主之。(80),34
+k3_clause_formula_b1e39543bc,clause_sh_f762770036,shanghan,81.0,梔子湯,can_fea4aa6cf4,classic_clause_uses_formula,凡用梔子湯，病人舊微溏者，不可與服之。(81),34
+k3_clause_formula_db9f47199b,clause_sh_638493935d,shanghan,162.0,麻黃杏仁甘草石膏湯,can_aa32ff233a,classic_clause_uses_formula,汗下後，邪熱壅肺作喘 下後，不可更行桂枝湯。 若汗出而喘，無大熱者，可與麻黃杏仁甘草石膏湯。(162),34
+k3_clause_formula_c180868537,clause_sh_638493935d,shanghan,162.0,桂枝湯,can_2849adeebb,classic_clause_uses_formula,汗下後，邪熱壅肺作喘 下後，不可更行桂枝湯。 若汗出而喘，無大熱者，可與麻黃杏仁甘草石膏湯。(162),34
+k3_clause_formula_71917de8ce,clause_sh_9c596f1703,shanghan,172.0,黃芩加半夏生薑湯,can_9108e059f2,classic_clause_uses_formula,太陽與少陽合病，自下利者，與黃芩湯。若嘔者，黃芩加半夏生薑湯主之。(172),34
+k3_clause_formula_1b5155826c,clause_sh_9c596f1703,shanghan,172.0,黃芩湯,can_ff9f5b461f,classic_clause_uses_formula,太陽與少陽合病，自下利者，與黃芩湯。若嘔者，黃芩加半夏生薑湯主之。(172),34
+k3_clause_formula_dd06d0a8cc,clause_sh_95ba9b25dd,shanghan,28.0,桂枝去桂加茯苓白朮湯,can_ae15981a69,classic_clause_uses_formula,誤用吐下，脾胃氣虛，水 氣上衝 服桂枝湯，或下之，仍頭項強痛，翕翕發熱，無汗，心下滿微痛，小便不利 者，桂枝去桂加茯苓白朮湯主之。(28),39
+k3_clause_formula_9b3f102f53,clause_sh_95ba9b25dd,shanghan,28.0,桂枝湯,can_2849adeebb,classic_clause_uses_formula,誤用吐下，脾胃氣虛，水 氣上衝 服桂枝湯，或下之，仍頭項強痛，翕翕發熱，無汗，心下滿微痛，小便不利 者，桂枝去桂加茯苓白朮湯主之。(28),39
+k3_clause_formula_617f8ad264,clause_sh_28f58ea62b,shanghan,61.0,乾薑附子湯,can_1eea215250,classic_clause_uses_formula,下之後，復發汗，晝日煩躁不得眠，夜而安靜，不嘔，不渴，無表證， 脈沉微，身無大熱者，乾薑附子湯主之。(61),39
+k3_clause_formula_4837295f23,clause_sh_202ffa03e7,shanghan,64.0,桂枝甘草湯,can_94491b059f,classic_clause_uses_formula,發汗過多，其人叉手自冒心，心下悸欲得按者，桂枝甘草湯主之。(64),39
+k3_clause_formula_475cd72b2e,clause_sh_75bffcd7aa,shanghan,65.0,茯苓桂枝甘草大棗湯,can_debdfbf1b5,classic_clause_uses_formula,發汗後，其人臍下悸者，欲作奔豚，茯苓桂枝甘草大棗湯主之。(65),39
+k3_clause_formula_dee22963cc,clause_sh_ad9eb1f102,shanghan,66.0,厚朴生薑半夏甘草人參湯,can_82b845942f,classic_clause_uses_formula,發汗後，腹脹滿者，厚朴生薑半夏甘草人參湯主之。(66),39
+k3_clause_formula_257d8a6e66,clause_sh_7db35bfe9b,shanghan,67.0,茯苓桂枝白朮甘草湯,can_95539b984d,classic_clause_uses_formula,心陽虛欲作奔豚 傷寒，若吐若下後，心下逆滿，氣上沖胸，起則頭眩，脈沉緊，發汗則動經， 身為振振搖者，茯苓桂枝白朮甘草湯主之。(67),39
+k3_clause_formula_e03a302867,clause_sh_93839e9f48,shanghan,69.0,茯苓四逆湯,can_6e13529ee9,classic_clause_uses_formula,發汗，若下之，病仍不解，煩燥者，茯苓四逆湯主之。(69),39
+k3_clause_formula_8d974627e0,clause_sh_bee5c893a9,shanghan,82.0,真武湯,can_c343468943,classic_clause_uses_formula,太陽病發汗，汗出不解，其人仍發熱，心下悸，頭眩，身瞤動，振振欲擗地 者，真武湯主之。(82),39
+k3_clause_formula_74cea10535,clause_sh_07e810ba6a,shanghan,102.0,小建中湯,can_17b038dbde,classic_clause_uses_formula,脾虛氣滯腹脹 傷寒二三日，心中悸而煩者，小建中湯主之。(102),39
+k3_clause_formula_f2f620a90c,clause_sh_344545e71b,shanghan,112.0,牡蠣龍骨救逆湯,can_8f787bebec,classic_clause_uses_formula,傷寒脈浮，醫以火迫劫之，亡陽，必驚狂，臥起不安者，桂枝去芍藥加蜀漆 牡蠣龍骨救逆湯主之。(112),39
+k3_clause_formula_05caffe2cf,clause_sh_ac4358135c,shanghan,117.0,桂枝加桂湯,can_e4355f999b,classic_clause_uses_formula,燒針令其汗，針處被寒，核起而赤者，必發奔豚。氣從少腹，上沖心者，灸 其核上各一壯，與桂枝加桂湯，更加桂二兩也。(117),39
+k3_clause_formula_5532ba7132,clause_sh_931ed3fffe,shanghan,118.0,桂枝甘草龍骨牡蠣湯,can_e2bd2dc237,classic_clause_uses_formula,火逆下之，因燒針煩躁者，桂枝甘草龍骨牡蠣湯主之。(118),39
+k3_clause_formula_381cc65811,clause_sh_b8170b8b5c,shanghan,163.0,桂枝人參湯,can_3367e6562e,classic_clause_uses_formula,裡虛傷寒，心悸而煩 太陽病，外證未除而數下之，遂協熱而利，利下不止，心下痞鞕，表裡不解 者，桂枝人參湯主之。(163),39
+k3_clause_formula_351b4e15d6,clause_sh_74655f9ce3,shanghan,29.0,調胃承氣湯,can_07468b2497,classic_clause_uses_formula,甘草乾薑湯證、芍藥甘草湯證 傷寒脈浮，自汗出，小便數，心煩，微惡寒，腳攣急，反與桂枝欲攻其表， 此誤也。 得之便厥，咽中乾，煩躁，吐逆者，作甘草乾薑湯與之，以復其陽。 若厥愈足溫者，更作芍藥甘草湯與之，其腳即伸。 若胃氣不和，譫語者，少與調胃承氣湯。 若重發汗，復加燒針者，四逆湯主之。(29),45
+k3_clause_formula_d15e0e15be,clause_sh_74655f9ce3,shanghan,29.0,甘草乾薑湯,can_ec1a31ebb3,classic_clause_uses_formula,甘草乾薑湯證、芍藥甘草湯證 傷寒脈浮，自汗出，小便數，心煩，微惡寒，腳攣急，反與桂枝欲攻其表， 此誤也。 得之便厥，咽中乾，煩躁，吐逆者，作甘草乾薑湯與之，以復其陽。 若厥愈足溫者，更作芍藥甘草湯與之，其腳即伸。 若胃氣不和，譫語者，少與調胃承氣湯。 若重發汗，復加燒針者，四逆湯主之。(29),45
+k3_clause_formula_3ff8ac6529,clause_sh_74655f9ce3,shanghan,29.0,芍藥甘草湯,can_3835d95ffd,classic_clause_uses_formula,甘草乾薑湯證、芍藥甘草湯證 傷寒脈浮，自汗出，小便數，心煩，微惡寒，腳攣急，反與桂枝欲攻其表， 此誤也。 得之便厥，咽中乾，煩躁，吐逆者，作甘草乾薑湯與之，以復其陽。 若厥愈足溫者，更作芍藥甘草湯與之，其腳即伸。 若胃氣不和，譫語者，少與調胃承氣湯。 若重發汗，復加燒針者，四逆湯主之。(29),45
+k3_clause_formula_215c8f553d,clause_sh_74655f9ce3,shanghan,29.0,四逆湯,can_4bd7a9684a,classic_clause_uses_formula,甘草乾薑湯證、芍藥甘草湯證 傷寒脈浮，自汗出，小便數，心煩，微惡寒，腳攣急，反與桂枝欲攻其表， 此誤也。 得之便厥，咽中乾，煩躁，吐逆者，作甘草乾薑湯與之，以復其陽。 若厥愈足溫者，更作芍藥甘草湯與之，其腳即伸。 若胃氣不和，譫語者，少與調胃承氣湯。 若重發汗，復加燒針者，四逆湯主之。(29),45
+k3_clause_formula_443ef8c165,clause_sh_783a1cfa7a,shanghan,68.0,芍藥甘草附子湯,can_48d4dcef47,classic_clause_uses_formula,發汗，病不解，反惡寒者，虛故也，芍藥甘草附子湯主之。(68),45
+k3_clause_formula_51588ff86c,clause_sh_14d7716b99,shanghan,177.0,炙甘草湯,can_a0ae55f4fa,classic_clause_uses_formula,傷寒脈結代，心動悸，炙甘草湯主之。(177),45
+k3_clause_formula_d46bace1ca,clause_sh_67e4ae6b79,shanghan,71.0,五苓散,can_4ec3299305,classic_clause_uses_formula,太陽病，發汗後，大汗出、胃中乾、煩躁不得眠，欲得飲水者；少少與飲之， 令胃氣和則愈。 若脈浮，小便不利，微熱，消渴者，五苓散主之。(71),47
+k3_clause_formula_fe9f62ff95,clause_sh_46d1111648,shanghan,72.0,五苓散,can_4ec3299305,classic_clause_uses_formula,發汗已，脈浮數，煩渴者，五苓散主之。(72),47
+k3_clause_formula_59116662dc,clause_sh_fbf877c0c5,shanghan,73.0,茯苓甘草湯,can_610f6cd484,classic_clause_uses_formula,傷寒，汗出而渴者，五苓散主之；不渴者，茯苓甘草湯主之。(73),47
+k3_clause_formula_8eeb3a83bd,clause_sh_fbf877c0c5,shanghan,73.0,五苓散,can_4ec3299305,classic_clause_uses_formula,傷寒，汗出而渴者，五苓散主之；不渴者，茯苓甘草湯主之。(73),47
+k3_clause_formula_4c20599a71,clause_sh_3179d0861a,shanghan,74.0,五苓散,can_4ec3299305,classic_clause_uses_formula,中風發熱，六七日不解而煩，有表裡證，渴欲飲水，水入則吐者，名曰水逆， 五苓散主之。(74),47
+k3_clause_formula_b858565d7e,clause_sh_caa272180a,shanghan,127.0,茯苓甘草湯,can_610f6cd484,classic_clause_uses_formula,五苓散：水蓄下焦、口渴 茯苓甘草湯：水蓄中焦、不渴 太陽病，小便利者，以飲水多，必心下悸；小便少者，必苦裡急也。(127),47
+k3_clause_formula_84442134d9,clause_sh_caa272180a,shanghan,127.0,五苓散,can_4ec3299305,classic_clause_uses_formula,五苓散：水蓄下焦、口渴 茯苓甘草湯：水蓄中焦、不渴 太陽病，小便利者，以飲水多，必心下悸；小便少者，必苦裡急也。(127),47
+k3_clause_formula_e92960b197,clause_sh_6b1064840f,shanghan,106.0,桃核承氣湯,can_3d9f86ea28,classic_clause_uses_formula,太陽病不解，熱結膀胱，其人如狂，血自下，下者愈。 其外不解者，尚未可攻，當先解其外。 外解已，但少腹急結者，乃可攻之，宜桃核承氣湯。(106),50
+k3_clause_formula_a3a9cc4714,clause_sh_6f958492e8,shanghan,124.0,抵當湯,can_65e2755719,classic_clause_uses_formula,太陽表邪不解，外邪化熱 入裡，與血結於下焦。 太陽病，六七日表證仍在，脈微而沈，反不結胸，其人發狂者，以熱在下焦， 少腹當鞭滿，小便自利者，下血乃愈。 所以然者，以太陽隨經，瘀熱在裡故也。抵當湯主之。(124),50
+k3_clause_formula_4dfdfc93f3,clause_sh_e13865d2a4,shanghan,125.0,抵當湯,can_65e2755719,classic_clause_uses_formula,太陽病，身黃，脈沉結，少腹鞭，小便不利者，為無血也。小便自利，其人 如狂者，血證諦也，抵當湯主之。(125),50
+k3_clause_formula_bb3e72fe7d,clause_sh_8daeee815b,shanghan,126.0,抵當丸,can_2c03af79af,classic_clause_uses_formula,傷寒有熱，少腹滿，應小便不利，今反利者，為有血也，當下之，不可餘藥， 宜抵當丸。(126),50
+k3_clause_formula_1329e09651,clause_sh_e2d37d40e0,shanghan,131.0,大陷胸丸,can_3ae093ce8f,classic_clause_uses_formula,病發于陽，而反下之，熱入因作結胸；病發于陰，而反下之，因作痞也。 所以成結胸者，以下之太早故也。 結胸者，項亦強，如柔痙狀，下之則和，宜大陷胸丸。(131),53
+k3_clause_formula_5769cbe50d,clause_sh_bb9e567fec,shanghan,134.0,大陷胸湯,can_19c0202378,classic_clause_uses_formula,太陽病，脈浮而動數，浮則為風，數則為熱，動則為痛，數則為虛，頭痛發 熱，微盜汗出，而反惡寒者，表未解也。 醫反下之，動數變遲，膈內拒痛，胃中空虛，客氣動膈，短氣躁煩，心中懊 憹，陽氣內陷，心下因鞕，則為結胸，大陷胸湯主之。 若不結胸，但頭汗出，餘處無汗，劑頸而還，小便不利，身必發黃。(134),53
+k3_clause_formula_556d669cb2,clause_sh_4deb2432e6,shanghan,135.0,大陷胸湯,can_19c0202378,classic_clause_uses_formula,傷寒六七日，結胸熱實，脈沉而緊，心下痛，按之石鞕者，大陷胸湯主之。 (135),53
+k3_clause_formula_549686a943,clause_sh_51c077c7df,shanghan,136.0,大柴胡湯,can_a1985a28fe,classic_clause_uses_formula,傷寒十餘日，熱結在裡，復往來寒熱者，與大柴胡湯；但結胸，無大熱者， 此為水結在胸脅也。但頭微汗出者，大陷胸湯主之。(136),53
+k3_clause_formula_afbe02f21a,clause_sh_51c077c7df,shanghan,136.0,大陷胸湯,can_19c0202378,classic_clause_uses_formula,傷寒十餘日，熱結在裡，復往來寒熱者，與大柴胡湯；但結胸，無大熱者， 此為水結在胸脅也。但頭微汗出者，大陷胸湯主之。(136),53
+k3_clause_formula_18d3e0fbce,clause_sh_eb81dc52a6,shanghan,137.0,大陷胸湯,can_19c0202378,classic_clause_uses_formula,太陽病，重發汗而復下之，不大便五六日，舌上燥而渴，日晡所小有潮熱， 從心下至少腹鞕滿而痛不可近者，大陷胸湯主之。(137),53
+k3_clause_formula_42c090c31a,clause_sh_7481be0a06,shanghan,138.0,小陷胸湯,can_57fa2fb829,classic_clause_uses_formula,小結胸病，正在心下，按之則痛，脈浮滑者，小陷胸湯主之。(138),53
+k3_clause_formula_d7f8b151a8,clause_sh_0d63688b17,shanghan,141.0,三物白散,can_31d9c1905f,classic_clause_uses_formula,寒實結胸，無熱證者，與三物白散。(141),53
+k3_clause_formula_d52070b568,clause_sh_6bc368cc78,shanghan,149.0,半夏瀉心湯,can_f7fe3e3a3d,classic_clause_uses_formula,傷寒五六日，嘔而發熱者，柴胡湯證具，而以他藥下之，柴胡證仍在者， 復與柴胡湯。 此雖已下之不為逆，必蒸蒸而振，卻發熱汗出而解。 若心下滿而鞕痛者，此為結胸也，大陷胸湯主之； 但滿而不痛者，此為痞，柴胡不中與之，宜半夏瀉心湯。(149),58
+k3_clause_formula_a5705945bb,clause_sh_6bc368cc78,shanghan,149.0,大陷胸湯,can_19c0202378,classic_clause_uses_formula,傷寒五六日，嘔而發熱者，柴胡湯證具，而以他藥下之，柴胡證仍在者， 復與柴胡湯。 此雖已下之不為逆，必蒸蒸而振，卻發熱汗出而解。 若心下滿而鞕痛者，此為結胸也，大陷胸湯主之； 但滿而不痛者，此為痞，柴胡不中與之，宜半夏瀉心湯。(149),58
+k3_clause_formula_d11bbe9493,clause_sh_6bc368cc78,shanghan,149.0,柴胡湯,can_2a67e77749,classic_clause_uses_formula,傷寒五六日，嘔而發熱者，柴胡湯證具，而以他藥下之，柴胡證仍在者， 復與柴胡湯。 此雖已下之不為逆，必蒸蒸而振，卻發熱汗出而解。 若心下滿而鞕痛者，此為結胸也，大陷胸湯主之； 但滿而不痛者，此為痞，柴胡不中與之，宜半夏瀉心湯。(149),58
+k3_clause_formula_c81c3aadc6,clause_sh_24ddc409de,shanghan,154.0,大黃黃連瀉心湯,can_86b453bfa7,classic_clause_uses_formula,心下痞，按之濡，其脈關上浮者，大黃黃連瀉心湯主之。(154),58
+k3_clause_formula_7dbc857a81,clause_sh_6cd80de900,shanghan,155.0,附子瀉心湯,can_48f5498107,classic_clause_uses_formula,心下痞，而復惡寒，汗出者，附子瀉心湯主之。(155),58
+k3_clause_formula_d13c0825e7,clause_sh_65e2bde8d3,shanghan,157.0,生薑瀉心湯,can_74372b1dfb,classic_clause_uses_formula,傷寒汗出，解之後，胃中不和，心下痞鞕，乾噫食臭，脅下有水氣，腹中雷 鳴下利者，生薑瀉心湯主之(157),58
+k3_clause_formula_b6f533a020,clause_sh_35dfa2c256,shanghan,158.0,甘草瀉心湯,can_25ddb73d49,classic_clause_uses_formula,傷寒中風，醫反下之，其人下利，日數十行，穀不化，腹中雷鳴，心下痞鞕 而滿，乾嘔，心煩不得安。 醫見心下痞，謂病不盡，復下之，其痞益甚。 此非結熱，但以胃中虛，客氣上逆，故使鞕也。甘草瀉心湯主之。(158),58
+k3_clause_formula_4a974f1d02,clause_sh_ac97e621bd,shanghan,159.0,赤石脂禹餘糧湯,can_46990b3370,classic_clause_uses_formula,傷寒，服湯藥，下利不止，心下痞鞕，服瀉心湯已。 復以他藥下之，利不止，醫以理中與之，利益甚。 理中者，理中焦，此利在下焦，赤石脂禹餘糧湯主之。 復不止者，當利其小便。(159),58
+k3_clause_formula_8422a283f1,clause_sh_ac97e621bd,shanghan,159.0,瀉心湯,can_1a91e01bb6,classic_clause_uses_formula,傷寒，服湯藥，下利不止，心下痞鞕，服瀉心湯已。 復以他藥下之，利不止，醫以理中與之，利益甚。 理中者，理中焦，此利在下焦，赤石脂禹餘糧湯主之。 復不止者，當利其小便。(159),58
+k3_clause_formula_5e73d8573c,clause_sh_6bfa430664,shanghan,164.0,大黃黃連瀉心湯,can_86b453bfa7,classic_clause_uses_formula,辨熱痞的證治 傷寒大下後，復發汗，心下痞，惡寒者，表未解也，不可攻痞，當先解表， 表解乃可攻痞。 解表宜桂枝湯，攻痞宜大黃黃連瀉心湯。(164),58
+k3_clause_formula_ccc9f45205,clause_sh_6bfa430664,shanghan,164.0,桂枝湯,can_2849adeebb,classic_clause_uses_formula,辨熱痞的證治 傷寒大下後，復發汗，心下痞，惡寒者，表未解也，不可攻痞，當先解表， 表解乃可攻痞。 解表宜桂枝湯，攻痞宜大黃黃連瀉心湯。(164),58
+k3_clause_formula_77c79465a4,clause_sh_a7b80ac9b3,shanghan,156.0,五苓散,can_4ec3299305,classic_clause_uses_formula,本以下之，故心下痞，與瀉心湯，痞不解，其人渴而口燥煩，小便不利者， 五苓散主之。(156),59
+k3_clause_formula_5c0b2baca9,clause_sh_a7b80ac9b3,shanghan,156.0,瀉心湯,can_1a91e01bb6,classic_clause_uses_formula,本以下之，故心下痞，與瀉心湯，痞不解，其人渴而口燥煩，小便不利者， 五苓散主之。(156),59
+k3_clause_formula_f945b143e1,clause_sh_9a45b3bddd,shanghan,161.0,旋覆代赭湯,can_a6c1667847,classic_clause_uses_formula,傷寒發汗，若吐，若下，解後，心下痞鞕，噫氣不除者，旋覆代赭湯主之。(161),59
+k3_clause_formula_366d995574,clause_sh_f3c90dcb87,shanghan,173.0,黃連湯,can_cbf0400be4,classic_clause_uses_formula,傷寒，胸中有熱，胃中有邪氣，腹中痛，欲嘔吐者，黃連湯主之。(173),63
+k3_clause_formula_1ffa537c16,clause_sh_b6a30bba50,shanghan,94.0,調胃承氣湯,can_07468b2497,classic_clause_uses_formula,太陽病未解，脈陰陽俱停，必先振慄汗出而解。 但陽脈微者，先汗出而解；但陰脈微者，下之而解。若欲下之，宜調胃承氣湯。(94),65
+k3_clause_formula_a5dd0b7c19,clause_sh_8f35f973cb,shanghan,152.0,十棗湯,can_f3ad66a19d,classic_clause_uses_formula,太陽中風，下利，嘔逆，表解者，乃可攻之。 其人漐漐汗出，發作有時，頭痛，心下痞鞕滿，引脅下痛，乾嘔，短氣， 汗出不惡寒者，此表解裡未和也，十棗湯主之。(152),66
+k3_clause_formula_c859fe6af2,clause_sh_a781d3926d,shanghan,166.0,瓜蒂散,can_466f3263b0,classic_clause_uses_formula,病如桂枝證，頭不痛、項不強、寸脈微浮、胸中痞鞕、氣上衝喉咽不得息者， 此為胸有寒也。當吐之，宜瓜蒂散。(166),67
+k3_clause_formula_29e20164c9,clause_sh_8357710967,shanghan,385.0,四逆加人參湯,can_98480251f0,classic_clause_uses_formula,惡寒，脈微而復利，利止亡血也。四逆加人參湯主之。(385),181
+k3_clause_formula_4222319495,clause_sh_aae67afaf0,shanghan,386.0,理中丸,can_a61be5b856,classic_clause_uses_formula,霍亂，頭痛，發熱，身疼痛，熱多欲飲水者，五苓散主之。 寒多不用水者，理中丸主之。(386),181
+k3_clause_formula_5978c47151,clause_sh_aae67afaf0,shanghan,386.0,五苓散,can_4ec3299305,classic_clause_uses_formula,霍亂，頭痛，發熱，身疼痛，熱多欲飲水者，五苓散主之。 寒多不用水者，理中丸主之。(386),181
+k3_clause_formula_576be6021b,clause_sh_14eb3960e0,shanghan,387.0,桂枝湯,can_2849adeebb,classic_clause_uses_formula,吐利止而身痛不休者，當消息和解其外，宜桂枝湯小和之。(387),181
+k3_clause_formula_705c117a29,clause_sh_ec0c59e686,shanghan,388.0,四逆湯,can_4bd7a9684a,classic_clause_uses_formula,吐利，汗出，發熱，惡寒，四肢拘急，手足厥冷者，四逆湯主之。(388),181
+k3_clause_formula_8502eb790c,clause_sh_a34b979465,shanghan,389.0,四逆湯,can_4bd7a9684a,classic_clause_uses_formula,既吐且利，小便復利而大汗出，下利清穀，內寒外熱，脈微欲絕者， 四逆湯主之。(389),181
+k3_clause_formula_8481ae7a75,clause_sh_3e95e4df95,shanghan,390.0,通脈四逆加豬膽汁湯,can_78057b3b1b,classic_clause_uses_formula,吐已下斷，汗出而厥，四肢拘急不解，脈微欲絕者，通脈四逆加豬膽汁湯主之。 (390),181
+k3_clause_formula_a2363d2fad,clause_sh_f64ebc48a6,shanghan,390.0,通脈四逆加豬膽汁湯,can_78057b3b1b,classic_clause_uses_formula,甘草二兩，炙 乾薑三兩，強人可四兩 附子大者一枚，生，去皮，破八片 豬 膽汁半合 上四味，用水三升，煮取一升二合，去滓，內豬膽汁。分溫再服，其脈即來。  無豬膽，以羊膽代之。 吐已下斷，汗出而厥，四肢拘急不解，脈微欲絕者，通脈四逆加豬膽汁湯主之。(390),181；182；184
+k3_clause_formula_9fd2a6163f,clause_sh_866086e964,shanghan,96.0,小柴胡湯,can_1a0df3ae93,classic_clause_uses_formula,傷寒五六日，中風，往來寒熱，胸脅苦滿，嘿嘿不欲飲食，心煩喜嘔。 或胸中煩而不嘔，或渴，或腹中痛，或脅下痞鞭，或心下悸，小便不利，或不渴，身 有微熱，或咳者，小柴胡湯主之。(96),101
+k3_clause_formula_a94c533c90,clause_sh_fe5b11554b,shanghan,97.0,小柴胡湯,can_1a0df3ae93,classic_clause_uses_formula,血弱氣盡，腠理開，邪氣因入，與正氣相搏，結於脅下。 正邪分爭，往來寒熱，休作有時，嘿嘿不欲飲食，臟府相連，其痛必下，邪高痛下， 故使嘔也，小柴胡湯主之。 服柴胡湯已，渴者，屬陽明，以法治之。(97),101
+k3_clause_formula_2fd6be9884,clause_sh_fe5b11554b,shanghan,97.0,柴胡湯,can_2a67e77749,classic_clause_uses_formula,血弱氣盡，腠理開，邪氣因入，與正氣相搏，結於脅下。 正邪分爭，往來寒熱，休作有時，嘿嘿不欲飲食，臟府相連，其痛必下，邪高痛下， 故使嘔也，小柴胡湯主之。 服柴胡湯已，渴者，屬陽明，以法治之。(97),101
+k3_clause_formula_a9d69e758c,clause_sh_c2da41157e,shanghan,99.0,小柴胡湯,can_1a0df3ae93,classic_clause_uses_formula,傷寒四五日，身熱，惡風，頸項強，脅下滿，手足溫而渴者，小柴胡湯主之。(99),101
+k3_clause_formula_2dca11d89d,clause_sh_b274080fe0,shanghan,100.0,小建中湯,can_17b038dbde,classic_clause_uses_formula,傷寒，陽脈澀，陰脈弦，法當腹中急痛，先與小建中湯；不差者，小柴胡湯主之。(100),101
+k3_clause_formula_1b00b8b3fd,clause_sh_b274080fe0,shanghan,100.0,小柴胡湯,can_1a0df3ae93,classic_clause_uses_formula,傷寒，陽脈澀，陰脈弦，法當腹中急痛，先與小建中湯；不差者，小柴胡湯主之。(100),101
+k3_clause_formula_e4eb32978e,clause_sh_92ecf1d959,shanghan,101.0,柴胡湯,can_2a67e77749,classic_clause_uses_formula,傷寒中風，有柴胡證，但見一證便是，不必悉具。 凡柴胡湯病證而下之，若柴胡證不罷者，復與柴胡湯，必蒸蒸而振，卻復發熱汗出而 解。(101),101
+k3_clause_formula_57696d2106,clause_sh_292e72f0fd,shanghan,148.0,小柴胡湯,can_1a0df3ae93,classic_clause_uses_formula,傷寒五六日，頭汗出，微惡寒，手足冷，心下滿，口不欲食，大便鞕，脈細者，此為 陽微結，必有表，復有裡也。 脈沉，亦在裡也。汗出，為陽微。 假令純陰結，不得復有外證，悉入在裡。此為半在裡，半在外也。脈雖沈緊，不得為 少陰病。 所以然者，陰不得有汗，今頭汗出，故知非少陰也，可與小柴胡湯。 設不了了者，得屎而解。(148),101
+k3_clause_formula_1b3a388a70,clause_sh_8e69068352,shanghan,229.0,小柴胡湯,can_1a0df3ae93,classic_clause_uses_formula,陽明病，發潮熱，大便溏，小便自可，胸脅滿不去者，與小柴胡湯。(229),101
+k3_clause_formula_18868d67d6,clause_sh_8795718641,shanghan,230.0,小柴胡湯,can_1a0df3ae93,classic_clause_uses_formula,陽明病，脅下鞕滿，不大便而嘔，舌上白胎者，可與小柴胡湯。 上焦得通，津液得下，胃氣因和，身濈然汗出而解。(230),101
+k3_clause_formula_1c5b78add1,clause_sh_f6a8fbbb14,shanghan,266.0,小柴胡湯,can_1a0df3ae93,classic_clause_uses_formula,本太陽病不解，轉入少陽者，脅下鞕滿，乾嘔不能食，往來寒熱，尚未吐下，脈沉緊 者，與小柴胡湯。(266),101
+k3_clause_formula_9012ab026c,clause_sh_74dbf6a8b7,shanghan,146.0,柴胡桂枝湯,can_41457d0002,classic_clause_uses_formula,傷寒六七日，發熱，微惡寒，支節煩痛，微嘔，心下支結，外證未去者， 柴胡桂枝湯主之。(146),108
+k3_clause_formula_63b3aadebd,clause_sh_d801ac2399,shanghan,267.0,柴胡湯,can_2a67e77749,classic_clause_uses_formula,若已吐下發汗溫針，譫語，柴胡湯證罷，此為壞病。知犯何逆，以法治之。(267),108
+k3_clause_formula_b701b2c434,clause_sh_4ee068f795,shanghan,147.0,柴胡桂枝乾薑湯,can_2a556c1122,classic_clause_uses_formula,傷寒五六日，已發汗而復下之，胸脅滿微結，小便不利，渴而不嘔，但頭汗出， 往來寒熱，心煩者，此為未解也，柴胡桂枝乾薑湯主之。(147),113
+k3_clause_formula_5b29644caf,clause_sh_de34fe44a6,shanghan,107.0,柴胡加龍骨牡蠣湯,can_fa297aa0fd,classic_clause_uses_formula,傷寒八九日，下之，胸滿煩驚，小便不利，譫語，一身盡重，不可轉側者， 柴胡加龍骨牡蠣湯主之。(107),116
+k3_clause_formula_6fb7935098,clause_sh_5cdcd4736b,shanghan,144.0,小柴胡湯,can_1a0df3ae93,classic_clause_uses_formula,婦人中風，七八日續得寒熱，發作有時，經水適斷者，此為熱入血室。 其血必結，故使如瘧狀，發作有時，小柴胡湯主之。(144),119
+k3_clause_formula_d0b7d19361,clause_sh_aeb67abc24,shanghan,168.0,白虎加人參湯,can_29712407d7,classic_clause_uses_formula,傷寒若吐若下後，七八日不解，熱結在裡，表裡俱熱，時時惡風，大渴， 舌上乾燥而煩，欲飲水數升者，白虎加人參湯主之。(168),75
+k3_clause_formula_bed23c3ff6,clause_sh_33abb1f0cc,shanghan,169.0,白虎加人參湯,can_29712407d7,classic_clause_uses_formula,傷寒無大熱，口燥渴，心煩，背微惡寒者，白虎加人參湯主之。(169),75
+k3_clause_formula_ea2267a5fa,clause_sh_425602f1de,shanghan,170.0,白虎加人參湯,can_29712407d7,classic_clause_uses_formula,傷寒，脈浮，發熱，無汗，其表不解，不可與白虎湯。 渴欲飲水，無表證者，白虎加人參湯主之。(170),75
+k3_clause_formula_4c8c4e750a,clause_sh_425602f1de,shanghan,170.0,白虎湯,can_2ff0ddd4f5,classic_clause_uses_formula,傷寒，脈浮，發熱，無汗，其表不解，不可與白虎湯。 渴欲飲水，無表證者，白虎加人參湯主之。(170),75
+k3_clause_formula_0e52d53f12,clause_sh_c525cd07b9,shanghan,176.0,白虎湯,can_2ff0ddd4f5,classic_clause_uses_formula,傷寒，脈浮滑，此以表有熱，裡有寒也，白虎湯主之。(176),75
+k3_clause_formula_db5a2ad885,clause_sh_559a2802f9,shanghan,219.0,白虎湯,can_2ff0ddd4f5,classic_clause_uses_formula,按：本條「裡有寒」應當 作「裡熱」解為是。 三陽合病，腹滿，身重，難以轉側，口不仁，面垢，譫語，遺尿。 發汗，則譫語。 下之，則額上生汗，手足逆冷。 若自汗出者，白虎湯主之。(219),75
+k3_clause_formula_766e07c986,clause_sh_37f9fc0787,shanghan,221.0,梔子豉湯,can_2482e4b13d,classic_clause_uses_formula,陽明病，脈浮而緊，咽燥，口苦，腹滿而喘，發熱汗出，不惡寒反惡熱，身重。 若發汗則躁，心憒憒，反譫語。 若加溫針，必怵惕煩躁不得眠。 若下之，則胃中空虛，客氣動膈，心中懊憹，舌上胎者，梔子豉湯主之。(221),75
+k3_clause_formula_3b05ed32d9,clause_sh_1a6159e432,shanghan,222.0,白虎加人參湯,can_29712407d7,classic_clause_uses_formula,若渴欲飲水，口乾舌燥者，白虎加人參湯主之。(222),75
+k3_clause_formula_2ee52567e4,clause_sh_2b65c01813,shanghan,223.0,豬苓湯,can_615ab27c27,classic_clause_uses_formula,若脈浮，發熱，渴欲飲水，小便不利者，豬苓湯主之。(223),75
+k3_clause_formula_71a6e61625,clause_sh_3966fe4fa2,shanghan,224.0,豬苓湯,can_615ab27c27,classic_clause_uses_formula,陽明病，汗出多而渴者，不可與豬苓湯。 以汗多胃中燥，豬苓湯復利其小便故也。(224),75
+k3_clause_formula_a5772ac5e1,clause_sh_3bf92b4938,shanghan,228.0,梔子豉湯,can_2482e4b13d,classic_clause_uses_formula,陽明病，下之，其外有熱，手足溫，不結胸，心中懊憹，饑不能食，但頭汗出者， 梔子豉湯主之。(228),75
+k3_clause_formula_eb1b99835d,clause_sh_5f879e070f,shanghan,207.0,調胃承氣湯,can_07468b2497,classic_clause_uses_formula,陽明病，不吐，不下，心煩者，可與調胃承氣湯。(207),81
+k3_clause_formula_7b08c33fcb,clause_sh_6627995f7d,shanghan,212.0,大承氣湯,can_b8804ab23f,classic_clause_uses_formula,傷寒若吐、若下後不解，不大便五六日，上至十餘日，日晡所發潮熱，不惡寒， 獨語如見鬼狀。 若劇者，發則不識人，循衣摸床，惕而不安，微喘直視，脈弦者生，澀者死。 微者，但發熱譫語者，大承氣湯主之。 若一服利，則止後服。(212),81
+k3_clause_formula_100a8e1e1b,clause_sh_e0ed5f95bf,shanghan,213.0,小承氣湯,can_fac67569c9,classic_clause_uses_formula,陽明病，其人多汗，以津液外出，胃中燥，大便必鞕，鞕則譫語，小承氣湯主之。 若一服譫語止者，更莫復服。(213),81
+k3_clause_formula_8a832e1314,clause_sh_ce83e64e1b,shanghan,214.0,小承氣湯,can_fac67569c9,classic_clause_uses_formula,陽明病，譫語，發潮熱，脈滑而疾者，小承氣湯主之。 因與承氣湯一升，腹中轉氣者，更服一升；若不轉氣者，勿更與之。 明日又不大便，脈反微澀者，裡虛也，為難治，不可更與承氣湯也。(214),81
+k3_clause_formula_d12fd771b8,clause_sh_ce83e64e1b,shanghan,214.0,承氣湯,can_e2c9c6b274,classic_clause_uses_formula,陽明病，譫語，發潮熱，脈滑而疾者，小承氣湯主之。 因與承氣湯一升，腹中轉氣者，更服一升；若不轉氣者，勿更與之。 明日又不大便，脈反微澀者，裡虛也，為難治，不可更與承氣湯也。(214),81
+k3_clause_formula_003449ff58,clause_sh_9ae64d0056,shanghan,220.0,大承氣湯,can_b8804ab23f,classic_clause_uses_formula,二陽並病，太陽證罷，但發潮熱，手足漐漐汗出，大便難而譫語者， 下之則愈，宜大承氣湯。(220),81
+k3_clause_formula_a710597265,clause_sh_deb36b9904,shanghan,241.0,大承氣湯,can_b8804ab23f,classic_clause_uses_formula,大下後，六七日不大便，煩不解，腹滿痛者，此有燥屎也。 所以然者，本有宿食故也，宜大承氣湯。(241),81
+k3_clause_formula_e60e5714a8,clause_sh_f487723510,shanghan,242.0,大承氣湯,can_b8804ab23f,classic_clause_uses_formula,病人小便不利，大便乍難乍易，時有微熱，喘冒不能臥者，有燥屎也， 宜大承氣湯。(242),81
+k3_clause_formula_ce7e77fda2,clause_sh_90241c2fd2,shanghan,248.0,調胃承氣湯,can_07468b2497,classic_clause_uses_formula,太陽病三日，發汗不解，蒸蒸發熱者，屬胃也，調胃承氣湯主之。(248),81
+k3_clause_formula_418c867b68,clause_sh_fb3cea8c00,shanghan,249.0,調胃承氣湯,can_07468b2497,classic_clause_uses_formula,傷寒吐後，腹脹滿者，與調胃承氣湯。(249),81
+k3_clause_formula_dac90a5f3d,clause_sh_4f5b68d04c,shanghan,250.0,小承氣湯,can_fac67569c9,classic_clause_uses_formula,太陽病，若吐，若下，若發汗後，微煩，小便數，大便因鞕者， 與小承氣湯，和之愈。(250),81
+k3_clause_formula_66057a5264,clause_sh_c4188332b6,shanghan,252.0,大承氣湯,can_b8804ab23f,classic_clause_uses_formula,傷寒六七日，目中不了了，睛不和，無表裡證，大便難，身微熱者，此為實也。 急下之，宜大承氣湯。(252),81
+k3_clause_formula_7076f9ead4,clause_sh_f2fe639605,shanghan,253.0,大承氣湯,can_b8804ab23f,classic_clause_uses_formula,陽明病，發熱，汗多者，急下之，宜大承氣湯。(253),81
+k3_clause_formula_c13e3a9f26,clause_sh_110b82ae47,shanghan,254.0,大承氣湯,can_b8804ab23f,classic_clause_uses_formula,發汗不解，腹滿痛者，急下之，宜大承氣湯。(254),81
+k3_clause_formula_7275012f3b,clause_sh_6e7a1a22fe,shanghan,215.0,大承氣湯,can_b8804ab23f,classic_clause_uses_formula,陽明病，譫語，有潮熱，反不能食者，胃中必有燥屎五六枚也。 若能食者，但鞕耳。宜大承氣湯下之。(215),81；82
+k3_clause_formula_28a5988d7d,clause_sh_0a2ed7cb15,shanghan,217.0,大承氣湯,can_b8804ab23f,classic_clause_uses_formula,汗出譫語者，以有燥屎在胃中，此為風也。須下者，過經乃可下之。 下之若早，語言必亂，以表虛裡實故也。 下之愈，宜大承氣湯。(217),81；82
+k3_clause_formula_e32d1fe971,clause_sh_d95b016d2c,shanghan,238.0,大承氣湯,can_b8804ab23f,classic_clause_uses_formula,陽明病，下之，心中懊憹而煩，胃中有燥屎者，可攻。 腹微滿，初頭鞕，後必溏，不可攻之。 若有燥屎者，宜大承氣湯。(238),81；82
+k3_clause_formula_733363fd9c,clause_sh_15cf269ef4,shanghan,255.0,大承氣湯,can_b8804ab23f,classic_clause_uses_formula,腹滿不減，減不足言，當下之，宜大承氣湯。(255),81；82
+k3_clause_formula_5c3587a1e7,clause_sh_0ca6fa040d,shanghan,256.0,大承氣湯,can_b8804ab23f,classic_clause_uses_formula,陽明少陽合病，必下利。其脈不負者，為順也；負者，失也。 互相剋賊，名為負也。脈滑而數者，有宿食也，當下之，宜大承氣湯。(256),81；82
+k3_clause_formula_22d8626d8f,clause_sh_fc94348a88,shanghan,208.0,小承氣湯,can_fac67569c9,classic_clause_uses_formula,陽明病，脈遲，雖汗出不惡寒者，其身必重，短氣，腹滿而喘，有潮熱者， 此外欲解，可攻裡也。 手足濈然汗出者，此大便已鞕也，大承氣湯主之。 若汗多，微發熱惡寒者，外未解也，其熱不潮，未可與承氣湯。 若腹大滿不通者，可與小承氣湯，微和胃氣，勿令至大泄下。(208),82
+k3_clause_formula_387f85866a,clause_sh_fc94348a88,shanghan,208.0,大承氣湯,can_b8804ab23f,classic_clause_uses_formula,陽明病，脈遲，雖汗出不惡寒者，其身必重，短氣，腹滿而喘，有潮熱者， 此外欲解，可攻裡也。 手足濈然汗出者，此大便已鞕也，大承氣湯主之。 若汗多，微發熱惡寒者，外未解也，其熱不潮，未可與承氣湯。 若腹大滿不通者，可與小承氣湯，微和胃氣，勿令至大泄下。(208),82
+k3_clause_formula_527974184d,clause_sh_fc94348a88,shanghan,208.0,承氣湯,can_e2c9c6b274,classic_clause_uses_formula,陽明病，脈遲，雖汗出不惡寒者，其身必重，短氣，腹滿而喘，有潮熱者， 此外欲解，可攻裡也。 手足濈然汗出者，此大便已鞕也，大承氣湯主之。 若汗多，微發熱惡寒者，外未解也，其熱不潮，未可與承氣湯。 若腹大滿不通者，可與小承氣湯，微和胃氣，勿令至大泄下。(208),82
+k3_clause_formula_ede8ad35fc,clause_sh_7445e798f1,shanghan,209.0,小承氣湯,can_fac67569c9,classic_clause_uses_formula,陽明病，潮熱，大便微鞕者，可與大承氣湯；不鞕者，不可與之。 若不大便六七日，恐有燥屎，欲知之法，少與小承氣湯，湯入腹中，轉矢氣 者，此有燥屎也，乃可攻之； 若不轉矢氣者，此但初頭鞕，後必溏，不可攻之，攻之必脹滿不能食也。 欲飲水者，與水則噦。 其後發熱者，必大便復鞕而少也，以小承氣湯和之。 不轉矢氣者，慎不可攻也。(209),82
+k3_clause_formula_55909dafb3,clause_sh_7445e798f1,shanghan,209.0,大承氣湯,can_b8804ab23f,classic_clause_uses_formula,陽明病，潮熱，大便微鞕者，可與大承氣湯；不鞕者，不可與之。 若不大便六七日，恐有燥屎，欲知之法，少與小承氣湯，湯入腹中，轉矢氣 者，此有燥屎也，乃可攻之； 若不轉矢氣者，此但初頭鞕，後必溏，不可攻之，攻之必脹滿不能食也。 欲飲水者，與水則噦。 其後發熱者，必大便復鞕而少也，以小承氣湯和之。 不轉矢氣者，慎不可攻也。(209),82
+k3_clause_formula_fc0ae5f86a,clause_sh_09c51a8021,shanghan,233.0,蜜煎,can_cef13f92b3,classic_clause_uses_formula,陽明病，自汗出。若發汗，小便自利者，此為津液內竭，雖鞕不可攻之，當須自 欲大便，宜蜜煎導而通之。若土瓜根及大豬膽汁，皆可為導。(233),82
+k3_clause_formula_5c39dea4c8,clause_sh_385d753932,shanghan,247.0,麻子仁丸,can_c55bf7f8a9,classic_clause_uses_formula,趺陽脈浮而澀，浮則胃氣強，澀則小便數，浮澀相搏，大便則鞕，其脾為約， 麻子仁丸主之。(247),82
+k3_clause_formula_fe86b0f866,clause_sh_948c5d1f9d,shanghan,251.0,小承氣湯,can_fac67569c9,classic_clause_uses_formula,得病二三日，脈弱，無太陽柴胡證，煩躁，心下鞕，至四五日，雖能食， 以小承氣湯少少與，微和之，令小安。至六日，與承氣湯一升。 若不大便六七日，小便少者，雖不受食，但初頭鞕，後必溏，未定成鞕， 攻之必溏，須小便利，屎定鞕，乃可攻之，宜大承氣湯。(251),82；83
+k3_clause_formula_7e5ac00ebd,clause_sh_948c5d1f9d,shanghan,251.0,大承氣湯,can_b8804ab23f,classic_clause_uses_formula,得病二三日，脈弱，無太陽柴胡證，煩躁，心下鞕，至四五日，雖能食， 以小承氣湯少少與，微和之，令小安。至六日，與承氣湯一升。 若不大便六七日，小便少者，雖不受食，但初頭鞕，後必溏，未定成鞕， 攻之必溏，須小便利，屎定鞕，乃可攻之，宜大承氣湯。(251),82；83
+k3_clause_formula_3fb11bb30f,clause_sh_948c5d1f9d,shanghan,251.0,承氣湯,can_e2c9c6b274,classic_clause_uses_formula,得病二三日，脈弱，無太陽柴胡證，煩躁，心下鞕，至四五日，雖能食， 以小承氣湯少少與，微和之，令小安。至六日，與承氣湯一升。 若不大便六七日，小便少者，雖不受食，但初頭鞕，後必溏，未定成鞕， 攻之必溏，須小便利，屎定鞕，乃可攻之，宜大承氣湯。(251),82；83
+k3_clause_formula_f07c55a574,clause_sh_101ad3906a,shanghan,236.0,茵陳蒿湯,can_11513e5db9,classic_clause_uses_formula,陽明病，發熱，汗出者，此為熱越，不能發黃也。但頭汗出，身無汗，劑頸而還， 小便不利，渴引水漿者，此為瘀熱在裡，身必發黃，茵陳蒿湯主之。(236),89
+k3_clause_formula_776e6f0fb7,clause_sh_6b6c7e35a7,shanghan,260.0,茵陳蒿湯,can_11513e5db9,classic_clause_uses_formula,傷寒七八日，身黃如橘子色，小便不利，腹微滿者，茵陳蒿湯主之。(260),89
+k3_clause_formula_51d7e14955,clause_sh_7ed1763370,shanghan,261.0,梔子蘗皮湯,can_ad6798de56,classic_clause_uses_formula,傷寒身黃發熱，梔子蘗皮湯主之。(261),89
+k3_clause_formula_8c08f22b4f,clause_sh_976a132718,shanghan,262.0,麻黃連軺赤小豆湯,can_a767624758,classic_clause_uses_formula,傷寒瘀熱在裡，身必黃，麻黃連軺赤小豆湯主之。(262),89
+k3_clause_formula_49f3d569e6,clause_sh_790e65ed60,shanghan,237.0,抵當湯,can_65e2755719,classic_clause_uses_formula,陽明證，其人喜忘者，必有蓄血。 所以然者，本有久瘀血，故令喜忘，屎雖鞕，大便反易，其色必黑者， 宜抵當湯下之。(237),92
+k3_clause_formula_bf224d5e58,clause_sh_17cbaa1ceb,shanghan,257.0,抵當湯,can_65e2755719,classic_clause_uses_formula,病人無表裡證，發熱七八日，雖脈浮數者，可下之。 假令已下，脈數不解，合熱則消穀善饑，至六七日，不大便者，有瘀血， 宜抵當湯。(257),92
+k3_clause_formula_c0ce3b143b,clause_sh_3cdb5e4eb5,shanghan,243.0,吳茱萸湯,can_5c864669bd,classic_clause_uses_formula,食穀欲嘔，屬陽明也，吳茱萸湯主之。得湯反劇者，屬上焦也。(243),95
+k3_clause_formula_ddb7aedb60,clause_sh_31ecb4ad29,shanghan,225.0,四逆湯,can_4bd7a9684a,classic_clause_uses_formula,脈浮而遲，表熱裡寒，下利清穀者，四逆湯主之。(225),97
+k3_clause_formula_75ce70e862,clause_sh_cebc5326d7,shanghan,231.0,小柴胡湯,can_1a0df3ae93,classic_clause_uses_formula,陽明中風，脈弦浮大而短氣，腹都滿，脇下及心痛，久按之氣不通，鼻乾，不得汗， 嗜臥，一身及目悉黃，小便難，有潮熱，時時噦，耳前後腫，刺之小瘥，外不解。 病過十日，脈續浮者，與小柴胡湯。(231),97
+k3_clause_formula_1c0d989324,clause_sh_d2acd9184a,shanghan,232.0,麻黃湯,can_a2aaa3190c,classic_clause_uses_formula,脈但浮，無餘證者，與麻黃湯。若不尿，腹滿加噦者，不治。(232),97
+k3_clause_formula_3c66637bd5,clause_sh_7bedfb0d48,shanghan,234.0,桂枝湯,can_2849adeebb,classic_clause_uses_formula,陽明病，脈遲，汗出多，微惡寒者，表未解也。可發汗，宜桂枝湯。(234),97
+k3_clause_formula_cc1a2dafc3,clause_sh_ed32bf6fb2,shanghan,235.0,麻黃湯,can_a2aaa3190c,classic_clause_uses_formula,陽明病，脈浮，無汗而喘者，發汗則愈，宜麻黃湯。(235),97
+k3_clause_formula_0641e2eb6d,clause_sh_5ac102c938,shanghan,240.0,大承氣湯,can_b8804ab23f,classic_clause_uses_formula,病人煩熱，汗出則解，又如瘧狀。目晡所發熱者，屬陽明也。 脈實者，宜下之；脈浮虛者，宜發汗。 下之，與大承氣湯；發汗，宜桂枝湯。(240),97
+k3_clause_formula_4afcfe59a6,clause_sh_5ac102c938,shanghan,240.0,桂枝湯,can_2849adeebb,classic_clause_uses_formula,病人煩熱，汗出則解，又如瘧狀。目晡所發熱者，屬陽明也。 脈實者，宜下之；脈浮虛者，宜發汗。 下之，與大承氣湯；發汗，宜桂枝湯。(240),97
+k3_clause_formula_e77377f1fa,clause_sh_807c091072,shanghan,244.0,五苓散,can_4ec3299305,classic_clause_uses_formula,太陽病，寸緩，關浮，尺弱，其人發熱汗出，復惡寒，不嘔，但心下痞者，此以醫下之也。 如其不下者，病人不惡寒而渴者，此轉屬陽明也，小便數者，大便必鞕，不更衣十日，無所苦也。 渴欲飲水，少少與之，但以法救之。渴者，宜五苓散。(244),97
+k3_clause_formula_7cba9ac2c0,clause_sh_c7c8421f9f,shanghan,304.0,附子湯,can_4da6dea6c5,classic_clause_uses_formula,少陰病，得之一二日，口中和，其背惡寒者，當灸之，附子湯主之。(304),133
+k3_clause_formula_84513dcd78,clause_sh_82266d6722,shanghan,305.0,附子湯,can_4da6dea6c5,classic_clause_uses_formula,少陰病，身體痛，手足寒，骨節痛，脈沉者，附子湯主之。(305),133
+k3_clause_formula_6792595758,clause_sh_211bbbe231,shanghan,306.0,桃花湯,can_4f746eced5,classic_clause_uses_formula,少陰病，下利，便膿血者，桃花湯主之。(306),133
+k3_clause_formula_f7683c0e31,clause_sh_e5885edeb7,shanghan,307.0,桃花湯,can_4f746eced5,classic_clause_uses_formula,少陰病，二三日至四五日，腹痛，小便不利，下利不止，便膿血者， 桃花湯主之。(307),133
+k3_clause_formula_e04f803289,clause_sh_eed59e0350,shanghan,309.0,吳茱萸湯,can_5c864669bd,classic_clause_uses_formula,少陰病，吐利，手足逆冷，煩躁欲死者，吳茱萸湯主之。(309),133
+k3_clause_formula_9be6faa090,clause_sh_d71bb6a461,shanghan,314.0,白通湯,can_53b7f575c7,classic_clause_uses_formula,少陰病，下利，白通湯主之。(314),133
+k3_clause_formula_157297d8cf,clause_sh_9cabcefb41,shanghan,315.0,白通加豬膽汁湯,can_87c8ab9e40,classic_clause_uses_formula,少陰病，下利，脈微者，與白通湯。 利不止，厥逆無脈，乾嘔，煩者，白通加豬膽汁湯主之。 服湯，脈暴出者死，微續者生。(315),133
+k3_clause_formula_bc0dc8bdaa,clause_sh_9cabcefb41,shanghan,315.0,白通湯,can_53b7f575c7,classic_clause_uses_formula,少陰病，下利，脈微者，與白通湯。 利不止，厥逆無脈，乾嘔，煩者，白通加豬膽汁湯主之。 服湯，脈暴出者死，微續者生。(315),133
+k3_clause_formula_a42223eefe,clause_sh_168c5fa3c8,shanghan,316.0,真武湯,can_c343468943,classic_clause_uses_formula,利*，或下利，或嘔者，真武湯主之。(316),133
+k3_clause_formula_3bd5b9e0f1,clause_sh_e4f851c818,shanghan,317.0,通脈四逆湯,can_eaa4fac2c8,classic_clause_uses_formula,少陰病，下利清穀，裡寒外熱，手足厥逆，脈微欲絕，身反不惡寒，其人面色赤， 或腹痛，或乾嘔，或咽痛，或利止脈不出者，通脈四逆湯主之。(317),133
+k3_clause_formula_d131e0e7f3,clause_sh_04690eedfb,shanghan,323.0,四逆湯,can_4bd7a9684a,classic_clause_uses_formula,少陰病，脈沉者，急溫之，宜四逆湯。(323),133
+k3_clause_formula_8c95d28767,clause_sh_3dd013d34f,shanghan,324.0,四逆湯,can_4bd7a9684a,classic_clause_uses_formula,少陰病，飲食入口則吐，心中溫溫欲吐，復不能吐。 始得之，手足寒、脈弦遲者，此胸中實，不可下也，當吐之。 若膈上有寒飲，乾嘔者，不可吐也，當溫之，宜四逆湯。(324),133
+k3_clause_formula_2a4e11e0fe,clause_sh_22a2e56542,shanghan,317.0,通脈四逆湯,can_eaa4fac2c8,classic_clause_uses_formula,赤石脂一斤，一半全用，一半篩末 乾薑一兩 粳米一升 上三味，以水七升，煮米令熟，去滓。溫服七合，內赤石脂末方寸匕，日三服。 若一服愈，餘勿服。 少陰病，下利清穀，裡寒外熱，手足厥逆，脈微欲絕，身反不惡寒，其人面色赤，或腹痛，或乾嘔， 或咽痛，或利止脈不出者，通脈四逆湯主之。(317),135；137
+k3_clause_formula_f07a67f44c,clause_sh_51a8239890,shanghan,304.0,附子湯,can_4da6dea6c5,classic_clause_uses_formula,高等中醫研究參考叢書11：傷寒論。知音出版社。p.238 少陰病，得之一二日，口中和，其背惡寒者，當灸之，附子湯主之(304),135；137；138
+k3_clause_formula_1fe82db96a,clause_sh_7da73afabc,shanghan,303.0,黃連阿膠湯,can_2894f9f3f7,classic_clause_uses_formula,少陰病，得之二三日以上，心中煩，不得臥，黃連阿膠湯主之。(303),145
+k3_clause_formula_1c67eb51dc,clause_sh_938057bea4,shanghan,319.0,豬苓湯,can_615ab27c27,classic_clause_uses_formula,少陰病，下利六七日，咳而嘔渴，心煩不得眠者，豬苓湯主之。(319),145
+k3_clause_formula_5b19892bc3,clause_sh_31cea32e5b,shanghan,301.0,麻黃細辛附子湯,can_d897d4f4dc,classic_clause_uses_formula,一、麻黃細辛附子湯證、麻黃附子甘草湯證 少陰病始得之，反發熱，脈沉者，麻黃細辛附子湯主之。(301),147
+k3_clause_formula_4551b1906a,clause_sh_31cea32e5b,shanghan,301.0,麻黃附子甘草湯,can_06f0b0db33,classic_clause_uses_formula,一、麻黃細辛附子湯證、麻黃附子甘草湯證 少陰病始得之，反發熱，脈沉者，麻黃細辛附子湯主之。(301),147
+k3_clause_formula_c19bb2027a,clause_sh_18c2343d7c,shanghan,302.0,麻黃附子甘草湯,can_06f0b0db33,classic_clause_uses_formula,少陰病，得之二三日，麻黃附子甘草湯微發汗。以二三日無證，故微發汗也。(302),147
+k3_clause_formula_760fd760a3,clause_sh_256fd54dda,shanghan,320.0,大承氣湯,can_b8804ab23f,classic_clause_uses_formula,少陰病，得之二三日，口燥咽乾者，急下之，宜大承氣湯。(320),149
+k3_clause_formula_d43052b3c4,clause_sh_8d48f39560,shanghan,321.0,大承氣湯,can_b8804ab23f,classic_clause_uses_formula,少陰病，自利清水，色純青，心下必痛，口乾燥者，可下之，宜大承氣湯。(321),149
+k3_clause_formula_2fb0fa80a2,clause_sh_cd6f085e16,shanghan,322.0,大承氣湯,can_b8804ab23f,classic_clause_uses_formula,少陰病，六七日，腹脹，不大便者，急下之，宜大承氣湯。(322),149
+k3_clause_formula_9056764be3,clause_sh_c1892d0ee4,shanghan,310.0,豬膚湯,can_9ffeb594dc,classic_clause_uses_formula,少陰病，下利，咽痛，胸滿，心煩，豬膚湯主之。(310),154
+k3_clause_formula_8343dc25f3,clause_sh_3454e1ff17,shanghan,311.0,桔梗湯,can_5bb3be4fd3,classic_clause_uses_formula,少陰病，二三日，咽痛者，可與甘草湯。不差，與桔梗湯。(311),154
+k3_clause_formula_4b30080416,clause_sh_3454e1ff17,shanghan,311.0,甘草湯,can_745cdb8317,classic_clause_uses_formula,少陰病，二三日，咽痛者，可與甘草湯。不差，與桔梗湯。(311),154
+k3_clause_formula_ba681a9128,clause_sh_580d4b0d46,shanghan,312.0,苦酒湯,can_f0aa750445,classic_clause_uses_formula,少陰病，咽中傷，生瘡，不能語言。聲不出者，苦酒湯主之。(312),154
+k3_clause_formula_fa2f78b670,clause_sh_b7938de74d,shanghan,313.0,半夏散,can_d803d41911,classic_clause_uses_formula,少陰病，咽中痛，半夏散及湯主之。(313),154
+k3_clause_formula_e3cdf88beb,clause_sh_3478c3a453,shanghan,393.0,枳實梔子湯,can_8d2a0e1f1b,classic_clause_uses_formula,大病差後，勞復者，枳實梔子湯主之。(393),188
+k3_clause_formula_0d15fac283,clause_sh_94acdce4ff,shanghan,394.0,小柴胡湯,can_1a0df3ae93,classic_clause_uses_formula,傷寒差已後，更發熱者，小柴胡湯主之。 脈浮者，以汗解之；脈沉實者，以下解之。(394),188
+k3_clause_formula_bde81387e1,clause_sh_fd4354f29f,shanghan,395.0,牡礪澤瀉散,can_0bd96c7b66,classic_clause_uses_formula,大病差後，從腰以下有水氣者，牡礪澤瀉散主之。(395),188
+k3_clause_formula_cfcce4b08c,clause_sh_9dc9e8f972,shanghan,338.0,烏梅丸,can_e86d108eb3,classic_clause_uses_formula,傷寒脈微而厥，至七八日，膚冷，其人躁無暫安時者，此為臟厥，非蚘厥也。 蚘厥者，其人當吐蚘。 今病者靜，而復時煩，此為臟寒。蚘上入其膈，故煩，須臾復止， 得食而嘔又煩者，蚘聞食臭出，其人常自吐蚘。 蚘厥者，烏梅丸主之。又主久利。（338）,158
+k3_clause_formula_7b1f0c90e5,clause_sh_d219f82e98,shanghan,359.0,乾薑黃芩黃連人參湯,can_3600c93607,classic_clause_uses_formula,傷寒本自寒下，醫復吐下之，寒格，更逆吐下； 若食入口即吐，乾薑黃芩黃連人參湯主之。(359),161
+k3_clause_formula_26bb2c55bb,clause_sh_8787e50d16,shanghan,333.0,黃芩湯,can_ff9f5b461f,classic_clause_uses_formula,傷寒脈遲，六七日，而反與黃芩湯徹其熱，脈遲為寒，今與黃芩湯復除其熱，腹中 應冷，當不能食，今反能食，此名除中，必死。(333),163；164
+k3_clause_formula_b02fa179ae,clause_sh_423956155b,shanghan,350.0,白虎湯,can_2ff0ddd4f5,classic_clause_uses_formula,傷寒脈滑而厥者，裡有熱，白虎湯主之。(350),166
+k3_clause_formula_32089dfab7,clause_sh_91acf034b4,shanghan,351.0,當歸四逆湯,can_aad8567a39,classic_clause_uses_formula,手足厥寒，脈細欲絕者，當歸四逆湯主之。(351),167
+k3_clause_formula_1b95cb8c46,clause_sh_bcf1e28930,shanghan,352.0,當歸四逆加吳茱萸生薑湯,can_16678a6e1a,classic_clause_uses_formula,若其人內有久寒者，宜當歸四逆加吳茱萸生薑湯。(352),167
+k3_clause_formula_a374ea6525,clause_sh_6da3da26e0,shanghan,353.0,四逆湯,can_4bd7a9684a,classic_clause_uses_formula,大汗出，熱不去，內拘急，四肢疼，又下利厥逆而惡寒者，四逆湯主之。(353),167
+k3_clause_formula_71336835e4,clause_sh_3e886c1113,shanghan,354.0,四逆湯,can_4bd7a9684a,classic_clause_uses_formula,大汗，若大下利而厥冷者，四逆湯主之。(354),167
+k3_clause_formula_69c557c6e7,clause_sh_885a971072,shanghan,355.0,瓜蒂散,can_466f3263b0,classic_clause_uses_formula,病人手足厥冷，脈乍緊者，邪結在胸中，心下滿而煩，饑不能食者，病在胸中， 當須吐之，宜瓜蒂散。(355),170
+k3_clause_formula_69e81979b4,clause_sh_672976e97a,shanghan,356.0,茯苓甘草湯,can_610f6cd484,classic_clause_uses_formula,傷寒，厥而心下悸，宜先治水，當服茯苓甘草湯，卻治其厥，不爾，水漬入胃， 必作利也。(356),170
+k3_clause_formula_419e4043cc,clause_sh_8274e938f4,shanghan,370.0,通脈四逆湯,can_eaa4fac2c8,classic_clause_uses_formula,下利清穀，裡寒外熱，汗出而厥者，通脈四逆湯主之。(370),172
+k3_clause_formula_e98b0586a1,clause_sh_85c03ec14d,shanghan,371.0,白頭翁湯,can_922833cbb5,classic_clause_uses_formula,熱利下重者，白頭翁湯主之。(371),172
+k3_clause_formula_3a43b8e85e,clause_sh_3a0895e54c,shanghan,372.0,桂枝湯,can_2849adeebb,classic_clause_uses_formula,下利腹脹滿，身體疼痛者，先溫其裡，乃攻其表； 溫裡宜四逆湯，攻表宜桂枝湯。(372),172
+k3_clause_formula_8fd494ebe5,clause_sh_3a0895e54c,shanghan,372.0,四逆湯,can_4bd7a9684a,classic_clause_uses_formula,下利腹脹滿，身體疼痛者，先溫其裡，乃攻其表； 溫裡宜四逆湯，攻表宜桂枝湯。(372),172
+k3_clause_formula_8be67965f6,clause_sh_374c2e0d1b,shanghan,373.0,白頭翁湯,can_922833cbb5,classic_clause_uses_formula,下利欲飲水者，以有熱故也，白頭翁湯主之。(373),172
+k3_clause_formula_d14c61d513,clause_sh_c7fdd73dbb,shanghan,374.0,小承氣湯,can_fac67569c9,classic_clause_uses_formula,下利譫語者，有燥屎也，宜小承氣湯。(374),172
+k3_clause_formula_568a2d921b,clause_sh_29cd14896b,shanghan,377.0,四逆湯,can_4bd7a9684a,classic_clause_uses_formula,嘔而脈弱，小便復利，身有微熱，見厥者，難治，四逆湯主之。(377),176
+k3_clause_formula_940411b48f,clause_sh_80fd45c423,shanghan,378.0,吳茱萸湯,can_5c864669bd,classic_clause_uses_formula,乾嘔吐涎沫，頭痛者，吳茱萸湯主之。(378),176
+k3_clause_formula_98b08745ba,clause_sh_bd9abf8e0b,shanghan,379.0,小柴胡湯,can_1a0df3ae93,classic_clause_uses_formula,嘔而發熱者，小柴胡湯主之。(379),176
+k3_clause_formula_8ee3f04255,clause_sh_4eb0b454f8,shanghan,375.0,梔子豉湯,can_2482e4b13d,classic_clause_uses_formula,下利後更煩，按之心下濡者，為虛煩也，宜梔子豉湯。(375),179
+k3_clause_formula_9e9f670901,clause_sh_3534efe1cc,shanghan,276.0,桂枝湯,can_2849adeebb,classic_clause_uses_formula,太陰病，脈浮者，可發汗，宜桂枝湯。(276),124
+0504_clause_formula_04711b7332e5,clause_jg_d7cf14db8a,jingui,23.0,去桂加白朮湯,can_17d6d4d2a6,classic_clause_uses_formula,風濕表陽虛：傷寒八九日，風濕相搏，身體疼煩，不能自轉側，不嘔不渴 ，脈浮虛而澀者，桂枝附子湯主之； 若大便堅，小便自利者，去桂加白朮湯主之。(23),15
+0504_clause_formula_c5de8d72b5a5,clause_jg_dfa6cd157d,jingui,15.0,八味腎氣丸,can_f6133068f5,classic_clause_uses_formula,虛勞腰痛，少腹拘急，小便不利者，八味腎氣丸主之。(15),35
+0504_clause_formula_b6e6ee46e2b1,clause_jg_53a060ef92,jingui,41.0,小半夏茯苓湯,can_b7bc26913a,classic_clause_uses_formula,胃中停水 先渴後嘔，為水停心下，此屬飲家，小半夏茯苓湯主之。(41),70
+0504_clause_formula_2380d34ee8ea,clause_jg_0ce62b2289,jingui,36.0,茯苓桂枝五味甘草湯,can_bf1d0528e8,classic_clause_uses_formula,青龍湯下已，多唾口燥，寸脈沉，尺脈微，手足厥逆，氣從小腹上衝胸咽，手 足痹，其面翕熱如醉狀，因復下流陰股，小便難，時復冒者，與茯苓桂枝五味 甘草湯，治其氣衝。(36),71
+0504_clause_formula_d2a5982ddaf0,clause_jg_4d71355ae0,jingui,3.0,腎氣丸,can_f6133068f5,classic_clause_uses_formula,男子消渴，小便反多，以飲一斗，小便一斗，腎氣丸主之。(3),83
+0504_clause_formula_f542780496e3,clause_jg_4d7c6e297c,jingui,31.0,桂枝去芍藥加麻辛附子湯,can_072d834e75,classic_clause_uses_formula,氣分，心下堅，大如盤，邊如旋杯，水飲所作，桂枝去芍藥加麻辛附子湯主之。(31),90
+0504_clause_formula_2f7ae0853b50,clause_jg_eae943380d,jingui,13.0,猪苓散,can_49982b9a8b,classic_clause_uses_formula,嘔吐而病在膈上，後思水者，解，急與之。思水者，猪苓散主之。(13),112
+0504_clause_formula_39b7a750ba0f,clause_jg_c174ff46c9,jingui,4.0,大黃牡丹湯,can_38009f7c09,classic_clause_uses_formula,腸癰者，少腹腫痞，按之即痛如淋，小便自調，時時發熱，自汗出，復惡寒。 其脈遲緊者，膿未成，可下之，當有血。脈洪數者，膿已成，不可下也，大黃 牡丹湯主之。(4),127
+0504_clause_formula_7092c42826fa,clause_jg_5f0513a572,jingui,6.0,甘麥大棗湯,can_beaa9e2dd2,classic_clause_uses_formula,婦人臟躁，喜悲傷欲哭，象如神靈所作，數欠伸，甘麥大棗湯主之。(6),142
+0504_clause_formula_dcba0a3b4ced,clause_jg_e9041122e6,jingui,22.0,膏髮煎,can_6eefdf51c6,classic_clause_uses_formula,胃氣下泄，陰吹而正暄，此穀氣之實也，膏髮煎導之。(22),143
+0504_clause_formula_b0b86a47d861,clause_jg_88e8a6adee,jingui,24.0,木防己湯去石膏加茯苓芒硝湯,can_444341c48f,classic_clause_uses_formula,膈間支飲，其人喘滿，心下痞堅，面色黧黑，其脈沉緊，得之數十日，醫吐下之不 愈，木防己湯主之。虛者即愈，實者三日復發，後與不愈者，宜木防己湯去石膏 加茯苓芒硝湯主之。(24),71
+0504_clause_formula_3974c208c1f6,clause_jg_0cf0f118ad,jingui,19.0,腎氣丸,can_f6133068f5,classic_clause_uses_formula,問曰：婦人病飲食如故，煩熱不得臥，而反倚息者，何也？ 師曰：此名轉胞不得溺也，以胞系了戾，故致此病，但利小便則愈，宜腎氣丸主之。(19),143
+k3_clause_formula_0504_2ff38be84962,clause_0504_834d006b8bdc,jingui,19,烏頭桂枝湯,can_44bdb5ddeb,classic_clause_uses_formula,寒疝腹中痛，逆冷，手足不仁，若身疼痛，灸刺諸藥不能治，抵當烏頭桂枝湯主之。,3.0
+k3_clause_formula_0504_23105d5074a6,clause_0504_a80c5546e901,jingui,8,黃連粉,sup_96fc37a845,classic_clause_uses_formula,浸淫瘡，黃連粉主之。(8),5.0
+k3_clause_formula_0504_c7c8dae828fb,clause_0504_b7e777cf8d11,jingui,13,小建中湯,can_17b038dbde,classic_clause_uses_formula,虛勞裏急，悸、衄，腹中痛，夢失精，四肢痠疼，手足煩熱，咽乾口燥，小建中湯主之。(13),2.0
+k3_clause_formula_0504_6e2c5d39ba7e,clause_0504_6425bfb54a3e,jingui,14,黃耆建中湯,can_4702b3ae84,classic_clause_uses_formula,虛勞裏急、諸不足，黃耆建中湯主之。(14),2.0
+k3_clause_formula_0504_f8c480be2163,clause_0504_e943acd18da8,jingui,9,澤漆湯,can_b2ca4cdedd,classic_clause_uses_formula,脈沉者，澤漆湯主之。,2.0
+k3_clause_formula_0504_e589eada31c2,clause_0504_59de7332ae94,jingui,3,栝蔞薤白白酒湯,can_c4005c8d78,classic_clause_uses_formula,胸痹之病，喘息咳唾，胸背痛，短氣，寸口脈沉而遲，關上小緊數，栝蔞薤白白酒湯主之。,2.0
+k3_clause_formula_0504_522920cab24a,clause_0504_995bfcfa12da,jingui,,甘遂半夏湯,can_184be8355f,classic_clause_uses_formula,病者脈伏，其人欲自利，利反快，雖利，心下續堅滿，此為留飲欲去故也，甘遂半夏湯主之。,3.0
+k3_clause_formula_0504_4594d5718b7e,clause_0504_443ef03b8461,jingui,28,黃耆芍桂苦酒湯,can_e92c1f4dc5,classic_clause_uses_formula,黃汗以汗出入水中浴，水從汗孔入得之，宜耆芍桂酒湯主之。,4.0
+k3_clause_formula_0504_e3aafccbe92b,clause_0504_d585b6f777e9,jingui,16,大半夏湯,can_ac6aa9ff6c,classic_clause_uses_formula,胃反嘔吐者，大半夏湯主之。(16),4.0
+k3_clause_formula_0504_40b1bea3739f,clause_0504_fae63cbdbaac,jingui,1,桂枝湯,can_2849adeebb,classic_clause_uses_formula,婦人得平脈，陰脈小弱，其人渴，不能食，無寒熱，名妊娠，桂枝湯主之。(1),5.0
+k3_clause_formula_0504_12162841b363,clause_0504_79dd781a1835,jingui,2,小柴胡湯,can_1a0df3ae93,classic_clause_uses_formula,產婦鬱冒，其脈微弱，嘔不能食，大便反堅，但頭汗出。大便堅，嘔不能食，小柴胡湯主之。(2),6.0
+k3_clause_formula_0504_c953ab1e61e4,clause_0504_38345a05b9ba,jingui,9,溫經湯,can_79dad92102,classic_clause_uses_formula,之。(7)婦人年五十所，病下利數十日不止，暮即發熱，少腹裏急，腹滿，手掌煩熱，唇口乾燥，此病屬帶下，瘀血在少腹不去。當以溫經湯主之。(9),6.0

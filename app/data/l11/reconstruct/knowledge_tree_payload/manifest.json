@@ -1,0 +1,63 @@
+{
+  "name": "knowledge_tree_payload",
+  "original_path": "data/knowledge_tree_payload_v3.json",
+  "base": "base.json",
+  "merge": [
+    {
+      "key": "entities",
+      "mode": "list_extend",
+      "files": [
+        "entities_0000.json"
+      ],
+      "count": 6984
+    },
+    {
+      "key": "entity_by_id",
+      "mode": "dict_update",
+      "files": [
+        "entity_by_id_0000.json"
+      ],
+      "count": 6984
+    },
+    {
+      "key": "name_index",
+      "mode": "list_extend",
+      "files": [
+        "name_index_0000.json"
+      ],
+      "count": 6985
+    },
+    {
+      "key": "graph_edges",
+      "mode": "list_extend",
+      "files": [
+        "graph_edges_0000.json",
+        "graph_edges_0001.json",
+        "graph_edges_0002.json",
+        "graph_edges_0003.json",
+        "graph_edges_0004.json",
+        "graph_edges_0005.json",
+        "graph_edges_0006.json"
+      ],
+      "count": 98090
+    },
+    {
+      "key": "question_by_id",
+      "mode": "dict_update",
+      "files": [
+        "question_by_id_0000.json"
+      ],
+      "count": 7713
+    },
+    {
+      "key": "questions_by_entity",
+      "mode": "dict_update",
+      "files": [
+        "questions_by_entity_0000.json"
+      ],
+      "count": 3088
+    }
+  ],
+  "source_sha16": "a74689d921c44b51",
+  "source_bytes": 60321621
+}

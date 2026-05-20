@@ -1,0 +1,46 @@
+{
+  "version": "v5.6.8-L11-complete",
+  "base_version": "v5.6.8 bugfix polish reviewed full",
+  "policy": "Required knowledge content is preserved. Large runtime payloads are represented by stubs and loaded from shards/reconstruct bundles only when the relevant feature is used. Development/audit-only artifacts are removed from runtime deploy.",
+  "initial_payload_estimate_bytes": 315961,
+  "initial_payload_estimate_mb": 0.301,
+  "initial_payload_files": [
+    "index.html",
+    "app/index.html",
+    "app/styles.css",
+    "app/modules/knowledge_tree_styles_v3.css",
+    "app/modules/pivot_analysis_styles_v3.css",
+    "app/modules/structured_modules_styles_v3.css",
+    "app/modules/lazy_data_loader_l11.js",
+    "app/modules/search_engine_v3.js",
+    "app/modules/knowledge_tree_data_adapter.js",
+    "app/modules/knowledge_tree_module_v3.js",
+    "app/modules/bar_chart_module_v3.js",
+    "app/modules/pivot_analysis_module_v3.js",
+    "app/modules/zhengzhi_module_v3.js",
+    "app/modules/diagnosis_module_v3.js",
+    "app/modules/source_pages_module_v3.js",
+    "app/modules/formula_tools_module_v3.js",
+    "app/modules/question_hotspot_module_v3.js",
+    "app/modules/learning_page_module_v5.js",
+    "app/app.js"
+  ],
+  "lazy_routes": {
+    "data/clinical1_fused_entity_pages_v3.json": "clinical1_fused_entity_pages_v3 reconstruct bundle",
+    "data/quiz/quiz_question_bank_payload.json": "quiz_question_bank_payload reconstruct bundle",
+    "data/knowledge_tree_payload_v3.json": "knowledge_tree_payload reconstruct bundle",
+    "data/learning_exam_pattern_payload_v5_0a.json": "learning_exam_pattern_payload reconstruct bundle"
+  },
+  "direct_lazy_indexes": {
+    "entity_page_lookup": "app/data/l11/entity_pages/index.json",
+    "question_page_lookup": "app/data/l11/questions/index.json",
+    "section_shards": "app/data/l11/sections/index.json"
+  },
+  "largest_json_mb": 14.647,
+  "github_pages": "static relative paths only; no server code required",
+  "notes": [
+    "Search payload is no longer loaded automatically on initial page load; it loads only when the user runs a search.",
+    "openQuestion can load a single question shard without reconstructing the full quiz payload.",
+    "Reports/scripts/debug audit artifacts are excluded from the deploy runtime."
+  ]
+}

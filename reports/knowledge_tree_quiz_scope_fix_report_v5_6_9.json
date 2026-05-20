@@ -1,0 +1,248 @@
+{
+  "version": "v5.6.9-l11-knowledge-tree-quiz-scope-fix",
+  "summary": {
+    "shanghan_sections": {
+      "nodes": 181,
+      "nodes_with_questions": 107,
+      "unique_questions": 380,
+      "layers": {
+        "official_exam": 380
+      },
+      "missing_nodes": [],
+      "duplicate_logical_key_nodes": []
+    },
+    "jingui_sections": {
+      "nodes": 50,
+      "nodes_with_questions": 47,
+      "unique_questions": 353,
+      "layers": {
+        "official_exam": 353
+      },
+      "missing_nodes": [],
+      "duplicate_logical_key_nodes": []
+    },
+    "wenbing_sections": {
+      "nodes": 69,
+      "nodes_with_questions": 55,
+      "unique_questions": 352,
+      "layers": {
+        "official_exam": 352
+      },
+      "missing_nodes": [],
+      "duplicate_logical_key_nodes": []
+    },
+    "zhengzhi_sections": {
+      "nodes": 68,
+      "nodes_with_questions": 65,
+      "unique_questions": 784,
+      "layers": {
+        "official_exam": 278,
+        "bula_note": 503,
+        "fragment_or_excluded": 3
+      },
+      "missing_nodes": [],
+      "duplicate_logical_key_nodes": []
+    },
+    "diagnosis_sections": {
+      "nodes": 20,
+      "nodes_with_questions": 20,
+      "unique_questions": 232,
+      "layers": {
+        "official_exam": 224,
+        "bula_note": 8
+      },
+      "missing_nodes": [],
+      "duplicate_logical_key_nodes": []
+    }
+  },
+  "examples": [
+    {
+      "view": "wenbing_sections",
+      "query": "溫病的病因與發病",
+      "node": "第二章 溫病的病因與發病",
+      "question_count": 15,
+      "layers": {
+        "official_exam": 15
+      },
+      "sample": [
+        {
+          "period": "103-1",
+          "no": "22",
+          "layer": "official_exam",
+          "stem": "關於「濕熱病邪」致病特點之敘述,下列何者最正確?"
+        },
+        {
+          "period": "103-2",
+          "no": "18",
+          "layer": "official_exam",
+          "stem": "根據四時溫病的發病特點,冬季應寒反暖,春季陽氣升發,氣候溫暖多風,易產生下列何項病邪?"
+        },
+        {
+          "period": "104-2",
+          "no": "17",
+          "layer": "official_exam",
+          "stem": "易犯中焦脾胃,出現脘痞腹脹、嘔噁、便溏、苔膩等脾胃氣機升降失常之病邪,下列何者最正確?"
+        },
+        {
+          "period": "105-2",
+          "no": "17",
+          "layer": "official_exam",
+          "stem": "病程中都有中焦氣機失暢證,容易遏傷陽氣,病末還能發生陽氣衰微,而見肢冷、畏寒、浮腫、小 便清長、脈細微...等之溫邪為下列何者?"
+        },
+        {
+          "period": "106-1",
+          "no": "17",
+          "layer": "official_exam",
+          "stem": "暑熱病邪的特點,下列敘述何者錯誤?"
+        }
+      ]
+    },
+    {
+      "view": "shanghan_sections",
+      "query": "太陽病分類",
+      "node": "二、太陽病分類",
+      "question_count": 2,
+      "layers": {
+        "official_exam": 2
+      },
+      "sample": [
+        {
+          "period": "110-2",
+          "no": "1",
+          "layer": "official_exam",
+          "stem": "依《醫宗金鑑.傷寒論》條文所述,風溫可能出現的症狀,下列何者最不適宜?"
+        },
+        {
+          "period": "111-1",
+          "no": "2",
+          "layer": "official_exam",
+          "stem": "依《傷寒論》第 3 條,太陽病風寒本證主要有中風及傷寒兩種類型,下列何者不是傷寒類型必見的症 狀?"
+        }
+      ]
+    },
+    {
+      "view": "zhengzhi_sections",
+      "query": "感冒",
+      "node": "第一節 感冒",
+      "question_count": 20,
+      "layers": {
+        "official_exam": 4,
+        "bula_note": 16
+      },
+      "sample": [
+        {
+          "period": "103-2",
+          "no": "55",
+          "layer": "official_exam",
+          "stem": "感冒多見兼夾之證,今患者臨床症狀表現出「身熱不揚,頭脹如裹,骨節疼痛,胸悶」等症,試問 其兼夾之證為何?"
+        },
+        {
+          "period": "104-1",
+          "no": "06",
+          "layer": "bula_note",
+          "stem": "55 歲陳姓男患者,今晨起床後,出現頭身痠痛,汗出,輕微發熱惡寒,身體倦 怠,聲音低微乏力,舌淡苔薄白,脈診浮而無力,治以下列何方最適宜?"
+        },
+        {
+          "period": "104-2",
+          "no": "01",
+          "layer": "bula_note",
+          "stem": "30 歲患者,感冒後7 天,出現咳嗽、發熱不惡寒、口渴、痰黃稠、便乾硬,以下列何方治療最適 合?"
+        },
+        {
+          "period": "105-1",
+          "no": "01",
+          "layer": "bula_note",
+          "stem": "下列有關感冒的辨證論治,何者錯誤?"
+        },
+        {
+          "period": "105-1",
+          "no": "03",
+          "layer": "bula_note",
+          "stem": "蔡小姐因上呼吸道感染,昨天咽癢咳甚,今天亦咽癢而咳至咽痛,咽不紅腫,痰 白黏稠,微惡寒,脈浮緊,苔白。下列診斷何者最適宜?"
+        }
+      ]
+    },
+    {
+      "view": "jingui_sections",
+      "query": "痙濕暍病脈證治第二",
+      "node": "痙濕暍病脈證治第二",
+      "question_count": 23,
+      "layers": {
+        "official_exam": 23
+      },
+      "sample": [
+        {
+          "period": "100-2",
+          "no": "26",
+          "layer": "official_exam",
+          "stem": "依《金匱要略》,傷寒八九日,風濕相搏,身體疼煩,不能自轉側,不嘔不渴,脈浮虛而澀者,治 以下列何者最適宜?"
+        },
+        {
+          "period": "101-2",
+          "no": "39",
+          "layer": "official_exam",
+          "stem": "依《金匱要略》,有關柔痙的病機,下列何者正確?"
+        },
+        {
+          "period": "101-2",
+          "no": "40",
+          "layer": "official_exam",
+          "stem": "承上題背景:依《金匱要略》,有關柔痙的病機,下列何者正確? 第40題:承上題,治以下列何方最適宜?"
+        },
+        {
+          "period": "102-2",
+          "no": "35",
+          "layer": "official_exam",
+          "stem": "患者在淡水河畔騎腳踏車,友人從玉山打手機告知雪景非常美,患者不留意跌入河中,經一陣掙扎 才上岸,翌日證見發熱、惡寒、鼻塞、全身關節痠痛,患者自服生薑湯,症狀仍持"
+        },
+        {
+          "period": "102-2",
+          "no": "36",
+          "layer": "official_exam",
+          "stem": "承上題背景:患者在淡水河畔騎腳踏車,友人從玉山打手機告知雪景非常美,患者不留意跌入河中,經一陣掙扎 才上岸,翌日證見發熱、惡寒、鼻塞、全身關節痠痛,患者自服生薑"
+        }
+      ]
+    },
+    {
+      "view": "diagnosis_sections",
+      "query": "八綱",
+      "node": "第二篇：八綱",
+      "question_count": 12,
+      "layers": {
+        "official_exam": 12
+      },
+      "sample": [
+        {
+          "period": "103-1",
+          "no": "76",
+          "layer": "official_exam",
+          "stem": "「大實有羸狀」、「至虛有盛候」故在辨別虛實之真假時,宜掌握要點,下列敘述何者最正確? 1 脈象的有力或無力 2 舌質的胖嫩或蒼老 3 言語發聲的亢亮或低怯 4 "
+        },
+        {
+          "period": "103-1",
+          "no": "80",
+          "layer": "official_exam",
+          "stem": "23 歲女性患者,平素有鼻過敏病史。主訴五日前突然發作嚴重咳嗽併發氣喘,經西醫投與類固醇與 支氣管擴張劑控制病情逐漸緩和。來診時仍有畏寒、打噴嚏、流清鼻水現象,"
+        },
+        {
+          "period": "103-2",
+          "no": "66",
+          "layer": "official_exam",
+          "stem": "診病時,分辨下列何者,可察知病情的輕重深淺及病機變化趨勢?"
+        },
+        {
+          "period": "104-2",
+          "no": "75",
+          "layer": "official_exam",
+          "stem": "依《通俗傷寒論》,關於「寒水上侮」證之敘述,下列何者正確?"
+        },
+        {
+          "period": "104-2",
+          "no": "79",
+          "layer": "official_exam",
+          "stem": "林小弟,8 歲。來診時症見抱腹呻吟,家人描述近日因氣候炎熱,食用了大量的冰涼飲料與瓜果, 已經連續 3 天沒有解大便,食慾不振,臍腹中疼痛,逐漸加重,甚至會嘔吐"
+        }
+      ]
+    }
+  ]
+}

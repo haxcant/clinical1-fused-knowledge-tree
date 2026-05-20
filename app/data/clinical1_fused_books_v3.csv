@@ -1,0 +1,12 @@
+﻿book_id,book_name,subject,source_id,source_file,source_version,source_type,year_range,notes
+diagnosis,中醫診斷學,臨床一,phase2_refined,clinical1_phase2_diagnosis_refined_package.zip,phase2_refined,refined_seed,103-1_109-2,Phase2 精修高可信診斷學 seed
+mb_jingui,金匱要略,臨床一,multibook_v033,multibook_v033.zip,v033,structured_seed,,multibook seed; not final canonical truth
+mb_shanghan,傷寒論,臨床一,multibook_v033,multibook_v033.zip,v033,structured_seed,,multibook seed; not final canonical truth
+wenbing,溫病學,臨床一,wenbing_v044,wenbing_single_page_v044_common_schema.zip,v044_common_schema,structured_seed,103-1_113-2,wenbing single page common schema seed
+v146_graph,v146 舊圖譜,臨床一,tcm_v146,tcm_v146_stratified_exam_lab.zip,v134-main-integrated-custom-chain-herb-components,graph_seed,,"old graph as dictionary/QA seed, not final truth"
+exam098_115,098–115 臨床一考題,臨床一,formal_exam,TCM_098_115_正式分析包_可解釋可溯源.zip,formal_explainable,exam_seed,098-1~115-1,formal question/event seed
+jingui_pdf,金匱要略,臨床一,jingui_pdf,2_1_1_臨床一-金匱要略分章筆記(100-1_114-2).pdf,pdf,note_pdf,100-1_114-2,PDF原文抽取；Phase3 staging
+shanghan_pdf,傷寒論,臨床一,shanghan_pdf,2_1_2_臨床一-傷寒論分章筆記(100-1_111-2).pdf,pdf,note_pdf,100-1_111-2,PDF原文抽取；Phase3 staging
+wenbing_pdf,溫病學,臨床一,wenbing_pdf,2_1_3_臨床一-溫病學分章精要筆記(103-1_109-2).pdf,pdf,note_pdf,103-1_113-2,PDF原文抽取；Phase3 staging
+zhengzhi_pdf,中醫證治學,臨床一,zhengzhi_pdf,2_1_4_臨床一-中醫證治學分章精要筆記(103-1_109-2)_舊版.pdf,pdf,note_pdf,103-1_109-2,PDF原文抽取；Phase3 staging
+diagnosis_pdf,中醫診斷學,臨床一,diagnosis_pdf,2_1_5_臨床一-中醫診斷學分章精要筆記(103-1_109-2)_舊版.pdf,pdf,note_pdf,103-1_109-2,PDF原文抽取；Phase3 staging

@@ -1,0 +1,46 @@
+{
+  "version": "v5.6.8-L11-complete",
+  "description": "Section shards by book. Used for lightweight section navigation/indexing; legacy section modules remain compatible.",
+  "books": {
+    "diagnosis": {
+      "path": "app/data/l11/sections/diagnosis.json",
+      "count": 20
+    },
+    "mb_jingui": {
+      "path": "app/data/l11/sections/mb_jingui.json",
+      "count": 100
+    },
+    "mb_shanghan": {
+      "path": "app/data/l11/sections/mb_shanghan.json",
+      "count": 176
+    },
+    "wenbing": {
+      "path": "app/data/l11/sections/wenbing.json",
+      "count": 58
+    },
+    "v146_graph": {
+      "path": "app/data/l11/sections/v146_graph.json",
+      "count": 68
+    },
+    "jingui_pdf": {
+      "path": "app/data/l11/sections/jingui_pdf.json",
+      "count": 1
+    },
+    "shanghan_pdf": {
+      "path": "app/data/l11/sections/shanghan_pdf.json",
+      "count": 130
+    },
+    "wenbing_pdf": {
+      "path": "app/data/l11/sections/wenbing_pdf.json",
+      "count": 62
+    },
+    "zhengzhi_pdf": {
+      "path": "app/data/l11/sections/zhengzhi_pdf.json",
+      "count": 142
+    },
+    "diagnosis_pdf": {
+      "path": "app/data/l11/sections/diagnosis_pdf.json",
+      "count": 36
+    }
+  }
+}

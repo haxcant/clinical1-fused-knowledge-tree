@@ -1,0 +1,14 @@
+{
+  "formula_entities": 845,
+  "formula_alias_rows": 745,
+  "formula_source_records": 14084,
+  "composition_versions": 787,
+  "component_lines": 6009,
+  "variant_relations": 111,
+  "formula_family_groups": 775,
+  "multi_member_formula_families": 34,
+  "composition_conflict_review_rows": 235,
+  "formula_page_blocks": 845,
+  "input_l4_edges": 98107,
+  "input_l4_formula_formula_edges": 2437
+}

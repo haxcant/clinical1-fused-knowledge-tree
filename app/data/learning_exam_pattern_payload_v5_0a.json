@@ -1,0 +1,6 @@
+{
+  "l11_stub": true,
+  "name": "learning_exam_pattern_payload",
+  "message": "This large payload is split for L11 lazy loading. Runtime lazy_data_loader_l11.js reconstructs it on demand.",
+  "manifest": "data/l11/reconstruct/learning_exam_pattern_payload/manifest.json"
+}

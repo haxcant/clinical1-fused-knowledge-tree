@@ -1,0 +1,17 @@
+{
+  "entities": 7083,
+  "questions": 7713,
+  "official_questions": 3625,
+  "relations_H_plus_K3": 34282,
+  "formula_components": 1563,
+  "sections": 793,
+  "source_refs": 25227,
+  "entity_pages": 7083,
+  "K2_pdf_page_docs": 930,
+  "K2_structural_evidence_docs": 4525,
+  "K3_zhengzhi_rows": 603,
+  "K3_wenbing_rows": 102,
+  "K3_classic_clauses": 764,
+  "K3_classic_formula_links": 451,
+  "entity_pages_with_extension_refs": 815
+}

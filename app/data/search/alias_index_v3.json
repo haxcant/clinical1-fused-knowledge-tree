@@ -1,0 +1,8582 @@
+{
+  "桂枝湯": [
+    {
+      "entity_id": "can_2849adeebb",
+      "name": "桂枝湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "桂枝湯【金匱": [
+    {
+      "entity_id": "can_2849adeebb",
+      "name": "桂枝湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "桂枝湯【傷寒": [
+    {
+      "entity_id": "can_2849adeebb",
+      "name": "桂枝湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "五苓散": [
+    {
+      "entity_id": "can_4ec3299305",
+      "name": "五苓散",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_e095d826a4",
+      "name": "五苓散《散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "五苓散【金匱": [
+    {
+      "entity_id": "can_4ec3299305",
+      "name": "五苓散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "五苓散【傷寒": [
+    {
+      "entity_id": "can_4ec3299305",
+      "name": "五苓散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "驚悸": [
+    {
+      "entity_id": "can_eff0d6b1d4",
+      "name": "心悸",
+      "type": "disease",
+      "weight": 7
+    }
+  ],
+  "怔忡": [
+    {
+      "entity_id": "can_eff0d6b1d4",
+      "name": "心悸",
+      "type": "disease",
+      "weight": 7
+    }
+  ],
+  "白虎湯": [
+    {
+      "entity_id": "can_2ff0ddd4f5",
+      "name": "白虎湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "吐逆": [
+    {
+      "entity_id": "can_cb295b48c3",
+      "name": "嘔吐",
+      "type": "disease",
+      "weight": 7
+    }
+  ],
+  "嘔": [
+    {
+      "entity_id": "can_cb295b48c3",
+      "name": "嘔吐",
+      "type": "disease",
+      "weight": 7
+    }
+  ],
+  "吐": [
+    {
+      "entity_id": "can_cb295b48c3",
+      "name": "嘔吐",
+      "type": "disease",
+      "weight": 7
+    }
+  ],
+  "噦": [
+    {
+      "entity_id": "can_cb295b48c3",
+      "name": "嘔吐",
+      "type": "disease",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_8645fc6a35",
+      "name": "呃逆",
+      "type": "disease",
+      "weight": 7
+    }
+  ],
+  "四逆湯": [
+    {
+      "entity_id": "can_4bd7a9684a",
+      "name": "四逆湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "四逆湯【金匱": [
+    {
+      "entity_id": "can_4bd7a9684a",
+      "name": "四逆湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "四逆湯【傷寒": [
+    {
+      "entity_id": "can_4bd7a9684a",
+      "name": "四逆湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "大承氣湯": [
+    {
+      "entity_id": "can_b8804ab23f",
+      "name": "大承氣湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "大承氣湯【金匱": [
+    {
+      "entity_id": "can_b8804ab23f",
+      "name": "大承氣湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "大承氣湯【傷寒": [
+    {
+      "entity_id": "can_b8804ab23f",
+      "name": "大承氣湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "柴胡湯": [
+    {
+      "entity_id": "can_1a0df3ae93",
+      "name": "小柴胡湯",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_2a67e77749",
+      "name": "柴胡湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "小柴胡湯": [
+    {
+      "entity_id": "can_1a0df3ae93",
+      "name": "小柴胡湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "小柴胡湯【金匱": [
+    {
+      "entity_id": "can_1a0df3ae93",
+      "name": "小柴胡湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "小柴胡湯【傷寒": [
+    {
+      "entity_id": "can_1a0df3ae93",
+      "name": "小柴胡湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "小青龍湯": [
+    {
+      "entity_id": "can_0a5b7e34af",
+      "name": "小青龍湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "小青龍湯【金匱": [
+    {
+      "entity_id": "can_0a5b7e34af",
+      "name": "小青龍湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "小青龍湯【傷寒": [
+    {
+      "entity_id": "can_0a5b7e34af",
+      "name": "小青龍湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "麻黃湯": [
+    {
+      "entity_id": "can_a2aaa3190c",
+      "name": "麻黃湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "調胃承氣湯": [
+    {
+      "entity_id": "can_07468b2497",
+      "name": "調胃承氣湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "白虎人參湯": [
+    {
+      "entity_id": "can_29712407d7",
+      "name": "白虎加人參湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "白虎加人參湯": [
+    {
+      "entity_id": "can_29712407d7",
+      "name": "白虎加人參湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "白虎加人參湯【金匱": [
+    {
+      "entity_id": "can_29712407d7",
+      "name": "白虎加人參湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "白虎加人參湯【傷寒": [
+    {
+      "entity_id": "can_29712407d7",
+      "name": "白虎加人參湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "半夏瀉心湯": [
+    {
+      "entity_id": "can_f7fe3e3a3d",
+      "name": "半夏瀉心湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "半夏瀉心湯【金匱": [
+    {
+      "entity_id": "can_f7fe3e3a3d",
+      "name": "半夏瀉心湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "半夏瀉心湯【傷寒": [
+    {
+      "entity_id": "can_f7fe3e3a3d",
+      "name": "半夏瀉心湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "健運無權": [
+    {
+      "entity_id": "can_a5a4ea5011",
+      "name": "脾虛",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "痰濁內生": [
+    {
+      "entity_id": "can_a5a4ea5011",
+      "name": "脾虛",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "血虛嘈雜": [
+    {
+      "entity_id": "can_3f426ee9ca",
+      "name": "血虛",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "銀翹散": [
+    {
+      "entity_id": "can_bfd282c938",
+      "name": "銀翹散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "歸脾湯": [
+    {
+      "entity_id": "can_137cbfe2fb",
+      "name": "歸脾湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "黃連阿膠湯": [
+    {
+      "entity_id": "can_2894f9f3f7",
+      "name": "黃連阿膠湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "梔子鼓湯": [
+    {
+      "entity_id": "can_2482e4b13d",
+      "name": "梔子豉湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "梔子豆豉湯": [
+    {
+      "entity_id": "can_2482e4b13d",
+      "name": "梔子豉湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "梔子豉湯": [
+    {
+      "entity_id": "can_2482e4b13d",
+      "name": "梔子豉湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "梔子豉湯【金匱": [
+    {
+      "entity_id": "can_2482e4b13d",
+      "name": "梔子豉湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "梔子豉湯【傷寒": [
+    {
+      "entity_id": "can_2482e4b13d",
+      "name": "梔子豉湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "水飲": [
+    {
+      "entity_id": "can_8696de28e1",
+      "name": "痰飲",
+      "type": "disease",
+      "weight": 7
+    }
+  ],
+  "知柏八味丸": [
+    {
+      "entity_id": "can_49e2e4cbd9",
+      "name": "知柏地黃丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "苓桂朮甘湯腎氣丸": [
+    {
+      "entity_id": "can_00d802f1e5",
+      "name": "苓桂朮甘湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "苓桂朮甘湯": [
+    {
+      "entity_id": "can_00d802f1e5",
+      "name": "苓桂朮甘湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "腎氣丸": [
+    {
+      "entity_id": "can_f6133068f5",
+      "name": "金匱腎氣丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "八味丸": [
+    {
+      "entity_id": "can_f6133068f5",
+      "name": "金匱腎氣丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "八味地黃丸": [
+    {
+      "entity_id": "can_f6133068f5",
+      "name": "金匱腎氣丸",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_82101674ec",
+      "name": "八味地黃丸《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "八味腎氣丸": [
+    {
+      "entity_id": "can_f6133068f5",
+      "name": "金匱腎氣丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "腎氣丸【金匱": [
+    {
+      "entity_id": "can_f6133068f5",
+      "name": "金匱腎氣丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "腎氣丸【傷寒": [
+    {
+      "entity_id": "can_f6133068f5",
+      "name": "金匱腎氣丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "八味地黃丸《丸": [
+    {
+      "entity_id": "can_f6133068f5",
+      "name": "金匱腎氣丸",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_82101674ec",
+      "name": "八味地黃丸《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "豬苓湯": [
+    {
+      "entity_id": "can_615ab27c27",
+      "name": "豬苓湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "豬苓湯【金匱": [
+    {
+      "entity_id": "can_615ab27c27",
+      "name": "豬苓湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "豬苓湯【傷寒": [
+    {
+      "entity_id": "can_615ab27c27",
+      "name": "豬苓湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "溫膽湯": [
+    {
+      "entity_id": "can_1058a353ca",
+      "name": "溫膽湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "大青龍湯": [
+    {
+      "entity_id": "can_a1400e6cd2",
+      "name": "大青龍湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "大青龍湯【金匱": [
+    {
+      "entity_id": "can_a1400e6cd2",
+      "name": "大青龍湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "大青龍湯【傷寒": [
+    {
+      "entity_id": "can_a1400e6cd2",
+      "name": "大青龍湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "葛根湯": [
+    {
+      "entity_id": "can_3d655bf013",
+      "name": "葛根湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "葛根湯【金匱": [
+    {
+      "entity_id": "can_3d655bf013",
+      "name": "葛根湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "葛根湯【傷寒": [
+    {
+      "entity_id": "can_3d655bf013",
+      "name": "葛根湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "肺虛及腎": [
+    {
+      "entity_id": "can_74b7eef457",
+      "name": "腎虛",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "氣失攝納": [
+    {
+      "entity_id": "can_74b7eef457",
+      "name": "腎虛",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "腎虛": [
+    {
+      "entity_id": "can_74b7eef457",
+      "name": "腎虛",
+      "type": "pattern",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_ad0d55552c",
+      "name": "腎虛水泛",
+      "type": "pattern",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_de07e09155",
+      "name": "腎虛火旺",
+      "type": "pattern",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_7199e99c34",
+      "name": "腎虛證",
+      "type": "pattern",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_82bd928af1",
+      "name": "下消腎虛火亢",
+      "type": "pattern",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_3e0964c045",
+      "name": "腎虛腰痛",
+      "type": "pattern",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_2dacfc335d",
+      "name": "腎虛頭痛",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "精氣虧虛": [
+    {
+      "entity_id": "can_74b7eef457",
+      "name": "腎虛",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "攝納失常": [
+    {
+      "entity_id": "can_74b7eef457",
+      "name": "腎虛",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "理中湯": [
+    {
+      "entity_id": "can_7008adbe0b",
+      "name": "理中湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "陰虛火旺": [
+    {
+      "entity_id": "can_beb1faea15",
+      "name": "陰虛火旺",
+      "type": "pattern",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_b377c190f0",
+      "name": "心陰虛",
+      "type": "pattern",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_3e3ec1d8df",
+      "name": "火盛傷陰(狂證)|陰虛火旺,虛火內擾",
+      "type": "pattern",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_ca2e85690f",
+      "name": "虛火灼肺",
+      "type": "pattern",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_6a5d30c914",
+      "name": "陰虛火旺|肝腎陰虛,心肝火旺",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "陰虛火旺咳血": [
+    {
+      "entity_id": "can_beb1faea15",
+      "name": "陰虛火旺",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "陰虛火旺之心悸": [
+    {
+      "entity_id": "can_beb1faea15",
+      "name": "陰虛火旺",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "陰虛火旺證": [
+    {
+      "entity_id": "can_beb1faea15",
+      "name": "陰虛火旺",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "陰虛火旺(通用證候概念": [
+    {
+      "entity_id": "can_beb1faea15",
+      "name": "陰虛火旺",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "陰虛火旺口糜": [
+    {
+      "entity_id": "can_beb1faea15",
+      "name": "陰虛火旺",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "小建中湯": [
+    {
+      "entity_id": "can_17b038dbde",
+      "name": "小建中湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "小建中湯【金匱": [
+    {
+      "entity_id": "can_17b038dbde",
+      "name": "小建中湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "小建中湯【傷寒": [
+    {
+      "entity_id": "can_17b038dbde",
+      "name": "小建中湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "真武湯": [
+    {
+      "entity_id": "can_c343468943",
+      "name": "真武湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "肝腎陰虛": [
+    {
+      "entity_id": "can_5ec518db0c",
+      "name": "肝腎陰虛",
+      "type": "pattern",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_49b2008787",
+      "name": "中經絡陰虛風動",
+      "type": "pattern",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_6a5d30c914",
+      "name": "陰虛火旺|肝腎陰虛,心肝火旺",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "胃熱嘈雜": [
+    {
+      "entity_id": "can_e2f26ac058",
+      "name": "胃熱",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "大柴胡湯": [
+    {
+      "entity_id": "can_a1985a28fe",
+      "name": "大柴胡湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "大柴胡湯【金匱": [
+    {
+      "entity_id": "can_a1985a28fe",
+      "name": "大柴胡湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "大柴胡湯【傷寒": [
+    {
+      "entity_id": "can_a1985a28fe",
+      "name": "大柴胡湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "吳茱萸湯": [
+    {
+      "entity_id": "can_5c864669bd",
+      "name": "吳茱萸湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "十棗湯": [
+    {
+      "entity_id": "can_f3ad66a19d",
+      "name": "十棗湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "十棗湯【金匱": [
+    {
+      "entity_id": "can_f3ad66a19d",
+      "name": "十棗湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "十棗湯【傷寒": [
+    {
+      "entity_id": "can_f3ad66a19d",
+      "name": "十棗湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "鬱熱互結吐酸": [
+    {
+      "entity_id": "can_885212b1ef",
+      "name": "熱證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "瀉心湯": [
+    {
+      "entity_id": "can_1a91e01bb6",
+      "name": "瀉心湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "瀉心湯【金匱": [
+    {
+      "entity_id": "can_1a91e01bb6",
+      "name": "瀉心湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "瀉心湯【傷寒": [
+    {
+      "entity_id": "can_1a91e01bb6",
+      "name": "瀉心湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "竹葉石膏湯": [
+    {
+      "entity_id": "can_da7e4cc455",
+      "name": "竹葉石膏湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "炙甘草湯": [
+    {
+      "entity_id": "can_a0ae55f4fa",
+      "name": "炙甘草湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "復脈湯": [
+    {
+      "entity_id": "can_a0ae55f4fa",
+      "name": "炙甘草湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "復脉湯": [
+    {
+      "entity_id": "can_a0ae55f4fa",
+      "name": "炙甘草湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "寒積胃中吐酸": [
+    {
+      "entity_id": "can_25a4b1220c",
+      "name": "寒證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "防己黃耆湯芍藥": [
+    {
+      "entity_id": "can_a26ad2322b",
+      "name": "防己黃耆湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "防己黃耆湯": [
+    {
+      "entity_id": "can_a26ad2322b",
+      "name": "防己黃耆湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "小承氣湯": [
+    {
+      "entity_id": "can_fac67569c9",
+      "name": "小承氣湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "小承氣湯【金匱": [
+    {
+      "entity_id": "can_fac67569c9",
+      "name": "小承氣湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "小承氣湯【傷寒": [
+    {
+      "entity_id": "can_fac67569c9",
+      "name": "小承氣湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "茵陳蒿湯": [
+    {
+      "entity_id": "can_11513e5db9",
+      "name": "茵陳蒿湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "茵陳蒿湯【金匱": [
+    {
+      "entity_id": "can_11513e5db9",
+      "name": "茵陳蒿湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "茵陳蒿湯【傷寒": [
+    {
+      "entity_id": "can_11513e5db9",
+      "name": "茵陳蒿湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "栝蔞薤白半夏湯": [
+    {
+      "entity_id": "can_749be479d4",
+      "name": "栝蔞薤白半夏湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "瓜蔞薤白半夏湯": [
+    {
+      "entity_id": "can_749be479d4",
+      "name": "栝蔞薤白半夏湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "栝萋薤白半夏湯": [
+    {
+      "entity_id": "can_749be479d4",
+      "name": "栝蔞薤白半夏湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "獨活寄生湯": [
+    {
+      "entity_id": "can_cfb0d55b10",
+      "name": "獨活寄生湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "四逆散": [
+    {
+      "entity_id": "can_6e63275c1f",
+      "name": "四逆散",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_803bb2f192",
+      "name": "四逆散《散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "烏頭湯": [
+    {
+      "entity_id": "can_a247747e8d",
+      "name": "烏頭湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "麥門冬湯": [
+    {
+      "entity_id": "can_5becc09d33",
+      "name": "麥門冬湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "肝氣鬱結": [
+    {
+      "entity_id": "can_7dad8cd19c",
+      "name": "肝氣鬱結",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "氣鬱失音": [
+    {
+      "entity_id": "can_790b7b9338",
+      "name": "氣鬱",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "當歸芍藥散": [
+    {
+      "entity_id": "can_bbaa8d330a",
+      "name": "當歸芍藥散",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_f4f912500a",
+      "name": "當歸芍藥散《散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "當歸芍藥散《散": [
+    {
+      "entity_id": "can_bbaa8d330a",
+      "name": "當歸芍藥散",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_f4f912500a",
+      "name": "當歸芍藥散《散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "心脾兩虛之心悸": [
+    {
+      "entity_id": "can_043f668573",
+      "name": "心脾兩虛",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "心脾兩虛": [
+    {
+      "entity_id": "can_043f668573",
+      "name": "心脾兩虛",
+      "type": "pattern",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_1f5abc6d95",
+      "name": "心脾兩虛(癲證)|心脾兩虛,心神失養",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "腎陽虛": [
+    {
+      "entity_id": "can_ee8ec73826",
+      "name": "脾腎陽虛",
+      "type": "pattern",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_80690b3c78",
+      "name": "腎陽虛",
+      "type": "pattern",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_8bacd0094a",
+      "name": "陽氣虛弱",
+      "type": "pattern",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_e133e0f726",
+      "name": "脾胃陽虛證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "脾腎陽虛": [
+    {
+      "entity_id": "can_ee8ec73826",
+      "name": "脾腎陽虛",
+      "type": "pattern",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_e133e0f726",
+      "name": "脾胃陽虛證",
+      "type": "pattern",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_e133e0f726",
+      "name": "脾胃陽虛證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "酸棗仁湯": [
+    {
+      "entity_id": "can_8e09801183",
+      "name": "酸棗仁湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "酸棗仁湯【金匱": [
+    {
+      "entity_id": "can_8e09801183",
+      "name": "酸棗仁湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "酸棗仁湯【傷寒": [
+    {
+      "entity_id": "can_8e09801183",
+      "name": "酸棗仁湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "失眠": [
+    {
+      "entity_id": "can_186b1b98d1",
+      "name": "不寐",
+      "type": "disease",
+      "weight": 7
+    }
+  ],
+  "不得臥": [
+    {
+      "entity_id": "can_186b1b98d1",
+      "name": "不寐",
+      "type": "disease",
+      "weight": 7
+    }
+  ],
+  "八正散": [
+    {
+      "entity_id": "can_e81b1b309a",
+      "name": "八正散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "肝鬱氣滯痞病": [
+    {
+      "entity_id": "can_4b3871bf40",
+      "name": "肝鬱氣滯",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "肝鬱氣滯": [
+    {
+      "entity_id": "can_4b3871bf40",
+      "name": "肝鬱氣滯",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "抵當湯": [
+    {
+      "entity_id": "can_65e2755719",
+      "name": "抵當湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "抵當湯【金匱": [
+    {
+      "entity_id": "can_65e2755719",
+      "name": "抵當湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "抵當湯【傷寒": [
+    {
+      "entity_id": "can_65e2755719",
+      "name": "抵當湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "小半夏湯": [
+    {
+      "entity_id": "can_f51682eb9f",
+      "name": "小半夏湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "桑菊飲": [
+    {
+      "entity_id": "can_a9a31fe009",
+      "name": "桑菊飲",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "桔梗湯": [
+    {
+      "entity_id": "can_5bb3be4fd3",
+      "name": "桔梗湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "桔梗湯【金匱": [
+    {
+      "entity_id": "can_5bb3be4fd3",
+      "name": "桔梗湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "桔梗湯【傷寒": [
+    {
+      "entity_id": "can_5bb3be4fd3",
+      "name": "桔梗湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "薏苡仁湯": [
+    {
+      "entity_id": "can_8e5a5f8156",
+      "name": "薏苡仁湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "香砂六君子湯": [
+    {
+      "entity_id": "can_925173ebcf",
+      "name": "香砂六君子湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "黃耆建中湯": [
+    {
+      "entity_id": "can_4702b3ae84",
+      "name": "黃耆建中湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "黃耆建中湯【金匱": [
+    {
+      "entity_id": "can_4702b3ae84",
+      "name": "黃耆建中湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "黃耆建中湯【傷寒": [
+    {
+      "entity_id": "can_4702b3ae84",
+      "name": "黃耆建中湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "涼膈散": [
+    {
+      "entity_id": "can_8aef833bbc",
+      "name": "涼膈散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "清燥救肺湯": [
+    {
+      "entity_id": "can_b0c5b38a32",
+      "name": "清燥救肺湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "補陽還五湯": [
+    {
+      "entity_id": "can_4d24a89138",
+      "name": "補陽還五湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "血府逐瘀湯": [
+    {
+      "entity_id": "can_812b5ec6e4",
+      "name": "血府逐瘀湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "越婢加朮湯": [
+    {
+      "entity_id": "can_479e52b534",
+      "name": "越婢加朮湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "越婢加朮湯【金匱": [
+    {
+      "entity_id": "can_479e52b534",
+      "name": "越婢加朮湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "越婢加朮湯【傷寒": [
+    {
+      "entity_id": "can_479e52b534",
+      "name": "越婢加朮湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "脾腎陽虛之腎陽虛": [
+    {
+      "entity_id": "can_80690b3c78",
+      "name": "腎陽虛",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "射干麻黃湯": [
+    {
+      "entity_id": "can_a395e5b3b3",
+      "name": "射干麻黃湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "桂枝芍藥知母湯": [
+    {
+      "entity_id": "can_559952c25a",
+      "name": "桂枝芍藥知母湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "理中丸": [
+    {
+      "entity_id": "can_a61be5b856",
+      "name": "理中丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "葶藶大棗瀉肺湯": [
+    {
+      "entity_id": "can_07f55734cb",
+      "name": "葶藶大棗瀉肺湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "桃核承氣湯": [
+    {
+      "entity_id": "can_3d9f86ea28",
+      "name": "桃核承氣湯",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_82231876d0",
+      "name": "桃仁承氣湯",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_5e37eb339f",
+      "name": "桃仁承氣湯(桃核承氣湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "白頭翁湯": [
+    {
+      "entity_id": "can_922833cbb5",
+      "name": "白頭翁湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "白頭翁湯【金匱": [
+    {
+      "entity_id": "can_922833cbb5",
+      "name": "白頭翁湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "白頭翁湯【傷寒": [
+    {
+      "entity_id": "can_922833cbb5",
+      "name": "白頭翁湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "葛根黃芩黃連湯": [
+    {
+      "entity_id": "can_30cd7a1011",
+      "name": "葛根黃芩黃連湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "葛根芩連湯": [
+    {
+      "entity_id": "can_30cd7a1011",
+      "name": "葛根黃芩黃連湯",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_c1472e20dd",
+      "name": "葛根芩連湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "氣血虧虛": [
+    {
+      "entity_id": "can_52bddf2c6d",
+      "name": "氣血虧虛",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "越婢湯": [
+    {
+      "entity_id": "can_1456bfc3e0",
+      "name": "越婢湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "通脈四逆湯": [
+    {
+      "entity_id": "can_eaa4fac2c8",
+      "name": "通脈四逆湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "通脈四逆湯【金匱": [
+    {
+      "entity_id": "can_eaa4fac2c8",
+      "name": "通脈四逆湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "通脈四逆湯【傷寒": [
+    {
+      "entity_id": "can_eaa4fac2c8",
+      "name": "通脈四逆湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "氣虛推動無力": [
+    {
+      "entity_id": "can_3f98f0d94e",
+      "name": "氣虛血瘀",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "血瘀心脈": [
+    {
+      "entity_id": "can_3f98f0d94e",
+      "name": "氣虛血瘀",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "氣虛血瘀": [
+    {
+      "entity_id": "can_3f98f0d94e",
+      "name": "氣虛血瘀",
+      "type": "pattern",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_8ea0e6b86d",
+      "name": "恢復期氣虛血瘀",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "橘皮竹茹湯": [
+    {
+      "entity_id": "can_4da66939b9",
+      "name": "橘皮竹茹湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "茵陳五苓散": [
+    {
+      "entity_id": "can_9225c672aa",
+      "name": "茵陳五苓散",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_7b01251283",
+      "name": "茵陳五苓散《散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "導赤散": [
+    {
+      "entity_id": "can_7b82ba00b0",
+      "name": "導赤散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "玉女煎": [
+    {
+      "entity_id": "can_533cd88a71",
+      "name": "玉女煎",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "杏蘇散": [
+    {
+      "entity_id": "can_831b8663b8",
+      "name": "杏蘇散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "濕熱下注": [
+    {
+      "entity_id": "can_49ff4a1d15",
+      "name": "濕熱下注",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "肝鬱化火": [
+    {
+      "entity_id": "can_c2ff76a1c6",
+      "name": "肝鬱化火",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "荊防敗毒散": [
+    {
+      "entity_id": "can_79538de35a",
+      "name": "荊防敗毒散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "附子湯": [
+    {
+      "entity_id": "can_4da6dea6c5",
+      "name": "附子湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "乃附子湯": [
+    {
+      "entity_id": "can_4da6dea6c5",
+      "name": "附子湯",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_5b30b32b66",
+      "name": "乃附子湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "黃芩湯": [
+    {
+      "entity_id": "can_ff9f5b461f",
+      "name": "黃芩湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "栝蔞薤白白酒湯": [
+    {
+      "entity_id": "can_c4005c8d78",
+      "name": "栝蔞薤白白酒湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "瓜蔞薤白白酒湯": [
+    {
+      "entity_id": "can_c4005c8d78",
+      "name": "栝蔞薤白白酒湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "栝萋薤白白酒湯": [
+    {
+      "entity_id": "can_c4005c8d78",
+      "name": "栝蔞薤白白酒湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "加味逍遙散": [
+    {
+      "entity_id": "can_fa95e4ef45",
+      "name": "加味逍遙散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "桃花湯": [
+    {
+      "entity_id": "can_4f746eced5",
+      "name": "桃花湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "桃花湯【金匱": [
+    {
+      "entity_id": "can_4f746eced5",
+      "name": "桃花湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "桃花湯【傷寒": [
+    {
+      "entity_id": "can_4f746eced5",
+      "name": "桃花湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "澤瀉湯": [
+    {
+      "entity_id": "can_6fc2209755",
+      "name": "澤瀉湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "洞泄": [
+    {
+      "entity_id": "can_bd076e6f0a",
+      "name": "泄瀉",
+      "type": "disease",
+      "weight": 7
+    }
+  ],
+  "濡瀉": [
+    {
+      "entity_id": "can_bd076e6f0a",
+      "name": "泄瀉",
+      "type": "disease",
+      "weight": 7
+    }
+  ],
+  "注下": [
+    {
+      "entity_id": "can_bd076e6f0a",
+      "name": "泄瀉",
+      "type": "disease",
+      "weight": 7
+    }
+  ],
+  "當歸四逆湯": [
+    {
+      "entity_id": "can_aad8567a39",
+      "name": "當歸四逆湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "濁犯下焦": [
+    {
+      "entity_id": "can_495b22504b",
+      "name": "肝風內動",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "肝風內動": [
+    {
+      "entity_id": "can_495b22504b",
+      "name": "肝風內動",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "甘草瀉心湯": [
+    {
+      "entity_id": "can_25ddb73d49",
+      "name": "甘草瀉心湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "甘草瀉心湯【金匱": [
+    {
+      "entity_id": "can_25ddb73d49",
+      "name": "甘草瀉心湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "甘草瀉心湯【傷寒": [
+    {
+      "entity_id": "can_25ddb73d49",
+      "name": "甘草瀉心湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "栝蔞桂枝湯": [
+    {
+      "entity_id": "can_4d1113ca58",
+      "name": "栝蔞桂枝湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "栝簍桂枝湯": [
+    {
+      "entity_id": "can_4d1113ca58",
+      "name": "栝蔞桂枝湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "瓜蔞桂枝湯": [
+    {
+      "entity_id": "can_4d1113ca58",
+      "name": "栝蔞桂枝湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "甘遂半夏湯": [
+    {
+      "entity_id": "can_184be8355f",
+      "name": "甘遂半夏湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "定喘湯": [
+    {
+      "entity_id": "can_dd839f9587",
+      "name": "定喘湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "氣陰兩虛之心悸": [
+    {
+      "entity_id": "can_a18dbf0df0",
+      "name": "氣陰兩虛",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "氣陰不足": [
+    {
+      "entity_id": "can_a18dbf0df0",
+      "name": "氣陰兩虛",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "心脈痹阻": [
+    {
+      "entity_id": "can_a18dbf0df0",
+      "name": "氣陰兩虛",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "氣陰兩虛": [
+    {
+      "entity_id": "can_a18dbf0df0",
+      "name": "氣陰兩虛",
+      "type": "pattern",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_e9ca022402",
+      "name": "肺虛",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "羌活勝濕湯": [
+    {
+      "entity_id": "can_643641a607",
+      "name": "羌活勝濕湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "附子理中湯": [
+    {
+      "entity_id": "can_c01496e908",
+      "name": "附子理中湯",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_ab701dc8e1",
+      "name": "附子理中湯(丸)《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "茱萸湯": [
+    {
+      "entity_id": "can_1ac5dea113",
+      "name": "茱萸湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "防己茯苓湯": [
+    {
+      "entity_id": "can_74f9809d8c",
+      "name": "防己茯苓湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "桂枝加黃耆湯": [
+    {
+      "entity_id": "can_f6f14b7644",
+      "name": "桂枝加黃耆湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "四物湯": [
+    {
+      "entity_id": "can_6727bb4e93",
+      "name": "四物湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "寒飲伏肺": [
+    {
+      "entity_id": "can_700a66ced1",
+      "name": "寒飲伏肺",
+      "type": "pattern",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_ab900086ca",
+      "name": "寒飲伏肺證",
+      "type": "pattern",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_77f880996e",
+      "name": "寒哮",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "心氣不足之心悸": [
+    {
+      "entity_id": "can_9cd06461db",
+      "name": "心氣不足",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "濕熱蘊結": [
+    {
+      "entity_id": "can_52b7b3c9b1",
+      "name": "濕熱蘊結",
+      "type": "pattern",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_6201394b37",
+      "name": "濕熱中阻",
+      "type": "pattern",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_f5f84ee9ab",
+      "name": "膀胱濕熱",
+      "type": "pattern",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_fbf6107854",
+      "name": "熱淋",
+      "type": "pattern",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_1dc5116d5b",
+      "name": "石淋",
+      "type": "pattern",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_92d37f429c",
+      "name": "腸道濕熱",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "痰氣鬱結": [
+    {
+      "entity_id": "can_39ead0297f",
+      "name": "痰氣鬱結",
+      "type": "pattern",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_c8ae0c5f16",
+      "name": "痰氣鬱結(癲證)|痰氣鬱結,蒙蔽神明",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "黃連湯": [
+    {
+      "entity_id": "can_cbf0400be4",
+      "name": "黃連湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "風熱襲表": [
+    {
+      "entity_id": "can_e0d5e6384e",
+      "name": "初期",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "肺失宣肅": [
+    {
+      "entity_id": "can_e0d5e6384e",
+      "name": "初期",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "小半夏茯苓湯": [
+    {
+      "entity_id": "can_b7bc26913a",
+      "name": "小半夏加茯苓湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "小半夏加茯苓湯": [
+    {
+      "entity_id": "can_b7bc26913a",
+      "name": "小半夏加茯苓湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "生薑瀉心湯": [
+    {
+      "entity_id": "can_74372b1dfb",
+      "name": "生薑瀉心湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "脾胃虛寒噯氣": [
+    {
+      "entity_id": "can_9fad0039fc",
+      "name": "脾胃虛寒",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "脾胃虛寒": [
+    {
+      "entity_id": "can_9fad0039fc",
+      "name": "脾胃虛寒",
+      "type": "pattern",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_dadcb44185",
+      "name": "虛寒證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "大半夏湯": [
+    {
+      "entity_id": "can_ac6aa9ff6c",
+      "name": "大半夏湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "柴胡加龍骨牡蠣湯": [
+    {
+      "entity_id": "can_fa297aa0fd",
+      "name": "柴胡加龍骨牡蠣湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "白朮散": [
+    {
+      "entity_id": "can_247f1b5b99",
+      "name": "白朮散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "小陷胸湯": [
+    {
+      "entity_id": "can_57fa2fb829",
+      "name": "小陷胸湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "水飲溢於肢體": [
+    {
+      "entity_id": "can_9cd5884b69",
+      "name": "溢飲",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "百合知母湯": [
+    {
+      "entity_id": "can_e2a38b6c0c",
+      "name": "百合知母湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "風熱犯肺": [
+    {
+      "entity_id": "can_4eb86cf603",
+      "name": "風熱犯肺",
+      "type": "pattern",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_be43e9227b",
+      "name": "熱壅肺竅",
+      "type": "pattern",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_24d61b7b1c",
+      "name": "風熱證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "肺氣失宣": [
+    {
+      "entity_id": "can_4eb86cf603",
+      "name": "風熱犯肺",
+      "type": "pattern",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_fececf2b4f",
+      "name": "風寒襲肺",
+      "type": "pattern",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_9749c1bc35",
+      "name": "肺氣虛寒",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "越婢加半夏湯": [
+    {
+      "entity_id": "can_4bc4dfa755",
+      "name": "越婢加半夏湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "炙甘草": [
+    {
+      "entity_id": "can_51e3fc3d1f",
+      "name": "甘草",
+      "type": "herb",
+      "weight": 7
+    }
+  ],
+  "桂枝生薑枳實湯": [
+    {
+      "entity_id": "can_c0e3df661a",
+      "name": "桂枝生薑枳實湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "半夏天麻白朮湯": [
+    {
+      "entity_id": "can_60d2d48034",
+      "name": "半夏白朮天麻湯",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_b3d58e7ca0",
+      "name": "半夏天麻白朮湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "大黃硝石湯": [
+    {
+      "entity_id": "can_69f65eeb62",
+      "name": "大黃硝石湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "痰熱鬱肺": [
+    {
+      "entity_id": "can_329ca4bb72",
+      "name": "痰熱鬱肺",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "痰熱壅肺": [
+    {
+      "entity_id": "can_329ca4bb72",
+      "name": "痰熱鬱肺",
+      "type": "pattern",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_329ca4bb72",
+      "name": "痰熱鬱肺",
+      "type": "pattern",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_7d2fd00564",
+      "name": "熱哮",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "肅降無權": [
+    {
+      "entity_id": "can_329ca4bb72",
+      "name": "痰熱鬱肺",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "肺脾腎俱虛": [
+    {
+      "entity_id": "can_cea2dacad4",
+      "name": "陰陽兩虛",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "乾薑附子湯": [
+    {
+      "entity_id": "can_1eea215250",
+      "name": "乾薑附子湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "桂枝加桂湯": [
+    {
+      "entity_id": "can_e4355f999b",
+      "name": "桂枝加桂湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "桂枝加桂湯【金匱": [
+    {
+      "entity_id": "can_e4355f999b",
+      "name": "桂枝加桂湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "桂枝加桂湯【傷寒": [
+    {
+      "entity_id": "can_e4355f999b",
+      "name": "桂枝加桂湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "枝加桂湯": [
+    {
+      "entity_id": "can_e4355f999b",
+      "name": "桂枝加桂湯",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_2cc9b8c4b6",
+      "name": "枝加桂湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "人參湯": [
+    {
+      "entity_id": "can_116bc8aefe",
+      "name": "人參湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "甘草乾薑湯": [
+    {
+      "entity_id": "can_ec1a31ebb3",
+      "name": "甘草乾薑湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "甘草乾薑湯【金匱": [
+    {
+      "entity_id": "can_ec1a31ebb3",
+      "name": "甘草乾薑湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "甘草乾薑湯【傷寒": [
+    {
+      "entity_id": "can_ec1a31ebb3",
+      "name": "甘草乾薑湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "宣痹陽": [
+    {
+      "entity_id": "can_7ac926917c",
+      "name": "宣痹湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "瀉白散": [
+    {
+      "entity_id": "can_9883cebd72",
+      "name": "瀉白散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "腎氣虛": [
+    {
+      "entity_id": "can_b575093a62",
+      "name": "腎氣虛",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "大黃黃連瀉心湯": [
+    {
+      "entity_id": "can_86b453bfa7",
+      "name": "大黃黃連瀉心湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "己椒藶黃丸": [
+    {
+      "entity_id": "can_17af992be4",
+      "name": "己椒藶黃丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "梔子大黃湯": [
+    {
+      "entity_id": "can_7161b48257",
+      "name": "梔子大黃湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "四君子湯": [
+    {
+      "entity_id": "can_4b61b5b9da",
+      "name": "四君子湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "少腹逐瘀湯": [
+    {
+      "entity_id": "can_a3286a6539",
+      "name": "少腹逐瘀湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "陰傷氣耗": [
+    {
+      "entity_id": "can_8ec44c4794",
+      "name": "恢復期",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "正虛邪戀": [
+    {
+      "entity_id": "can_8ec44c4794",
+      "name": "恢復期",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "旋覆代赭石湯": [
+    {
+      "entity_id": "can_7c0a458bd2",
+      "name": "旋覆代赭石湯",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_a6c1667847",
+      "name": "旋覆代赭湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "木防己湯木防己湯去石膏": [
+    {
+      "entity_id": "can_d02d5ea55c",
+      "name": "木防己湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "木防己湯": [
+    {
+      "entity_id": "can_d02d5ea55c",
+      "name": "木防己湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "柴胡桂枝湯": [
+    {
+      "entity_id": "can_41457d0002",
+      "name": "柴胡桂枝湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "桂枝甘草龍骨牡蠣湯": [
+    {
+      "entity_id": "can_e2bd2dc237",
+      "name": "桂枝甘草龍骨牡蠣湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "濕熱泄瀉": [
+    {
+      "entity_id": "can_a7a8518054",
+      "name": "濕熱證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "瓜蒂散": [
+    {
+      "entity_id": "can_466f3263b0",
+      "name": "瓜蒂散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "瓜蒂散【金匱": [
+    {
+      "entity_id": "can_466f3263b0",
+      "name": "瓜蒂散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "瓜蒂散【傷寒": [
+    {
+      "entity_id": "can_466f3263b0",
+      "name": "瓜蒂散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "甘露飲": [
+    {
+      "entity_id": "can_87a23fc431",
+      "name": "甘露飲",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "通脈四逆加豬膽汁湯": [
+    {
+      "entity_id": "can_78057b3b1b",
+      "name": "通脈四逆加豬膽汁湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "黃土湯": [
+    {
+      "entity_id": "can_d21b4c22dd",
+      "name": "黃土湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "桂枝附子湯": [
+    {
+      "entity_id": "can_70d8a89772",
+      "name": "桂枝附子湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "桂枝附子湯【金匱": [
+    {
+      "entity_id": "can_70d8a89772",
+      "name": "桂枝附子湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "桂枝附子湯【傷寒": [
+    {
+      "entity_id": "can_70d8a89772",
+      "name": "桂枝附子湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "當歸生薑羊肉湯": [
+    {
+      "entity_id": "can_f63dbab021",
+      "name": "當歸生薑羊肉湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "百合雞子湯": [
+    {
+      "entity_id": "can_0042353966",
+      "name": "百合雞子湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "吞酸": [
+    {
+      "entity_id": "can_991e1193a6",
+      "name": "吐酸",
+      "type": "disease",
+      "weight": 7
+    }
+  ],
+  "嗽血": [
+    {
+      "entity_id": "can_28a2174865",
+      "name": "咳血",
+      "type": "disease",
+      "weight": 7
+    }
+  ],
+  "喀血": [
+    {
+      "entity_id": "can_28a2174865",
+      "name": "咳血",
+      "type": "disease",
+      "weight": 7
+    }
+  ],
+  "大建中湯": [
+    {
+      "entity_id": "can_2523049667",
+      "name": "大建中湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "旋覆花湯": [
+    {
+      "entity_id": "can_6a20369ddb",
+      "name": "旋覆花湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "桂枝麻黃各半湯": [
+    {
+      "entity_id": "can_71c0518c06",
+      "name": "桂枝麻黃各半湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "清暑益氣湯": [
+    {
+      "entity_id": "can_6fec087efd",
+      "name": "清暑益氣湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "濕熱中阻胃痛": [
+    {
+      "entity_id": "can_6201394b37",
+      "name": "濕熱中阻",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "痰濁壅肺": [
+    {
+      "entity_id": "can_8c1f23933e",
+      "name": "痰濁阻肺",
+      "type": "pattern",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_2f0cb8c726",
+      "name": "痰濁壅肺",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "肺氣失降": [
+    {
+      "entity_id": "can_8c1f23933e",
+      "name": "痰濁阻肺",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "胃虛嘈雜": [
+    {
+      "entity_id": "can_a0d3e56bae",
+      "name": "胃虛",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "蘇子降氣湯": [
+    {
+      "entity_id": "can_e8f4d3c9ab",
+      "name": "蘇子降氣湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "麻杏石甘湯": [
+    {
+      "entity_id": "can_9c51b57ef7",
+      "name": "麻杏石甘湯",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_aa32ff233a",
+      "name": "麻黃杏仁甘草石膏湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "黃連解毒湯": [
+    {
+      "entity_id": "can_3fc0328fb8",
+      "name": "黃連解毒湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "半夏厚朴湯": [
+    {
+      "entity_id": "can_5cbce770ff",
+      "name": "半夏厚朴湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "細生地": [
+    {
+      "entity_id": "can_9fa69c0a3f",
+      "name": "生地黃",
+      "type": "herb",
+      "weight": 7
+    }
+  ],
+  "下瘀血湯": [
+    {
+      "entity_id": "can_9b1ed4476b",
+      "name": "下瘀血湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "大陷胸湯": [
+    {
+      "entity_id": "can_19c0202378",
+      "name": "大陷胸湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "大黃附子湯": [
+    {
+      "entity_id": "can_971d8bb5f6",
+      "name": "大黃附子湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "桂枝加厚朴杏仁湯": [
+    {
+      "entity_id": "can_b89804367c",
+      "name": "桂枝加厚朴杏子湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "桂枝加厚朴杏子湯": [
+    {
+      "entity_id": "can_b89804367c",
+      "name": "桂枝加厚朴杏子湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "茯苓甘草湯": [
+    {
+      "entity_id": "can_610f6cd484",
+      "name": "茯苓甘草湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "麻子仁丸": [
+    {
+      "entity_id": "can_c55bf7f8a9",
+      "name": "麻子仁丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "麻子仁丸【金匱": [
+    {
+      "entity_id": "can_c55bf7f8a9",
+      "name": "麻子仁丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "麻子仁丸【傷寒": [
+    {
+      "entity_id": "can_c55bf7f8a9",
+      "name": "麻子仁丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "心陰虛陰虛火旺": [
+    {
+      "entity_id": "can_b377c190f0",
+      "name": "心陰虛",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "虛勞心陰虛陰虛火旺": [
+    {
+      "entity_id": "can_b377c190f0",
+      "name": "心陰虛",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "普濟消毒飲《散": [
+    {
+      "entity_id": "can_32448c9b4b",
+      "name": "普濟消毒飲",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_046c71981b",
+      "name": "普濟消毒飲《散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "普濟消毒飲": [
+    {
+      "entity_id": "can_32448c9b4b",
+      "name": "普濟消毒飲",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_046c71981b",
+      "name": "普濟消毒飲《散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "桃仁承氣湯(桃核承氣湯": [
+    {
+      "entity_id": "can_82231876d0",
+      "name": "桃仁承氣湯",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_5e37eb339f",
+      "name": "桃仁承氣湯(桃核承氣湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "桃仁承氣湯": [
+    {
+      "entity_id": "can_82231876d0",
+      "name": "桃仁承氣湯",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_5e37eb339f",
+      "name": "桃仁承氣湯(桃核承氣湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "甘麥大棗湯": [
+    {
+      "entity_id": "can_9903f092e2",
+      "name": "甘麥大棗湯",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_beaa9e2dd2",
+      "name": "甘麥大棗湯(甘草小麥大棗湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "痰濕蘊肺": [
+    {
+      "entity_id": "can_b6b304f524",
+      "name": "痰濕蘊肺",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "痰火擾心之心悸": [
+    {
+      "entity_id": "can_ac6f9a8788",
+      "name": "痰火擾心",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "痰火擾心": [
+    {
+      "entity_id": "can_ac6f9a8788",
+      "name": "痰火擾心",
+      "type": "pattern",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_2c95a2a2d1",
+      "name": "肝火痰熱|風動痰壅,痰火擾心",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "痰熱內擾": [
+    {
+      "entity_id": "can_54d9efae0f",
+      "name": "痰熱內擾",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "薏苡附子散": [
+    {
+      "entity_id": "can_fd6168584b",
+      "name": "薏苡附子散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "蠲痹湯": [
+    {
+      "entity_id": "can_ca0de6cc4b",
+      "name": "蠲痹湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "逍遙散": [
+    {
+      "entity_id": "can_aff5d00b90",
+      "name": "逍遙散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "香薷飲": [
+    {
+      "entity_id": "can_0852425934",
+      "name": "香薷飲",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "茯苓桂枝甘草大棗湯": [
+    {
+      "entity_id": "can_debdfbf1b5",
+      "name": "茯苓桂枝甘草大棗湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "茯苓桂枝甘草大棗湯【金匱": [
+    {
+      "entity_id": "can_debdfbf1b5",
+      "name": "茯苓桂枝甘草大棗湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "茯苓桂枝甘草大棗湯【傷寒": [
+    {
+      "entity_id": "can_debdfbf1b5",
+      "name": "茯苓桂枝甘草大棗湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "心陽不足之心悸": [
+    {
+      "entity_id": "can_3c5ad19969",
+      "name": "心陽不足",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "桂枝人參湯": [
+    {
+      "entity_id": "can_3367e6562e",
+      "name": "桂枝人參湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "麻黃杏仁甘草石膏湯": [
+    {
+      "entity_id": "can_aa32ff233a",
+      "name": "麻黃杏仁甘草石膏湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "麻杏甘石湯": [
+    {
+      "entity_id": "can_aa32ff233a",
+      "name": "麻黃杏仁甘草石膏湯",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_f045967182",
+      "name": "麻杏甘石湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "肺氣不足": [
+    {
+      "entity_id": "can_e9ca022402",
+      "name": "肺虛",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "氣無所主": [
+    {
+      "entity_id": "can_e9ca022402",
+      "name": "肺虛",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "衛氣虛弱": [
+    {
+      "entity_id": "can_e9ca022402",
+      "name": "肺虛",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "肺失肅降": [
+    {
+      "entity_id": "can_e9ca022402",
+      "name": "肺虛",
+      "type": "pattern",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_5a849e4f2c",
+      "name": "痰哮",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "脾胃氣虛嘔吐": [
+    {
+      "entity_id": "can_cbf97cffed",
+      "name": "脾胃氣虛",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "膀胱濕熱": [
+    {
+      "entity_id": "can_f5f84ee9ab",
+      "name": "膀胱濕熱",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "陰寒凝滯": [
+    {
+      "entity_id": "can_2261f44301",
+      "name": "陰寒內結",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "胸陽不展": [
+    {
+      "entity_id": "can_2261f44301",
+      "name": "陰寒內結",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "肺腎陽虛": [
+    {
+      "entity_id": "can_a5c3415b2c",
+      "name": "陽虛水泛",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "水飲泛溢": [
+    {
+      "entity_id": "can_a5c3415b2c",
+      "name": "陽虛水泛",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "養心湯": [
+    {
+      "entity_id": "can_2242381512",
+      "name": "養心湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "麻黃附子湯杏子湯": [
+    {
+      "entity_id": "can_1f90735bbe",
+      "name": "麻黃附子湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "麻黃附子湯": [
+    {
+      "entity_id": "can_1f90735bbe",
+      "name": "麻黃附子湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "烏頭赤石脂丸": [
+    {
+      "entity_id": "can_6b72053b46",
+      "name": "赤石脂丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "赤石脂丸": [
+    {
+      "entity_id": "can_6b72053b46",
+      "name": "赤石脂丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "半夏乾薑散": [
+    {
+      "entity_id": "can_21b8a435c7",
+      "name": "半夏乾薑散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "四逆加人參湯": [
+    {
+      "entity_id": "can_98480251f0",
+      "name": "四逆加人參湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "大黃甘草湯": [
+    {
+      "entity_id": "can_2b5d00f7b0",
+      "name": "大黃甘草湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "旋覆代赭湯": [
+    {
+      "entity_id": "can_a6c1667847",
+      "name": "旋覆代赭湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "枳實芍藥散": [
+    {
+      "entity_id": "can_971dcfe582",
+      "name": "枳實芍藥散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "柴胡桂枝乾薑湯": [
+    {
+      "entity_id": "can_2a556c1122",
+      "name": "柴胡桂枝乾薑湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "桂枝去芍藥湯": [
+    {
+      "entity_id": "can_8f6838f146",
+      "name": "桂枝去芍藥湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "五積散": [
+    {
+      "entity_id": "can_10d81e22e7",
+      "name": "五積散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "心腎陰虛": [
+    {
+      "entity_id": "can_34ff4f7f78",
+      "name": "心腎陰虛",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "陰虛陽亢": [
+    {
+      "entity_id": "can_34ff4f7f78",
+      "name": "心腎陰虛",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "枳實薤白桂枝湯": [
+    {
+      "entity_id": "can_5a2b52f66f",
+      "name": "枳實薤白桂枝湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "桂枝加龍骨牡蠣湯": [
+    {
+      "entity_id": "can_a5504301bc",
+      "name": "桂枝加龍骨牡蠣湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "瘟疫熱毒": [
+    {
+      "entity_id": "can_28ecb71598",
+      "name": "氣血兩燔",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "充斥內外": [
+    {
+      "entity_id": "can_28ecb71598",
+      "name": "氣血兩燔",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "氣血兩燔": [
+    {
+      "entity_id": "can_28ecb71598",
+      "name": "氣血兩燔",
+      "type": "pattern",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_c12c6f20a0",
+      "name": "瘟疫熱毒",
+      "type": "disease",
+      "weight": 7
+    }
+  ],
+  "燥熱傷肺咳血": [
+    {
+      "entity_id": "can_0c75dbf937",
+      "name": "燥熱傷肺",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "當歸散": [
+    {
+      "entity_id": "can_d8e4f548f9",
+      "name": "當歸散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "痰濁阻肺": [
+    {
+      "entity_id": "can_2f0cb8c726",
+      "name": "痰濁壅肺",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "濁犯上焦": [
+    {
+      "entity_id": "can_2f0cb8c726",
+      "name": "痰濁壅肺",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "痰瘀互阻": [
+    {
+      "entity_id": "can_cac860997c",
+      "name": "痰瘀交阻",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "胸陽失展": [
+    {
+      "entity_id": "can_cac860997c",
+      "name": "痰瘀交阻",
+      "type": "pattern",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_0e36990542",
+      "name": "痰濁閉阻",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "白通湯": [
+    {
+      "entity_id": "can_53b7f575c7",
+      "name": "白通湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "益氣聰明湯": [
+    {
+      "entity_id": "can_6a6e3f59de",
+      "name": "益氣聰明湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "肝胃不和噯氣": [
+    {
+      "entity_id": "can_81cc4fc350",
+      "name": "肝胃不和",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "肺腎陰虛之失音": [
+    {
+      "entity_id": "can_56eabc1d7b",
+      "name": "肺腎陰虛",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "萆薢分清飲": [
+    {
+      "entity_id": "can_2f35f3adbc",
+      "name": "萆薢分清飲",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "脾胃虛寒胃痛": [
+    {
+      "entity_id": "can_dadcb44185",
+      "name": "虛寒證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "肺氣虛冷": [
+    {
+      "entity_id": "can_dadcb44185",
+      "name": "虛寒證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "氣不化津": [
+    {
+      "entity_id": "can_dadcb44185",
+      "name": "虛寒證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "虛寒證": [
+    {
+      "entity_id": "can_dadcb44185",
+      "name": "虛寒證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "小青龍加石膏湯": [
+    {
+      "entity_id": "can_738e7dea8a",
+      "name": "小青龍加石膏湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "茯苓四逆湯": [
+    {
+      "entity_id": "can_6e13529ee9",
+      "name": "茯苓四逆湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "薯蕷丸": [
+    {
+      "entity_id": "can_f2fe8daf3f",
+      "name": "薯蕷丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "麻黃杏仁薏苡甘草湯": [
+    {
+      "entity_id": "can_b272d7ec13",
+      "name": "麻黃杏仁薏苡甘草湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "百合滑石散": [
+    {
+      "entity_id": "can_dcbc01dc7a",
+      "name": "百合滑石散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "百合地黃湯": [
+    {
+      "entity_id": "can_0dabdac775",
+      "name": "百合地黃湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "茯苓澤瀉湯": [
+    {
+      "entity_id": "can_5824cc8cfa",
+      "name": "茯苓澤瀉湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "鱉甲煎丸": [
+    {
+      "entity_id": "can_5d30838b26",
+      "name": "鱉甲煎丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "半夏白朮天麻湯": [
+    {
+      "entity_id": "can_b3d58e7ca0",
+      "name": "半夏天麻白朮湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "瘖": [
+    {
+      "entity_id": "can_a551598b2c",
+      "name": "失音",
+      "type": "disease",
+      "weight": 7
+    }
+  ],
+  "喑": [
+    {
+      "entity_id": "can_a551598b2c",
+      "name": "失音",
+      "type": "disease",
+      "weight": 7
+    }
+  ],
+  "子瘖": [
+    {
+      "entity_id": "can_a551598b2c",
+      "name": "失音",
+      "type": "disease",
+      "weight": 7
+    }
+  ],
+  "喉瘖": [
+    {
+      "entity_id": "can_a551598b2c",
+      "name": "失音",
+      "type": "disease",
+      "weight": 7
+    }
+  ],
+  "舌瘖": [
+    {
+      "entity_id": "can_a551598b2c",
+      "name": "失音",
+      "type": "disease",
+      "weight": 7
+    }
+  ],
+  "熱毒蘊肺": [
+    {
+      "entity_id": "can_51877f12b6",
+      "name": "成癰期",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "血瘀成癰": [
+    {
+      "entity_id": "can_51877f12b6",
+      "name": "成癰期",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "溫經湯": [
+    {
+      "entity_id": "can_79dad92102",
+      "name": "溫經湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "當歸拈痛湯": [
+    {
+      "entity_id": "can_d95a9cab8f",
+      "name": "當歸拈痛湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "痰濁閉阻": [
+    {
+      "entity_id": "can_0e36990542",
+      "name": "痰濁閉阻",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "痰濕內阻痞病": [
+    {
+      "entity_id": "can_ce05f01059",
+      "name": "痰濕內阻",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "濕熱薰蒸": [
+    {
+      "entity_id": "can_cb8fae1fdd",
+      "name": "脾經濕熱",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "上干清竅": [
+    {
+      "entity_id": "can_cb8fae1fdd",
+      "name": "脾經濕熱",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "茯苓杏仁甘草湯": [
+    {
+      "entity_id": "can_8da1754712",
+      "name": "茯苓杏仁甘草湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "風寒襲肺": [
+    {
+      "entity_id": "can_fececf2b4f",
+      "name": "風寒襲肺",
+      "type": "pattern",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_fececf2b4f",
+      "name": "風寒襲肺",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "風寒上受": [
+    {
+      "entity_id": "can_fececf2b4f",
+      "name": "風寒襲肺",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "肺氣不宣": [
+    {
+      "entity_id": "can_fececf2b4f",
+      "name": "風寒襲肺",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "厚朴麻黃湯": [
+    {
+      "entity_id": "can_987fd2d512",
+      "name": "厚朴麻黃湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "厚朴生薑半夏甘草人參湯": [
+    {
+      "entity_id": "can_82b845942f",
+      "name": "厚朴生薑半夏甘草人參湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "桂枝加附子湯": [
+    {
+      "entity_id": "can_de97b9f678",
+      "name": "桂枝加附子湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "水飲凌心之心悸": [
+    {
+      "entity_id": "can_01a27b9d3e",
+      "name": "水飲凌心",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "附子粳米湯": [
+    {
+      "entity_id": "can_b6bb2dd07b",
+      "name": "附子粳米湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "麻黃附子細辛湯": [
+    {
+      "entity_id": "can_256ffa3f8f",
+      "name": "麻黃附子細辛湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "三黃瀉心湯《丸": [
+    {
+      "entity_id": "can_f6af9eed97",
+      "name": "三黃瀉心湯",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_5f4a04a71e",
+      "name": "三黃瀉心湯《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "三黃瀉心湯": [
+    {
+      "entity_id": "can_f6af9eed97",
+      "name": "三黃瀉心湯",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_5f4a04a71e",
+      "name": "三黃瀉心湯《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "奔豚湯": [
+    {
+      "entity_id": "can_975ed4b01d",
+      "name": "奔豚湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "心血瘀阻之心悸": [
+    {
+      "entity_id": "can_1727aac0e0",
+      "name": "心血瘀阻",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "柴葛解肌湯": [
+    {
+      "entity_id": "can_041fa9d55f",
+      "name": "柴葛解肌湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "清胃散": [
+    {
+      "entity_id": "can_3ec03562cb",
+      "name": "清胃散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "血敗肉腐": [
+    {
+      "entity_id": "can_06a5e474a9",
+      "name": "潰膿期",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "癰膿潰破": [
+    {
+      "entity_id": "can_06a5e474a9",
+      "name": "潰膿期",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "癲證": [
+    {
+      "entity_id": "can_6802a83957",
+      "name": "癲狂",
+      "type": "disease",
+      "weight": 7
+    }
+  ],
+  "狂證": [
+    {
+      "entity_id": "can_6802a83957",
+      "name": "癲狂",
+      "type": "disease",
+      "weight": 7
+    }
+  ],
+  "脾胃陽虛嘔吐": [
+    {
+      "entity_id": "can_27a349fb1a",
+      "name": "脾胃陽虛",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "脾胃陽虛呃逆": [
+    {
+      "entity_id": "can_27a349fb1a",
+      "name": "脾胃陽虛",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "脾胃陽虛": [
+    {
+      "entity_id": "can_27a349fb1a",
+      "name": "脾胃陽虛",
+      "type": "pattern",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_e133e0f726",
+      "name": "脾胃陽虛證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "芍藥湯": [
+    {
+      "entity_id": "can_eb42a83b36",
+      "name": "芍藥湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "肺燥津傷": [
+    {
+      "entity_id": "can_e6b2613106",
+      "name": "虛熱證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "肺失濡養": [
+    {
+      "entity_id": "can_e6b2613106",
+      "name": "虛熱證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "血瘀胃痛": [
+    {
+      "entity_id": "can_fa0149cc44",
+      "name": "血瘀證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "血瘀腹痛": [
+    {
+      "entity_id": "can_fa0149cc44",
+      "name": "血瘀證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "血瘀證": [
+    {
+      "entity_id": "can_fa0149cc44",
+      "name": "血瘀證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "黃耆桂枝五物湯": [
+    {
+      "entity_id": "can_40fd943966",
+      "name": "黃耆桂枝五物湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "桂枝二麻黃一湯": [
+    {
+      "entity_id": "can_398aca44cd",
+      "name": "桂枝二麻黃一湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "抵當丸": [
+    {
+      "entity_id": "can_2c03af79af",
+      "name": "抵當丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "柴胡加芒硝湯": [
+    {
+      "entity_id": "can_8471a13e84",
+      "name": "柴胡加芒硝湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "桂枝二越婢一湯": [
+    {
+      "entity_id": "can_52daa23e13",
+      "name": "桂枝二越婢一湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "桂枝去桂加茯苓白朮湯": [
+    {
+      "entity_id": "can_ae15981a69",
+      "name": "桂枝去桂加茯苓白朮湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "橘枳薑湯": [
+    {
+      "entity_id": "can_5511e42f2b",
+      "name": "橘枳薑湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "橘皮湯": [
+    {
+      "entity_id": "can_5a61ca3088",
+      "name": "橘皮湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "滑石代赭湯": [
+    {
+      "entity_id": "can_49c5f6687a",
+      "name": "滑石代赭湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "烏梅丸": [
+    {
+      "entity_id": "can_e86d108eb3",
+      "name": "烏梅丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "烏梅丸【金匱": [
+    {
+      "entity_id": "can_e86d108eb3",
+      "name": "烏梅丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "烏梅丸【傷寒": [
+    {
+      "entity_id": "can_e86d108eb3",
+      "name": "烏梅丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "甘草附子湯": [
+    {
+      "entity_id": "can_dba26ca75a",
+      "name": "甘草附子湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "甘草附子湯【金匱": [
+    {
+      "entity_id": "can_dba26ca75a",
+      "name": "甘草附子湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "甘草附子湯【傷寒": [
+    {
+      "entity_id": "can_dba26ca75a",
+      "name": "甘草附子湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "附子瀉心湯": [
+    {
+      "entity_id": "can_48f5498107",
+      "name": "附子瀉心湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "寒熱錯雜痞病": [
+    {
+      "entity_id": "can_24caed8370",
+      "name": "寒熱錯雜",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "心膽虛怯之心悸": [
+    {
+      "entity_id": "can_ac0ed9f4c2",
+      "name": "心膽虛怯",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "桃紅四物湯": [
+    {
+      "entity_id": "can_575664dc9e",
+      "name": "桃紅四物湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "甘薑苓朮湯": [
+    {
+      "entity_id": "can_32dda23af0",
+      "name": "甘草乾姜茯苓白朮湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "甘草乾姜茯苓白朮湯": [
+    {
+      "entity_id": "can_32dda23af0",
+      "name": "甘草乾姜茯苓白朮湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "皂莢丸": [
+    {
+      "entity_id": "can_50eca2140f",
+      "name": "皂莢丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "聖愈湯": [
+    {
+      "entity_id": "can_87fe7d44d8",
+      "name": "聖愈湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "肝氣犯胃嘔吐": [
+    {
+      "entity_id": "can_20d147f89d",
+      "name": "肝氣犯胃",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "茯苓桂枝白朮甘草湯": [
+    {
+      "entity_id": "can_95539b984d",
+      "name": "茯苓桂枝白朮甘草湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "血瘀阻心": [
+    {
+      "entity_id": "can_b863f7dd75",
+      "name": "血瘀氣滯",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "心脈不暢": [
+    {
+      "entity_id": "can_b863f7dd75",
+      "name": "血瘀氣滯",
+      "type": "pattern",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_8bacd0094a",
+      "name": "陽氣虛弱",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "心腎陽虛": [
+    {
+      "entity_id": "can_8bacd0094a",
+      "name": "陽氣虛弱",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "麻黃升麻湯": [
+    {
+      "entity_id": "can_bf2eb40348",
+      "name": "麻黃升麻湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "黃芩加半夏生薑湯": [
+    {
+      "entity_id": "can_9108e059f2",
+      "name": "黃芩加半夏生薑湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "黃芩加半夏生薑湯【金匱": [
+    {
+      "entity_id": "can_9108e059f2",
+      "name": "黃芩加半夏生薑湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "黃芩加半夏生薑湯【傷寒": [
+    {
+      "entity_id": "can_9108e059f2",
+      "name": "黃芩加半夏生薑湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "黃芩加半夏湯": [
+    {
+      "entity_id": "can_9108e059f2",
+      "name": "黃芩加半夏生薑湯",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_4e37b29b7f",
+      "name": "黃芩加半夏湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "桂枝加葛根湯": [
+    {
+      "entity_id": "can_5def52eacc",
+      "name": "桂枝加葛根湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "白虎加桂枝湯": [
+    {
+      "entity_id": "can_6dec689ab1",
+      "name": "白虎加桂枝湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "麻黃加朮湯": [
+    {
+      "entity_id": "can_30a0c009b1",
+      "name": "麻黃加朮湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "五淋散": [
+    {
+      "entity_id": "can_1248a1e319",
+      "name": "五淋散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "五皮飲": [
+    {
+      "entity_id": "can_ba6b554ec6",
+      "name": "五皮飲",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "心膽氣虛": [
+    {
+      "entity_id": "can_74f7618935",
+      "name": "心膽氣虛",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "承氣湯": [
+    {
+      "entity_id": "can_e2c9c6b274",
+      "name": "承氣湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "肺燥津傷之失音": [
+    {
+      "entity_id": "can_3a106cddee",
+      "name": "肺燥津傷",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "肺陰虧耗": [
+    {
+      "entity_id": "can_845460bdd8",
+      "name": "肺陰虧耗",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "胃陰不足嘔吐": [
+    {
+      "entity_id": "can_bf66721c22",
+      "name": "胃陰不足",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "胃陰不足呃逆": [
+    {
+      "entity_id": "can_bf66721c22",
+      "name": "胃陰不足",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "胃陰不足": [
+    {
+      "entity_id": "can_bf66721c22",
+      "name": "胃陰不足",
+      "type": "pattern",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_a116296f3d",
+      "name": "陰虛證",
+      "type": "pattern",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_533fbd3797",
+      "name": "津虧熱結",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "脾胃虛弱痞病": [
+    {
+      "entity_id": "can_6e96266bc5",
+      "name": "脾胃虛弱",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "脾胃虛弱": [
+    {
+      "entity_id": "can_6e96266bc5",
+      "name": "脾胃虛弱",
+      "type": "pattern",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_c1c9c0c39a",
+      "name": "脾氣虛弱",
+      "type": "pattern",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_c1c9c0c39a",
+      "name": "脾氣虛弱",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "苦酒湯": [
+    {
+      "entity_id": "can_f0aa750445",
+      "name": "苦酒湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "金沸草散": [
+    {
+      "entity_id": "can_87a154fb82",
+      "name": "金沸草散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "胃陰不足胃痛": [
+    {
+      "entity_id": "can_a116296f3d",
+      "name": "陰虛證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "麥味地黃丸《丸": [
+    {
+      "entity_id": "can_efe76f8cba",
+      "name": "麥味地黃丸",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_a2f96b5794",
+      "name": "麥味地黃丸《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "麥味地黃丸": [
+    {
+      "entity_id": "can_efe76f8cba",
+      "name": "麥味地黃丸",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_a2f96b5794",
+      "name": "麥味地黃丸《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "澤漆湯": [
+    {
+      "entity_id": "can_b2ca4cdedd",
+      "name": "澤漆湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "茯苓桂枝五味甘草湯": [
+    {
+      "entity_id": "can_bf1d0528e8",
+      "name": "桂苓五味甘草湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "桂苓五味甘草湯": [
+    {
+      "entity_id": "can_bf1d0528e8",
+      "name": "桂苓五味甘草湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "葵子茯苓散": [
+    {
+      "entity_id": "can_47d7a863d3",
+      "name": "葵子茯苓散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "厚朴七物湯": [
+    {
+      "entity_id": "can_dc9fafa098",
+      "name": "厚朴七物湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "厚朴大黃湯": [
+    {
+      "entity_id": "can_15c1cd6128",
+      "name": "厚朴大黃湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "栝蔞牡蠣散": [
+    {
+      "entity_id": "can_4354bca76a",
+      "name": "栝蔞牡蠣散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "桂枝去芍藥加附子湯": [
+    {
+      "entity_id": "can_92d4740e5c",
+      "name": "桂枝去芍藥加附子湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "去桂加白朮湯": [
+    {
+      "entity_id": "can_17d6d4d2a6",
+      "name": "白朮附子湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "白朮附子湯": [
+    {
+      "entity_id": "can_17d6d4d2a6",
+      "name": "白朮附子湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "竹葉湯": [
+    {
+      "entity_id": "can_4dceaae8e4",
+      "name": "竹葉湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "猪苓散": [
+    {
+      "entity_id": "can_49982b9a8b",
+      "name": "豬苓散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "豬苓散": [
+    {
+      "entity_id": "can_49982b9a8b",
+      "name": "豬苓散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "三痹湯": [
+    {
+      "entity_id": "can_9e821edd8f",
+      "name": "三痹湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "便秘": [
+    {
+      "entity_id": "can_550c689d7a",
+      "name": "便祕",
+      "type": "disease",
+      "weight": 7
+    }
+  ],
+  "大便難": [
+    {
+      "entity_id": "can_550c689d7a",
+      "name": "便祕",
+      "type": "disease",
+      "weight": 7
+    }
+  ],
+  "後不利": [
+    {
+      "entity_id": "can_550c689d7a",
+      "name": "便祕",
+      "type": "disease",
+      "weight": 7
+    }
+  ],
+  "六一散《散": [
+    {
+      "entity_id": "can_060d35fbde",
+      "name": "六一散",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_ed3397c4b7",
+      "name": "六一散《散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "六一散": [
+    {
+      "entity_id": "can_060d35fbde",
+      "name": "六一散",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_ed3397c4b7",
+      "name": "六一散《散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "大黃蟅蟲丸": [
+    {
+      "entity_id": "can_332760c1c0",
+      "name": "大黃蟅蟲丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "桂枝加大黃湯": [
+    {
+      "entity_id": "can_31ea8af2d7",
+      "name": "桂枝加大黃湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "桂枝去芍藥加麻辛附子湯": [
+    {
+      "entity_id": "can_072d834e75",
+      "name": "桂枝去芍藥加麻黃細辛附子湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "桂枝去芍藥加麻黃細辛附子湯": [
+    {
+      "entity_id": "can_072d834e75",
+      "name": "桂枝去芍藥加麻黃細辛附子湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "桂枝茯苓丸": [
+    {
+      "entity_id": "can_357e549ae3",
+      "name": "桂枝茯苓丸",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_2a72829c05",
+      "name": "桂枝茯苓丸《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "桂枝茯苓丸《丸": [
+    {
+      "entity_id": "can_357e549ae3",
+      "name": "桂枝茯苓丸",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_2a72829c05",
+      "name": "桂枝茯苓丸《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "梔子厚朴湯": [
+    {
+      "entity_id": "can_6b3be11e50",
+      "name": "梔子厚朴湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "槐花散": [
+    {
+      "entity_id": "can_300183280d",
+      "name": "槐花散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "清肺飲": [
+    {
+      "entity_id": "can_9b81fe5e3a",
+      "name": "清肺飲",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "上犯清竅": [
+    {
+      "entity_id": "can_be43e9227b",
+      "name": "熱壅肺竅",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "甘草湯": [
+    {
+      "entity_id": "can_745cdb8317",
+      "name": "甘草湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "生化湯": [
+    {
+      "entity_id": "can_9963e122b7",
+      "name": "生化湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "當歸六黃湯": [
+    {
+      "entity_id": "can_428cb50d0b",
+      "name": "當歸六黃湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "當歸四逆加吳茱萸生薑湯": [
+    {
+      "entity_id": "can_16678a6e1a",
+      "name": "當歸四逆加吳茱萸生薑湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "肝火犯肺": [
+    {
+      "entity_id": "can_2ffc86d739",
+      "name": "肝火犯肺",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "肝火犯肺咳血": [
+    {
+      "entity_id": "can_2ffc86d739",
+      "name": "肝火犯肺",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "肺氣鬱閉": [
+    {
+      "entity_id": "can_947e22e930",
+      "name": "肺氣鬱痹",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "肝氣犯肺": [
+    {
+      "entity_id": "can_947e22e930",
+      "name": "肺氣鬱痹",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "肺氣不降": [
+    {
+      "entity_id": "can_947e22e930",
+      "name": "肺氣鬱痹",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "清氣不升": [
+    {
+      "entity_id": "can_c1c9c0c39a",
+      "name": "脾氣虛弱",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "濁氣壅滯": [
+    {
+      "entity_id": "can_c1c9c0c39a",
+      "name": "脾氣虛弱",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "水飲內停": [
+    {
+      "entity_id": "can_e133e0f726",
+      "name": "脾胃陽虛證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "脾胃陽虛證": [
+    {
+      "entity_id": "can_e133e0f726",
+      "name": "脾胃陽虛證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "脾腎陽虛證": [
+    {
+      "entity_id": "can_e133e0f726",
+      "name": "脾胃陽虛證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "華蓋散": [
+    {
+      "entity_id": "can_e419eddc49",
+      "name": "華蓋散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "豬膚湯": [
+    {
+      "entity_id": "can_9ffeb594dc",
+      "name": "豬膚湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "閉證陽閉": [
+    {
+      "entity_id": "can_6dcd837393",
+      "name": "陽閉",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "痰火閉竅陽閉": [
+    {
+      "entity_id": "can_6dcd837393",
+      "name": "陽閉",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "風寒束表": [
+    {
+      "entity_id": "can_7425325f0b",
+      "name": "風寒證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "肺衛失宣": [
+    {
+      "entity_id": "can_7425325f0b",
+      "name": "風寒證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "胸痹": [
+    {
+      "entity_id": "can_d56ab14376",
+      "name": "心痛(胸痹",
+      "type": "disease",
+      "weight": 7
+    }
+  ],
+  "真心痛": [
+    {
+      "entity_id": "can_d56ab14376",
+      "name": "心痛(胸痹",
+      "type": "disease",
+      "weight": 7
+    }
+  ],
+  "厥心痛": [
+    {
+      "entity_id": "can_d56ab14376",
+      "name": "心痛(胸痹",
+      "type": "disease",
+      "weight": 7
+    }
+  ],
+  "半夏散": [
+    {
+      "entity_id": "can_d803d41911",
+      "name": "半夏散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "桂枝去芍藥加蜀漆牡蠣龍骨救逆湯": [
+    {
+      "entity_id": "can_32a7831dff",
+      "name": "桂枝救逆湯",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_3eb22fdca8",
+      "name": "桂枝去芍藥加蜀漆牡蠣龍骨救逆湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "桂枝救逆湯": [
+    {
+      "entity_id": "can_32a7831dff",
+      "name": "桂枝救逆湯",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_3eb22fdca8",
+      "name": "桂枝去芍藥加蜀漆牡蠣龍骨救逆湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "膠艾湯": [
+    {
+      "entity_id": "can_28bf586721",
+      "name": "芎歸膠艾湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "芎歸膠艾湯": [
+    {
+      "entity_id": "can_28bf586721",
+      "name": "芎歸膠艾湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "蛇床子散": [
+    {
+      "entity_id": "can_dc102cdb88",
+      "name": "蛇床子散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "參蘇飲": [
+    {
+      "entity_id": "can_de5e22c02f",
+      "name": "參蘇飲",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "大陷胸丸": [
+    {
+      "entity_id": "can_3ae093ce8f",
+      "name": "大陷胸丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "小續命湯": [
+    {
+      "entity_id": "can_4fe3a2f23e",
+      "name": "小續命湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "陽虛欲脫": [
+    {
+      "entity_id": "can_e8b50866dc",
+      "name": "心陽欲脫",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "神不守舍": [
+    {
+      "entity_id": "can_e8b50866dc",
+      "name": "心陽欲脫",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "文蛤散": [
+    {
+      "entity_id": "can_545af3d074",
+      "name": "文蛤散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "栝蔞瞿麥丸": [
+    {
+      "entity_id": "can_4e401dc622",
+      "name": "栝蔞瞿麥丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "桂枝加人參湯": [
+    {
+      "entity_id": "can_6f68089878",
+      "name": "桂枝加人參湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "桂枝加芍藥湯": [
+    {
+      "entity_id": "can_a2c8064f4e",
+      "name": "桂枝加芍藥湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "消風散": [
+    {
+      "entity_id": "can_879fd792be",
+      "name": "消風散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "溫清飲(解毒四物湯": [
+    {
+      "entity_id": "can_8890c9c58b",
+      "name": "溫清飲",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_e2f390f4b5",
+      "name": "溫清飲(解毒四物湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "溫清飲": [
+    {
+      "entity_id": "can_8890c9c58b",
+      "name": "溫清飲",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_e2f390f4b5",
+      "name": "溫清飲(解毒四物湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "解毒四物湯": [
+    {
+      "entity_id": "can_8890c9c58b",
+      "name": "溫清飲",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_e2f390f4b5",
+      "name": "溫清飲(解毒四物湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "濕熱積滯腹痛": [
+    {
+      "entity_id": "can_a1ba0bed25",
+      "name": "濕熱積滯",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "生薑半夏湯": [
+    {
+      "entity_id": "can_6006a2e5b2",
+      "name": "生薑半夏湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "當歸補血湯": [
+    {
+      "entity_id": "can_80a3305f10",
+      "name": "當歸補血湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "當歸貝母苦參丸": [
+    {
+      "entity_id": "can_3d0d53539b",
+      "name": "當歸貝母苦參丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "痰飲內阻嘔吐": [
+    {
+      "entity_id": "can_dd665510af",
+      "name": "痰飲內阻",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "氣結血瘀": [
+    {
+      "entity_id": "can_c9e01a8cb5",
+      "name": "瘀血內結",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "血瘀成積": [
+    {
+      "entity_id": "can_c9e01a8cb5",
+      "name": "瘀血內結",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "瘀血內結積聚": [
+    {
+      "entity_id": "can_c9e01a8cb5",
+      "name": "瘀血內結",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "白通加豬膽汁湯": [
+    {
+      "entity_id": "can_87c8ab9e40",
+      "name": "白通加豬膽汁湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "白通加諸膽汁湯": [
+    {
+      "entity_id": "can_87c8ab9e40",
+      "name": "白通加豬膽汁湯",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_d460c9e65d",
+      "name": "白通加諸膽汁湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "肺腎兩虛": [
+    {
+      "entity_id": "can_c51b4b052a",
+      "name": "肺腎氣虛",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "胃火上衝呃逆": [
+    {
+      "entity_id": "can_3ebdfca6d5",
+      "name": "胃火上衝",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "芍藥甘草湯": [
+    {
+      "entity_id": "can_3835d95ffd",
+      "name": "芍藥甘草湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "蒲灰散": [
+    {
+      "entity_id": "can_8a501b666d",
+      "name": "蒲灰散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "防風通聖散《散": [
+    {
+      "entity_id": "can_768dc4c8a2",
+      "name": "防風通聖散",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_87e259f917",
+      "name": "防風通聖散《散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "防風通聖散": [
+    {
+      "entity_id": "can_768dc4c8a2",
+      "name": "防風通聖散",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_87e259f917",
+      "name": "防風通聖散《散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "風熱上壅之失音": [
+    {
+      "entity_id": "can_49377e8c0f",
+      "name": "風熱上壅",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "肺衛失和": [
+    {
+      "entity_id": "can_24d61b7b1c",
+      "name": "風熱證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "飲食積滯痞病": [
+    {
+      "entity_id": "can_82ea0b5300",
+      "name": "飲食積滯",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "暑濕傷表": [
+    {
+      "entity_id": "can_5c39478721",
+      "name": "暑濕證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "肺衛失暢": [
+    {
+      "entity_id": "can_5c39478721",
+      "name": "暑濕證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "枳實梔子豉湯": [
+    {
+      "entity_id": "can_eccc220f5e",
+      "name": "枳實梔子豉湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "百合洗方": [
+    {
+      "entity_id": "can_cdb87d969f",
+      "name": "百合洗方",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "芍藥甘草附子湯": [
+    {
+      "entity_id": "can_48d4dcef47",
+      "name": "芍藥甘草附子湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "葛根加半夏湯": [
+    {
+      "entity_id": "can_5fc1013ba0",
+      "name": "葛根加半夏湯",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_7a6d12bade",
+      "name": "葛根湯加半夏湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "三物白散": [
+    {
+      "entity_id": "can_31d9c1905f",
+      "name": "三物白散",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_ebdc07dd6e",
+      "name": "白散三物白散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "白散": [
+    {
+      "entity_id": "can_31d9c1905f",
+      "name": "三物白散",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_ebdc07dd6e",
+      "name": "白散三物白散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "三物小白散": [
+    {
+      "entity_id": "can_31d9c1905f",
+      "name": "三物白散",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_ebdc07dd6e",
+      "name": "白散三物白散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "白散(三物白散": [
+    {
+      "entity_id": "can_31d9c1905f",
+      "name": "三物白散",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_ebdc07dd6e",
+      "name": "白散三物白散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "乾薑人參半夏丸": [
+    {
+      "entity_id": "can_bc67e22b6b",
+      "name": "乾薑人參半夏丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "升麻鱉甲湯去雄黃": [
+    {
+      "entity_id": "can_6a81c427d1",
+      "name": "升麻鱉甲湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "蜀椒": [
+    {
+      "entity_id": "can_6a81c427d1",
+      "name": "升麻鱉甲湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "升麻鱉甲湯": [
+    {
+      "entity_id": "can_6a81c427d1",
+      "name": "升麻鱉甲湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "心脾積熱口糜": [
+    {
+      "entity_id": "can_ac52dfa7bd",
+      "name": "心脾積熱",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "散腫潰堅湯": [
+    {
+      "entity_id": "can_e1b48c3a25",
+      "name": "散腫潰堅湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "文蛤湯": [
+    {
+      "entity_id": "can_478a8d49e4",
+      "name": "文蛤湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "桂枝加芍藥生薑各一兩人參三兩新加湯": [
+    {
+      "entity_id": "can_a9e9beb2b4",
+      "name": "桂枝加芍藥生薑各一兩人參三兩新加湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "桂枝甘草湯": [
+    {
+      "entity_id": "can_94491b059f",
+      "name": "桂枝甘草湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "梔子乾薑湯": [
+    {
+      "entity_id": "can_7d2366857f",
+      "name": "梔子乾薑湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "梔子甘草豉湯": [
+    {
+      "entity_id": "can_6c4d5a6d65",
+      "name": "梔子甘草豉湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "氣虛便祕": [
+    {
+      "entity_id": "can_eb504b52e6",
+      "name": "氣虛證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "甘草粉蜜湯": [
+    {
+      "entity_id": "can_6ac7540c94",
+      "name": "甘草粉蜜湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "甘草麻黃湯": [
+    {
+      "entity_id": "can_c6991f8c43",
+      "name": "甘草麻黃湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "胃中寒冷呃逆": [
+    {
+      "entity_id": "can_f5e6816b41",
+      "name": "胃中寒冷",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "中經絡:脈絡空虛": [
+    {
+      "entity_id": "can_5c8f2e2fb9",
+      "name": "脈絡空虛,風邪入中",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "風邪入中": [
+    {
+      "entity_id": "can_5c8f2e2fb9",
+      "name": "脈絡空虛,風邪入中",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "脈絡空虛風邪入中": [
+    {
+      "entity_id": "can_5c8f2e2fb9",
+      "name": "脈絡空虛,風邪入中",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "蜀漆散": [
+    {
+      "entity_id": "can_c4a276d57d",
+      "name": "蜀漆散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "蜘蛛散": [
+    {
+      "entity_id": "can_0cfa3abb8b",
+      "name": "蜘蛛散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "辛夷散《散": [
+    {
+      "entity_id": "can_eb030ff7d9",
+      "name": "辛夷散",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_86a45681bf",
+      "name": "辛夷散《散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "辛夷散": [
+    {
+      "entity_id": "can_eb030ff7d9",
+      "name": "辛夷散",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_86a45681bf",
+      "name": "辛夷散《散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "雞屎白散": [
+    {
+      "entity_id": "can_5d2c831085",
+      "name": "雞屎白散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "飲留胃腸": [
+    {
+      "entity_id": "can_513343634b",
+      "name": "飲留胃腸證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "飲結於中": [
+    {
+      "entity_id": "can_513343634b",
+      "name": "飲留胃腸證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "黃耆五物湯": [
+    {
+      "entity_id": "can_8ab62e2f3f",
+      "name": "黃耆五物湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "黑鍚丹": [
+    {
+      "entity_id": "can_deb3c7d442",
+      "name": "黑錫丹",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "排膿湯": [
+    {
+      "entity_id": "can_87e68da265",
+      "name": "排膿湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "王不留行散": [
+    {
+      "entity_id": "can_acf4a6018c",
+      "name": "王不留行散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "竹皮大丸": [
+    {
+      "entity_id": "can_08ea383c3e",
+      "name": "竹皮大丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "蜜煎": [
+    {
+      "entity_id": "can_cef13f92b3",
+      "name": "蜜煎",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "瓜蒂湯": [
+    {
+      "entity_id": "can_5d8516f981",
+      "name": "一物瓜蒂湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "一物瓜蒂湯": [
+    {
+      "entity_id": "can_5d8516f981",
+      "name": "一物瓜蒂湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "三承氣湯": [
+    {
+      "entity_id": "can_530bb85d20",
+      "name": "三承氣湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "乾薑黃連黃芩人參湯": [
+    {
+      "entity_id": "can_a539f8a24c",
+      "name": "乾薑黃連黃芩人參湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "冷秘證便祕": [
+    {
+      "entity_id": "can_4e12ea57b6",
+      "name": "冷秘證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "十神湯": [
+    {
+      "entity_id": "can_d240222a5e",
+      "name": "十神湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "哮證間歇期": [
+    {
+      "entity_id": "can_7b78a23992",
+      "name": "哮證緩解期",
+      "type": "disease",
+      "weight": 7
+    }
+  ],
+  "哮證緩解期辨證": [
+    {
+      "entity_id": "can_7b78a23992",
+      "name": "哮證緩解期",
+      "type": "disease",
+      "weight": 7
+    }
+  ],
+  "外邪犯胃嘔吐": [
+    {
+      "entity_id": "can_f8f10c9a9a",
+      "name": "外邪犯胃",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "大烏頭煎": [
+    {
+      "entity_id": "can_669eac28c6",
+      "name": "大烏頭煎",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "大補陰丸《丸": [
+    {
+      "entity_id": "can_e4cf9ac567",
+      "name": "大補陰丸",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_36b372f420",
+      "name": "大補陰丸《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "大補陰丸": [
+    {
+      "entity_id": "can_e4cf9ac567",
+      "name": "大補陰丸",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_36b372f420",
+      "name": "大補陰丸《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "完帶湯": [
+    {
+      "entity_id": "can_083668a08a",
+      "name": "完帶湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "寒濕泄瀉": [
+    {
+      "entity_id": "can_2a63e75088",
+      "name": "寒濕證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "肺氣上逆": [
+    {
+      "entity_id": "can_ab900086ca",
+      "name": "寒飲伏肺證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "生扁豆": [
+    {
+      "entity_id": "can_80f8bc68b2",
+      "name": "扁豆",
+      "type": "herb",
+      "weight": 7
+    }
+  ],
+  "托裏消毒飲": [
+    {
+      "entity_id": "can_bd0911028c",
+      "name": "托裏消毒飲",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "抑肝散": [
+    {
+      "entity_id": "can_3a2e7f78c1",
+      "name": "抑肝散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "排膿散": [
+    {
+      "entity_id": "can_63405b0430",
+      "name": "排膿散",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_142be2801d",
+      "name": "排膿散《散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "排膿散《散": [
+    {
+      "entity_id": "can_63405b0430",
+      "name": "排膿散",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_142be2801d",
+      "name": "排膿散《散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "加茯苓芒硝湯": [
+    {
+      "entity_id": "can_444341c48f",
+      "name": "木防己去石膏加茯苓芒硝湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "木防己去石膏加茯苓芒硝湯": [
+    {
+      "entity_id": "can_444341c48f",
+      "name": "木防己去石膏加茯苓芒硝湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "枳朮湯": [
+    {
+      "entity_id": "can_9d6d527d5a",
+      "name": "枳朮湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "柴陷湯": [
+    {
+      "entity_id": "can_901d8f41a6",
+      "name": "柴陷湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "牡蠣龍骨救逆湯": [
+    {
+      "entity_id": "can_3eb22fdca8",
+      "name": "桂枝去芍藥加蜀漆牡蠣龍骨救逆湯",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_8f787bebec",
+      "name": "牡蠣龍骨救逆湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "肺脾同病": [
+    {
+      "entity_id": "can_538bcd9c8c",
+      "name": "氣陰耗傷",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "氣陰兩傷": [
+    {
+      "entity_id": "can_538bcd9c8c",
+      "name": "氣陰耗傷",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "蒲灰散滑石白魚散茯苓戎鹽湯": [
+    {
+      "entity_id": "can_b88121df22",
+      "name": "滑石白魚散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "滑石白魚散": [
+    {
+      "entity_id": "can_b88121df22",
+      "name": "滑石白魚散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "烏頭桂枝湯": [
+    {
+      "entity_id": "can_44bdb5ddeb",
+      "name": "烏頭桂枝湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "肺失清肅": [
+    {
+      "entity_id": "can_7d2fd00564",
+      "name": "熱哮",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "當歸飲子": [
+    {
+      "entity_id": "can_59d95a3501",
+      "name": "當歸飲子",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "腸澼": [
+    {
+      "entity_id": "can_a03ba3782b",
+      "name": "痢疾",
+      "type": "disease",
+      "weight": 7
+    }
+  ],
+  "硝石礬石散": [
+    {
+      "entity_id": "can_05140ae180",
+      "name": "硝石礬石散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "禹餘糧丸": [
+    {
+      "entity_id": "can_b7f3496e0a",
+      "name": "禹餘糧丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "肝胃鬱熱胃痛": [
+    {
+      "entity_id": "can_b152a8e840",
+      "name": "肝胃鬱熱",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "氣虛寒凝": [
+    {
+      "entity_id": "can_9749c1bc35",
+      "name": "肺氣虛寒",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "胃中痰火噯氣": [
+    {
+      "entity_id": "can_e8e096bac1",
+      "name": "胃中痰火",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "脾陽虛弱": [
+    {
+      "entity_id": "can_4aed50c593",
+      "name": "脾陽虛弱證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "飲停中焦": [
+    {
+      "entity_id": "can_4aed50c593",
+      "name": "脾陽虛弱證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "腎著湯": [
+    {
+      "entity_id": "can_03df292571",
+      "name": "腎著湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "苦參湯": [
+    {
+      "entity_id": "can_9548aa8499",
+      "name": "苦參湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "茯苓戎鹽湯": [
+    {
+      "entity_id": "can_ab6fb2f92f",
+      "name": "茯苓戎鹽湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "蒼耳散《散": [
+    {
+      "entity_id": "can_ae895b286e",
+      "name": "蒼耳散",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_ee8f47ac13",
+      "name": "蒼耳散《散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "蒼耳散": [
+    {
+      "entity_id": "can_ae895b286e",
+      "name": "蒼耳散",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_ee8f47ac13",
+      "name": "蒼耳散《散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "薏苡附子敗醬散": [
+    {
+      "entity_id": "can_27ce46d718",
+      "name": "薏苡附子敗醬散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "血虛便祕": [
+    {
+      "entity_id": "can_067f5f22bb",
+      "name": "血虛證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "膏髮煎": [
+    {
+      "entity_id": "can_6eefdf51c6",
+      "name": "豬膏髮煎",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "豬膏髮煎": [
+    {
+      "entity_id": "can_6eefdf51c6",
+      "name": "豬膏髮煎",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "赤小豆當歸散": [
+    {
+      "entity_id": "can_22f9c07268",
+      "name": "赤小豆當歸散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "赤豆當歸散": [
+    {
+      "entity_id": "can_a9f0081074",
+      "name": "赤豆當歸散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "辰砂六一散": [
+    {
+      "entity_id": "can_14624aa9c0",
+      "name": "辰砂六一散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "還少丹《丸": [
+    {
+      "entity_id": "can_0de8ce67a4",
+      "name": "還少丹",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_1d4ec8d746",
+      "name": "還少丹《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "還少丹": [
+    {
+      "entity_id": "can_0de8ce67a4",
+      "name": "還少丹",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_1d4ec8d746",
+      "name": "還少丹《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "銀花": [
+    {
+      "entity_id": "can_542779aaf4",
+      "name": "金銀花",
+      "type": "herb",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_cea0605525",
+      "name": "溫膽湯加川連銀花",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "風燥傷肺": [
+    {
+      "entity_id": "can_a895ab607f",
+      "name": "風燥傷肺",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "肺失清潤": [
+    {
+      "entity_id": "can_a895ab607f",
+      "name": "風燥傷肺",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "腎氣不利": [
+    {
+      "entity_id": "can_b45e53831e",
+      "name": "風虛腰痛",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "食滯不化噯氣": [
+    {
+      "entity_id": "can_a3fba3bf51",
+      "name": "食滯不化",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "髓海空虛": [
+    {
+      "entity_id": "can_70c57cf961",
+      "name": "髓海不充",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "損及於腎": [
+    {
+      "entity_id": "can_70c57cf961",
+      "name": "髓海不充",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "麻桂各半湯": [
+    {
+      "entity_id": "can_05028269b4",
+      "name": "麻桂各半湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "麻黃二越婢一湯": [
+    {
+      "entity_id": "can_0758b155e9",
+      "name": "麻黃二越婢一湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "麻黃細辛附子湯": [
+    {
+      "entity_id": "can_d897d4f4dc",
+      "name": "麻黃細辛附子湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "麻黃連軺赤小豆湯": [
+    {
+      "entity_id": "can_a767624758",
+      "name": "麻黃連軺赤小豆湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "麻黃附子甘草湯": [
+    {
+      "entity_id": "can_06f0b0db33",
+      "name": "麻黃附子甘草湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "七寶美髯丹《丸": [
+    {
+      "entity_id": "can_e6f7a53e08",
+      "name": "七寶美髯丹",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_19fa161acf",
+      "name": "七寶美髯丹《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "七寶美髯丹": [
+    {
+      "entity_id": "can_e6f7a53e08",
+      "name": "七寶美髯丹",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_19fa161acf",
+      "name": "七寶美髯丹《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "乾薑黃芩黃連人參湯": [
+    {
+      "entity_id": "can_3600c93607",
+      "name": "乾薑黃芩黃連人參湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "人參敗毒散": [
+    {
+      "entity_id": "can_26b2bdbc35",
+      "name": "人參敗毒散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "健脾丸《丸": [
+    {
+      "entity_id": "can_04719a39c3",
+      "name": "健脾丸",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_927e20f701",
+      "name": "健脾丸《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "健脾丸": [
+    {
+      "entity_id": "can_04719a39c3",
+      "name": "健脾丸",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_927e20f701",
+      "name": "健脾丸《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "傷食泄瀉": [
+    {
+      "entity_id": "can_2ec4f05bc4",
+      "name": "傷食證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "八味帶下方": [
+    {
+      "entity_id": "can_e27c0a77ba",
+      "name": "八味帶下方",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "升麻葛根湯《散": [
+    {
+      "entity_id": "can_5b421fa381",
+      "name": "升麻葛根湯",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_5e3c1ed9d5",
+      "name": "升麻葛根湯《散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "升麻葛根湯": [
+    {
+      "entity_id": "can_5b421fa381",
+      "name": "升麻葛根湯",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_5e3c1ed9d5",
+      "name": "升麻葛根湯《散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "半夏麻黃丸": [
+    {
+      "entity_id": "can_05e6418eee",
+      "name": "半夏麻黃丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "厚朴三物湯": [
+    {
+      "entity_id": "can_d371fad8d5",
+      "name": "厚朴三物湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "土瓜根散": [
+    {
+      "entity_id": "can_2e669b4e32",
+      "name": "土瓜根散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "大黃䗪蟲丸": [
+    {
+      "entity_id": "can_bfe8ff2d34",
+      "name": "大黃䗪蟲丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "牡丹湯": [
+    {
+      "entity_id": "can_38009f7c09",
+      "name": "大黃牡丹湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "大黃牡丹湯": [
+    {
+      "entity_id": "can_38009f7c09",
+      "name": "大黃牡丹湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "大黃牡丹皮湯": [
+    {
+      "entity_id": "can_1470f88d8c",
+      "name": "大黃牡丹皮湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "大黃甘遂湯": [
+    {
+      "entity_id": "can_2f623de6a6",
+      "name": "大黃甘遂湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "肺失宣暢": [
+    {
+      "entity_id": "can_77f880996e",
+      "name": "寒哮",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "寒邪內阻腹痛": [
+    {
+      "entity_id": "can_9d9c6b5aa5",
+      "name": "寒邪內阻",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "導水茯苓湯": [
+    {
+      "entity_id": "can_ab86f266c9",
+      "name": "導水茯苓湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "杏子湯": [
+    {
+      "entity_id": "can_c175bb9eb9",
+      "name": "杏子湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "枳實梔子湯": [
+    {
+      "entity_id": "can_8d2a0e1f1b",
+      "name": "枳實梔子湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "柏葉湯": [
+    {
+      "entity_id": "can_22850559b7",
+      "name": "柏葉湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "梔子湯": [
+    {
+      "entity_id": "can_fea4aa6cf4",
+      "name": "梔子湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "梔子生薑豉湯": [
+    {
+      "entity_id": "can_c990391d4b",
+      "name": "梔子生薑豉湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "梔子蘗皮湯": [
+    {
+      "entity_id": "can_ad6798de56",
+      "name": "梔子蘗皮湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "橘核丸《丸": [
+    {
+      "entity_id": "can_9c9c80ccdb",
+      "name": "橘核丸",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_4950dd5f29",
+      "name": "橘核丸《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "橘核丸": [
+    {
+      "entity_id": "can_9c9c80ccdb",
+      "name": "橘核丸",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_4950dd5f29",
+      "name": "橘核丸《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "氣滯胃痛": [
+    {
+      "entity_id": "can_609db2fe8f",
+      "name": "氣滯證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "氣滯腹痛": [
+    {
+      "entity_id": "can_609db2fe8f",
+      "name": "氣滯證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "氣滯證": [
+    {
+      "entity_id": "can_609db2fe8f",
+      "name": "氣滯證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "清心蓮子飲": [
+    {
+      "entity_id": "can_53b283f317",
+      "name": "清心蓮子飲",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "清肺湯": [
+    {
+      "entity_id": "can_8e368acf1a",
+      "name": "清肺湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "烏頭煎": [
+    {
+      "entity_id": "can_e66f07e352",
+      "name": "烏頭煎",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "燒裩散": [
+    {
+      "entity_id": "can_59cb4099aa",
+      "name": "燒裩散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "牡礪澤瀉散": [
+    {
+      "entity_id": "can_0bd96c7b66",
+      "name": "牡礪澤瀉散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "狼牙湯": [
+    {
+      "entity_id": "can_ab0e6ee7ba",
+      "name": "狼牙湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "疏經活血湯": [
+    {
+      "entity_id": "can_7d607b2313",
+      "name": "疏經活血湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "痰氣壅肺": [
+    {
+      "entity_id": "can_5a849e4f2c",
+      "name": "痰哮",
+      "type": "pattern",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_5a849e4f2c",
+      "name": "痰哮",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "白頭翁加甘草阿膠湯": [
+    {
+      "entity_id": "can_0e1aca45b9",
+      "name": "白頭翁加甘草阿膠湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "礬石丸": [
+    {
+      "entity_id": "can_cb70c47616",
+      "name": "礬石丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "紅藍花酒": [
+    {
+      "entity_id": "can_a4b1acc0e9",
+      "name": "紅藍花酒",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "紫參湯": [
+    {
+      "entity_id": "can_b18a13f6c2",
+      "name": "紫參湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "懸飲:絡脈不和": [
+    {
+      "entity_id": "can_4af5fe48f2",
+      "name": "絡脈不和證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "胃寒證胃痛": [
+    {
+      "entity_id": "can_7c9379f71b",
+      "name": "胃寒證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "脾腎兩虧尿血": [
+    {
+      "entity_id": "can_f93820c09d",
+      "name": "脾腎兩虧",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "脾虛泄瀉": [
+    {
+      "entity_id": "can_63568d76de",
+      "name": "脾虛證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "腎虛泄瀉": [
+    {
+      "entity_id": "can_7199e99c34",
+      "name": "腎虛證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "膽移熱於腦": [
+    {
+      "entity_id": "can_81621030ad",
+      "name": "膽火上干",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "火熱薰灼清竅": [
+    {
+      "entity_id": "can_81621030ad",
+      "name": "膽火上干",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "葛根湯加半夏湯": [
+    {
+      "entity_id": "can_7a6d12bade",
+      "name": "葛根湯加半夏湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "葛根半夏湯": [
+    {
+      "entity_id": "can_7a6d12bade",
+      "name": "葛根湯加半夏湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "藜蘆甘草湯": [
+    {
+      "entity_id": "can_4bbc171d0e",
+      "name": "藜蘆甘草湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "陰虛痰熱": [
+    {
+      "entity_id": "can_302224e345",
+      "name": "虛哮",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "氣虛痰盛": [
+    {
+      "entity_id": "can_302224e345",
+      "name": "虛哮",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "里證": [
+    {
+      "entity_id": "can_18bdb33fb2",
+      "name": "裏證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "裡證": [
+    {
+      "entity_id": "can_18bdb33fb2",
+      "name": "裏證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "訶梨勒散": [
+    {
+      "entity_id": "can_902fc361ec",
+      "name": "訶梨勒散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "訶黎勒散": [
+    {
+      "entity_id": "can_72d716e5f7",
+      "name": "訶黎勒散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "赤丸": [
+    {
+      "entity_id": "can_e5ee53b9bb",
+      "name": "赤丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "赤石脂禹餘糧湯": [
+    {
+      "entity_id": "can_46990b3370",
+      "name": "赤石脂禹餘糧湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "懸飲:邪鬱少陽": [
+    {
+      "entity_id": "can_653939faf9",
+      "name": "邪鬱少陽證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "懸飲:陰虛內熱": [
+    {
+      "entity_id": "can_fd9c22fbb7",
+      "name": "陰虛內熱證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "陽旦湯": [
+    {
+      "entity_id": "can_702fb263f3",
+      "name": "陽旦湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "風寒鬱閉之失音": [
+    {
+      "entity_id": "can_05f6219aca",
+      "name": "風塞鬱閉",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "風寒鬱閉": [
+    {
+      "entity_id": "can_05f6219aca",
+      "name": "風塞鬱閉",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "風塞鬱閉之失音": [
+    {
+      "entity_id": "can_05f6219aca",
+      "name": "風塞鬱閉",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "懸飲:飲停胸脅": [
+    {
+      "entity_id": "can_a2c2d8af54",
+      "name": "飲停胸脅證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "耆芍桂酒湯": [
+    {
+      "entity_id": "can_e92c1f4dc5",
+      "name": "黃耆芍桂苦酒湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "黃耆芍桂苦酒湯": [
+    {
+      "entity_id": "can_e92c1f4dc5",
+      "name": "黃耆芍桂苦酒湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "三子養親湯": [
+    {
+      "entity_id": "can_ca1a5ddd96",
+      "name": "三子養親湯加味",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "上中下通用痛風丸《丸": [
+    {
+      "entity_id": "can_a77d74f9a8",
+      "name": "上中下通用痛風丸",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_e8d235bfa7",
+      "name": "上中下通用痛風丸《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "上中下通用痛風丸": [
+    {
+      "entity_id": "can_a77d74f9a8",
+      "name": "上中下通用痛風丸",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_e8d235bfa7",
+      "name": "上中下通用痛風丸《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "陰虛及陽": [
+    {
+      "entity_id": "can_c2c26d0218",
+      "name": "下消陰虛及陽",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "下消-陰虛及陽": [
+    {
+      "entity_id": "can_c2c26d0218",
+      "name": "下消陰虛及陽",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "不換金正氣散": [
+    {
+      "entity_id": "can_f84664f113",
+      "name": "不換金正氣散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "脾胃氣虛": [
+    {
+      "entity_id": "can_42d8b3c95d",
+      "name": "中消脾胃氣虛",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "中消-脾胃氣虛": [
+    {
+      "entity_id": "can_42d8b3c95d",
+      "name": "中消脾胃氣虛",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "中虛臟寒腹痛": [
+    {
+      "entity_id": "can_ea366e1630",
+      "name": "中虛臟寒",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "督脈失養": [
+    {
+      "entity_id": "can_e914ddab7e",
+      "name": "久痛絡虛督脈失養",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "久痛絡虛": [
+    {
+      "entity_id": "can_e914ddab7e",
+      "name": "久痛絡虛督脈失養",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "乙字湯": [
+    {
+      "entity_id": "can_3d7db16fa4",
+      "name": "乙字湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "九味羌活湯《丸": [
+    {
+      "entity_id": "can_d34f261286",
+      "name": "九味羌活湯《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "九味羌活湯": [
+    {
+      "entity_id": "can_d34f261286",
+      "name": "九味羌活湯《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "二陳湯(丸)《丸": [
+    {
+      "entity_id": "can_e3ced18b23",
+      "name": "二陳湯(丸)《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "二陳湯(丸": [
+    {
+      "entity_id": "can_e3ced18b23",
+      "name": "二陳湯(丸)《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "二陳湯": [
+    {
+      "entity_id": "can_e3ced18b23",
+      "name": "二陳湯(丸)《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "五苓散《散": [
+    {
+      "entity_id": "can_e095d826a4",
+      "name": "五苓散《散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "人參養榮湯(丸)《丸": [
+    {
+      "entity_id": "can_57ab48322d",
+      "name": "人參養榮湯(丸)《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "人參養榮湯(丸": [
+    {
+      "entity_id": "can_57ab48322d",
+      "name": "人參養榮湯(丸)《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "人參養榮湯": [
+    {
+      "entity_id": "can_57ab48322d",
+      "name": "人參養榮湯(丸)《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "保和丸《丸": [
+    {
+      "entity_id": "can_1e7afb7b96",
+      "name": "保和丸《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "保和丸": [
+    {
+      "entity_id": "can_1e7afb7b96",
+      "name": "保和丸《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "保和丸合神朮散": [
+    {
+      "entity_id": "can_ff2d987c21",
+      "name": "保和丸合神朮散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "保和丸+神朮散": [
+    {
+      "entity_id": "can_ff2d987c21",
+      "name": "保和丸合神朮散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "保產無憂方": [
+    {
+      "entity_id": "can_545e4bb6b0",
+      "name": "保產無憂方",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "八珍湯(丸)《丸": [
+    {
+      "entity_id": "can_30d1fb3733",
+      "name": "八珍湯(丸)《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "八珍湯(丸": [
+    {
+      "entity_id": "can_30d1fb3733",
+      "name": "八珍湯(丸)《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "八珍湯": [
+    {
+      "entity_id": "can_30d1fb3733",
+      "name": "八珍湯(丸)《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "六君子湯(丸)《丸": [
+    {
+      "entity_id": "can_cd98618bca",
+      "name": "六君子湯(丸)《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "六君子湯(丸": [
+    {
+      "entity_id": "can_cd98618bca",
+      "name": "六君子湯(丸)《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "六君子湯": [
+    {
+      "entity_id": "can_cd98618bca",
+      "name": "六君子湯(丸)《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "六味地黃丸合黃連阿膠湯": [
+    {
+      "entity_id": "can_ddf23de8f1",
+      "name": "六味地黃丸+黃連阿膠湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "六味地黃丸+黃連阿膠湯": [
+    {
+      "entity_id": "can_ddf23de8f1",
+      "name": "六味地黃丸+黃連阿膠湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "六味地黃丸《丸": [
+    {
+      "entity_id": "can_04e2144a87",
+      "name": "六味地黃丸《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "六味地黃丸": [
+    {
+      "entity_id": "can_04e2144a87",
+      "name": "六味地黃丸《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "消渴兼證:聾盲": [
+    {
+      "entity_id": "can_92f92dbd1e",
+      "name": "兼證聾盲",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "聾盲": [
+    {
+      "entity_id": "can_92f92dbd1e",
+      "name": "兼證聾盲",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "消渴兼證:腫脹": [
+    {
+      "entity_id": "can_3873d6bafc",
+      "name": "兼證腫脹",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "腫脹": [
+    {
+      "entity_id": "can_3873d6bafc",
+      "name": "兼證腫脹",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "再造散": [
+    {
+      "entity_id": "can_44dd55866b",
+      "name": "再造散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "十全大補湯(丸)《丸": [
+    {
+      "entity_id": "can_b46acf069d",
+      "name": "十全大補湯(丸)《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "十全大補湯(丸": [
+    {
+      "entity_id": "can_b46acf069d",
+      "name": "十全大補湯(丸)《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "十全大補湯": [
+    {
+      "entity_id": "can_b46acf069d",
+      "name": "十全大補湯(丸)《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "參苓白朮散《散": [
+    {
+      "entity_id": "can_7e334130ed",
+      "name": "參苓白朮散《散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "參苓白朮散": [
+    {
+      "entity_id": "can_7e334130ed",
+      "name": "參苓白朮散《散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "陰陽離絕": [
+    {
+      "entity_id": "can_23fcaae812",
+      "name": "命門耗竭",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "命門火衰": [
+    {
+      "entity_id": "can_23fcaae812",
+      "name": "命門耗竭",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "命門耗竭": [
+    {
+      "entity_id": "can_23fcaae812",
+      "name": "命門耗竭",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "四逆散《散": [
+    {
+      "entity_id": "can_803bb2f192",
+      "name": "四逆散《散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "四逆散去柴胡加旋覆花": [
+    {
+      "entity_id": "can_8f60eaf66d",
+      "name": "四逆散去柴胡加旋覆花代赭石",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "代赭石": [
+    {
+      "entity_id": "can_8f60eaf66d",
+      "name": "四逆散去柴胡加旋覆花代赭石",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "增液湯合活血藥": [
+    {
+      "entity_id": "can_b07ccc05ec",
+      "name": "增液湯合活血藥",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "增液湯+活血藥": [
+    {
+      "entity_id": "can_b07ccc05ec",
+      "name": "增液湯合活血藥",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "心腎氣滯": [
+    {
+      "entity_id": "can_fc0105f29e",
+      "name": "失志內傷腰痛",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "失志內傷腰痛": [
+    {
+      "entity_id": "can_fc0105f29e",
+      "name": "失志內傷腰痛",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "如意金黃散(只用於傳統製劑": [
+    {
+      "entity_id": "can_f7497bb803",
+      "name": "如意金黃散",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_4ecfef5ebb",
+      "name": "如意金黃散(只用於傳統製劑",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "如意金黃散": [
+    {
+      "entity_id": "can_f7497bb803",
+      "name": "如意金黃散",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_4ecfef5ebb",
+      "name": "如意金黃散(只用於傳統製劑",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "安中散《散": [
+    {
+      "entity_id": "can_25f6566253",
+      "name": "安中散《散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "安中散": [
+    {
+      "entity_id": "can_25f6566253",
+      "name": "安中散《散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "寧嗽丸《丸": [
+    {
+      "entity_id": "can_68268d0f9a",
+      "name": "寧嗽丸",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_98ff7d50b6",
+      "name": "寧嗽丸《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "寧嗽丸": [
+    {
+      "entity_id": "can_68268d0f9a",
+      "name": "寧嗽丸",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_98ff7d50b6",
+      "name": "寧嗽丸《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "川芎茶調散《散": [
+    {
+      "entity_id": "can_5a35da6e95",
+      "name": "川芎茶調散《散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "川芎茶調散": [
+    {
+      "entity_id": "can_5a35da6e95",
+      "name": "川芎茶調散《散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "平胃散(丸)《丸": [
+    {
+      "entity_id": "can_045928c019",
+      "name": "平胃散(丸)《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "平胃散(丸": [
+    {
+      "entity_id": "can_045928c019",
+      "name": "平胃散(丸)《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "平胃散": [
+    {
+      "entity_id": "can_045928c019",
+      "name": "平胃散(丸)《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "復元活血湯(去穿山甲": [
+    {
+      "entity_id": "can_a4b63ce2b5",
+      "name": "復元活血湯(去穿山甲",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "復元活血湯": [
+    {
+      "entity_id": "can_a4b63ce2b5",
+      "name": "復元活血湯(去穿山甲",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "去穿山甲": [
+    {
+      "entity_id": "can_a4b63ce2b5",
+      "name": "復元活血湯(去穿山甲",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "斑龍丸《丸": [
+    {
+      "entity_id": "can_032d818166",
+      "name": "斑龍丸",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_181d69b63d",
+      "name": "斑龍丸《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "斑龍丸": [
+    {
+      "entity_id": "can_032d818166",
+      "name": "斑龍丸",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_181d69b63d",
+      "name": "斑龍丸《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "杞菊地黃丸《丸": [
+    {
+      "entity_id": "can_a0b41f8199",
+      "name": "杞菊地黃丸《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "杞菊地黃丸": [
+    {
+      "entity_id": "can_a0b41f8199",
+      "name": "杞菊地黃丸《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "柴胡清肝湯": [
+    {
+      "entity_id": "can_76c88ac01d",
+      "name": "柴胡清肝湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "桂苓五味甘草去桂加薑辛夏湯": [
+    {
+      "entity_id": "can_ade50c4bf6",
+      "name": "桂苓五味甘草去桂加薑辛夏湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "桑菊飲加黃芩梔子": [
+    {
+      "entity_id": "can_f021b59b9c",
+      "name": "桑菊飲加黃芩、梔子",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "桑菊飲加黃芩梔子湯": [
+    {
+      "entity_id": "can_f021b59b9c",
+      "name": "桑菊飲加黃芩、梔子",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "桑菊飲加黃芩": [
+    {
+      "entity_id": "can_0a0f9fcbb2",
+      "name": "桑菊飲加黃芩梔子",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "梔子": [
+    {
+      "entity_id": "can_0a0f9fcbb2",
+      "name": "桑菊飲加黃芩梔子",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "桑螵蛸散《散": [
+    {
+      "entity_id": "can_4f90c955e9",
+      "name": "桑螵蛸散《散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "桑螵蛸散": [
+    {
+      "entity_id": "can_4f90c955e9",
+      "name": "桑螵蛸散《散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "止嗽散《散": [
+    {
+      "entity_id": "can_d3bf6d6630",
+      "name": "止嗽散《散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "止嗽散": [
+    {
+      "entity_id": "can_d3bf6d6630",
+      "name": "止嗽散《散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "正骨紫金丹《丹": [
+    {
+      "entity_id": "can_de6e0e748f",
+      "name": "正骨紫金丹",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_fc1b13da41",
+      "name": "正骨紫金丹《丹",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "正骨紫金丹": [
+    {
+      "entity_id": "can_de6e0e748f",
+      "name": "正骨紫金丹",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_fc1b13da41",
+      "name": "正骨紫金丹《丹",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "氣淋虛證": [
+    {
+      "entity_id": "can_d129c5f213",
+      "name": "氣淋虛證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "氣淋(虛證": [
+    {
+      "entity_id": "can_d129c5f213",
+      "name": "氣淋虛證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "氣秘證便祕": [
+    {
+      "entity_id": "can_a9369419e0",
+      "name": "氣秘證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "氣虛外感": [
+    {
+      "entity_id": "can_2c57a002a0",
+      "name": "氣虛感冒",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "氣虛": [
+    {
+      "entity_id": "can_2c57a002a0",
+      "name": "氣虛感冒",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "水濕腰痛": [
+    {
+      "entity_id": "can_9d93fe7303",
+      "name": "水濕內瘀腰痛",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "治濁固本丸《丸": [
+    {
+      "entity_id": "can_5520338b3f",
+      "name": "治濁固本丸",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_6446235584",
+      "name": "治濁固本丸《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "治濁固本丸": [
+    {
+      "entity_id": "can_5520338b3f",
+      "name": "治濁固本丸",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_6446235584",
+      "name": "治濁固本丸《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "活血藥(未指定": [
+    {
+      "entity_id": "can_e1fa048626",
+      "name": "活血藥類",
+      "type": "herb",
+      "weight": 7
+    }
+  ],
+  "消痔丸《丸": [
+    {
+      "entity_id": "can_24863dee99",
+      "name": "消痔丸",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_75c0effaca",
+      "name": "消痔丸《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "消痔丸": [
+    {
+      "entity_id": "can_24863dee99",
+      "name": "消痔丸",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_75c0effaca",
+      "name": "消痔丸《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "清心利膈湯": [
+    {
+      "entity_id": "can_fb93331806",
+      "name": "清心利膈湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "清涼散": [
+    {
+      "entity_id": "can_d468a9c8a3",
+      "name": "清涼散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "溫膽湯加川連": [
+    {
+      "entity_id": "can_cea0605525",
+      "name": "溫膽湯加川連銀花",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "滋陰地黃丸(熟乾地黃丸)《丸": [
+    {
+      "entity_id": "can_fde32113ce",
+      "name": "滋陰地黃丸",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_c9d4ee64d0",
+      "name": "滋陰地黃丸(熟乾地黃丸)《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "滋陰地黃丸(熟乾地黃丸": [
+    {
+      "entity_id": "can_fde32113ce",
+      "name": "滋陰地黃丸",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_c9d4ee64d0",
+      "name": "滋陰地黃丸(熟乾地黃丸)《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "滋陰地黃丸": [
+    {
+      "entity_id": "can_fde32113ce",
+      "name": "滋陰地黃丸",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_c9d4ee64d0",
+      "name": "滋陰地黃丸(熟乾地黃丸)《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "熟乾地黃丸": [
+    {
+      "entity_id": "can_fde32113ce",
+      "name": "滋陰地黃丸",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_c9d4ee64d0",
+      "name": "滋陰地黃丸(熟乾地黃丸)《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "滋陰降火湯": [
+    {
+      "entity_id": "can_685c7d8c7c",
+      "name": "滋陰降火湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "潤腸湯": [
+    {
+      "entity_id": "can_07dc58e302",
+      "name": "潤腸湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "濁犯中焦": [
+    {
+      "entity_id": "can_eb3c66ed59",
+      "name": "濁邪犯胃",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "濁邪犯胃": [
+    {
+      "entity_id": "can_eb3c66ed59",
+      "name": "濁邪犯胃",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "濕熱腰痛": [
+    {
+      "entity_id": "can_fe71e71ea9",
+      "name": "濕熱痹阻腰痛",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "痰濕腰痛": [
+    {
+      "entity_id": "can_dd2fab2b21",
+      "name": "濕痰流注經絡腰痛",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "濟生腎氣丸《丸": [
+    {
+      "entity_id": "can_8b124b9e80",
+      "name": "濟生腎氣丸《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "濟生腎氣丸": [
+    {
+      "entity_id": "can_8b124b9e80",
+      "name": "濟生腎氣丸《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "烏藥順氣散": [
+    {
+      "entity_id": "can_ccef3dc76c",
+      "name": "烏藥順氣散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "熱秘證便祕": [
+    {
+      "entity_id": "can_cf2eef0d45",
+      "name": "熱秘證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "黑牽牛": [
+    {
+      "entity_id": "can_90bd8f7d38",
+      "name": "牽牛",
+      "type": "herb",
+      "weight": 7
+    }
+  ],
+  "玉屏風散《散": [
+    {
+      "entity_id": "can_6df436240e",
+      "name": "玉屏風散《散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "玉屏風散": [
+    {
+      "entity_id": "can_6df436240e",
+      "name": "玉屏風散《散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "玉泉丸《丸": [
+    {
+      "entity_id": "can_493c120250",
+      "name": "玉泉丸",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_054c76d29f",
+      "name": "玉泉丸《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "玉泉丸": [
+    {
+      "entity_id": "can_493c120250",
+      "name": "玉泉丸",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_054c76d29f",
+      "name": "玉泉丸《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "瓜蔞枳實湯": [
+    {
+      "entity_id": "can_25afdbc8c7",
+      "name": "瓜蔞枳實湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "甘草小麥大棗湯": [
+    {
+      "entity_id": "can_08915f49b2",
+      "name": "甘草小麥大棗湯",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_beaa9e2dd2",
+      "name": "甘麥大棗湯(甘草小麥大棗湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "甘露消毒丹《丹": [
+    {
+      "entity_id": "can_cbfdd6479b",
+      "name": "甘露消毒丹《丹",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "甘露消毒丹": [
+    {
+      "entity_id": "can_cbfdd6479b",
+      "name": "甘露消毒丹《丹",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "甘麥大棗湯(甘草小麥大棗湯": [
+    {
+      "entity_id": "can_beaa9e2dd2",
+      "name": "甘麥大棗湯(甘草小麥大棗湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "當歸龍薈丸(去麝香)《丸": [
+    {
+      "entity_id": "can_b3c2ed1677",
+      "name": "當歸龍薈丸",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_5a59b9481c",
+      "name": "當歸龍薈丸(去麝香)《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "當歸龍薈丸(去麝香": [
+    {
+      "entity_id": "can_b3c2ed1677",
+      "name": "當歸龍薈丸",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_5a59b9481c",
+      "name": "當歸龍薈丸(去麝香)《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "當歸龍薈丸": [
+    {
+      "entity_id": "can_b3c2ed1677",
+      "name": "當歸龍薈丸",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_5a59b9481c",
+      "name": "當歸龍薈丸(去麝香)《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "去麝香": [
+    {
+      "entity_id": "can_b3c2ed1677",
+      "name": "當歸龍薈丸",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_5a59b9481c",
+      "name": "當歸龍薈丸(去麝香)《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "痞滿": [
+    {
+      "entity_id": "can_ae550adaf9",
+      "name": "痞病",
+      "type": "disease",
+      "weight": 7
+    }
+  ],
+  "痰迷心竅": [
+    {
+      "entity_id": "can_79e6c6bbde",
+      "name": "痰蒙神竅",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "痰阻氣逆呃逆": [
+    {
+      "entity_id": "can_ec9875a4c6",
+      "name": "痰阻氣逆",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "癲癇": [
+    {
+      "entity_id": "can_56bc3d1699",
+      "name": "癲癎(癲癇",
+      "type": "disease",
+      "weight": 7
+    }
+  ],
+  "癇證": [
+    {
+      "entity_id": "can_56bc3d1699",
+      "name": "癲癎(癲癇",
+      "type": "disease",
+      "weight": 7
+    }
+  ],
+  "白散三物白散": [
+    {
+      "entity_id": "can_ebdc07dd6e",
+      "name": "白散三物白散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "百合固金湯(丸)《丸": [
+    {
+      "entity_id": "can_cf5c2e831c",
+      "name": "百合固金湯(丸)《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "百合固金湯(丸": [
+    {
+      "entity_id": "can_cf5c2e831c",
+      "name": "百合固金湯(丸)《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "百合固金湯": [
+    {
+      "entity_id": "can_cf5c2e831c",
+      "name": "百合固金湯(丸)《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "知柏地黃丸《丸": [
+    {
+      "entity_id": "can_8c6955532b",
+      "name": "知柏地黃丸《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "知柏地黃丸": [
+    {
+      "entity_id": "can_8c6955532b",
+      "name": "知柏地黃丸《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "秦艽鱉甲散": [
+    {
+      "entity_id": "can_68b69c8ada",
+      "name": "秦艽鱉甲散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "紫菀湯": [
+    {
+      "entity_id": "can_1d199e5ffe",
+      "name": "紫菀湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "紫雲膏(只用於傳統製劑": [
+    {
+      "entity_id": "can_28592e53d9",
+      "name": "紫雲膏",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_134ae7ca24",
+      "name": "紫雲膏(只用於傳統製劑",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "紫雲膏": [
+    {
+      "entity_id": "can_28592e53d9",
+      "name": "紫雲膏",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_134ae7ca24",
+      "name": "紫雲膏(只用於傳統製劑",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "肝鬱泄瀉": [
+    {
+      "entity_id": "can_2b70db8751",
+      "name": "肝鬱證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "癆蟲感染": [
+    {
+      "entity_id": "can_3d1eb04d52",
+      "name": "肺癆總述",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "肺體虛弱": [
+    {
+      "entity_id": "can_3d1eb04d52",
+      "name": "肺癆總述",
+      "type": "pattern",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_84b5c4cb3e",
+      "name": "肺陰虧損",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "肺癆特徵": [
+    {
+      "entity_id": "can_3d1eb04d52",
+      "name": "肺癆總述",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "四大主證": [
+    {
+      "entity_id": "can_3d1eb04d52",
+      "name": "肺癆總述",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "慢性肺系疾患遷延": [
+    {
+      "entity_id": "can_2df6f4b8a8",
+      "name": "肺脹總述",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "肺氣脹滿不能斂降": [
+    {
+      "entity_id": "can_2df6f4b8a8",
+      "name": "肺脹總述",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "肺脹特徵": [
+    {
+      "entity_id": "can_2df6f4b8a8",
+      "name": "肺脹總述",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "肺氣脹滿": [
+    {
+      "entity_id": "can_2df6f4b8a8",
+      "name": "肺脹總述",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "肺陰不足": [
+    {
+      "entity_id": "can_84b5c4cb3e",
+      "name": "肺陰虧損",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "胃苓湯《散": [
+    {
+      "entity_id": "can_d7f07499a4",
+      "name": "胃苓湯《散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "胃苓湯": [
+    {
+      "entity_id": "can_d7f07499a4",
+      "name": "胃苓湯《散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "陰虛火擾腰痛": [
+    {
+      "entity_id": "can_203e03e4f4",
+      "name": "腎精不足陰虛火擾",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "腎虛腰痛陰虛火擾": [
+    {
+      "entity_id": "can_203e03e4f4",
+      "name": "腎精不足陰虛火擾",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "腎氣丸等": [
+    {
+      "entity_id": "can_e22b4fee0d",
+      "name": "腎陽不足腰痛",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "腎陽虛腰痛": [
+    {
+      "entity_id": "can_e22b4fee0d",
+      "name": "腎陽不足腰痛",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "膏淋虛證": [
+    {
+      "entity_id": "can_ac31a0238b",
+      "name": "膏淋虛證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "膏淋(虛證": [
+    {
+      "entity_id": "can_ac31a0238b",
+      "name": "膏淋虛證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "苓甘五味加薑辛半夏杏仁湯": [
+    {
+      "entity_id": "can_ccabb452af",
+      "name": "苓甘五味加薑辛半夏杏仁湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "桂苓五味甘草湯去桂加乾薑": [
+    {
+      "entity_id": "can_8385e54d5e",
+      "name": "苓甘五味薑辛湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "細辛": [
+    {
+      "entity_id": "can_8385e54d5e",
+      "name": "苓甘五味薑辛湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "苓甘五味薑辛湯": [
+    {
+      "entity_id": "can_8385e54d5e",
+      "name": "苓甘五味薑辛湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "茵陳五苓散《散": [
+    {
+      "entity_id": "can_7b01251283",
+      "name": "茵陳五苓散《散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "荊芥連翹湯": [
+    {
+      "entity_id": "can_3b917bf1ae",
+      "name": "荊芥連翹湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "生薑皮": [
+    {
+      "entity_id": "can_3900920b39",
+      "name": "薑皮",
+      "type": "herb",
+      "weight": 7
+    }
+  ],
+  "藿香正氣散(丸)《丸": [
+    {
+      "entity_id": "can_7d40c3d1f2",
+      "name": "藿香正氣散(丸)《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "藿香正氣散(丸": [
+    {
+      "entity_id": "can_7d40c3d1f2",
+      "name": "藿香正氣散(丸)《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "藿香正氣散": [
+    {
+      "entity_id": "can_7d40c3d1f2",
+      "name": "藿香正氣散(丸)《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "血淋實證": [
+    {
+      "entity_id": "can_fb188f6c69",
+      "name": "血淋實證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "血淋(實證": [
+    {
+      "entity_id": "can_fb188f6c69",
+      "name": "血淋實證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "血淋虛證": [
+    {
+      "entity_id": "can_276bdeac9c",
+      "name": "血淋虛證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "血淋(虛證": [
+    {
+      "entity_id": "can_276bdeac9c",
+      "name": "血淋虛證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "血虛外感": [
+    {
+      "entity_id": "can_899d2d7e9b",
+      "name": "血虛感冒",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "血虛": [
+    {
+      "entity_id": "can_899d2d7e9b",
+      "name": "血虛感冒",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "表里": [
+    {
+      "entity_id": "can_1b86619f7b",
+      "name": "表裏",
+      "type": "diagnostic",
+      "weight": 7
+    }
+  ],
+  "表裡": [
+    {
+      "entity_id": "can_1b86619f7b",
+      "name": "表裏",
+      "type": "diagnostic",
+      "weight": 7
+    }
+  ],
+  "補中益氣湯(丸)《丸": [
+    {
+      "entity_id": "can_383bd4428c",
+      "name": "補中益氣湯(丸)《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "補中益氣湯(丸": [
+    {
+      "entity_id": "can_383bd4428c",
+      "name": "補中益氣湯(丸)《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "補中益氣湯": [
+    {
+      "entity_id": "can_383bd4428c",
+      "name": "補中益氣湯(丸)《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "補陰湯": [
+    {
+      "entity_id": "can_9ea86b1cba",
+      "name": "補陰湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "調經丸《丸": [
+    {
+      "entity_id": "can_acd794c7f3",
+      "name": "調經丸",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_e9f3a9aa1f",
+      "name": "調經丸《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "調經丸": [
+    {
+      "entity_id": "can_acd794c7f3",
+      "name": "調經丸",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_e9f3a9aa1f",
+      "name": "調經丸《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "越鞠丸《丸": [
+    {
+      "entity_id": "can_b7bb7ac438",
+      "name": "越鞠丸《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "越鞠丸": [
+    {
+      "entity_id": "can_b7bb7ac438",
+      "name": "越鞠丸《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "辛夷清肺湯": [
+    {
+      "entity_id": "can_8d86c7d30d",
+      "name": "辛夷清肺湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "連翹敗毒散": [
+    {
+      "entity_id": "can_974e880465",
+      "name": "連翹敗毒散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "金鎖固精丸《丸": [
+    {
+      "entity_id": "can_65626c7ac7",
+      "name": "金鎖固精丸《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "金鎖固精丸": [
+    {
+      "entity_id": "can_65626c7ac7",
+      "name": "金鎖固精丸《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "鈎藤散": [
+    {
+      "entity_id": "can_678a567dea",
+      "name": "鈎藤散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "閃跌腰痛": [
+    {
+      "entity_id": "can_092561853a",
+      "name": "閃挫墜墮氣滯血瘀",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "閃挫腰痛": [
+    {
+      "entity_id": "can_092561853a",
+      "name": "閃挫墜墮氣滯血瘀",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "附子理中湯(丸)《丸": [
+    {
+      "entity_id": "can_ab701dc8e1",
+      "name": "附子理中湯(丸)《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "附子理中湯(丸": [
+    {
+      "entity_id": "can_ab701dc8e1",
+      "name": "附子理中湯(丸)《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "陰虛外感": [
+    {
+      "entity_id": "can_240eba3995",
+      "name": "陰虛感冒",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "陰虛": [
+    {
+      "entity_id": "can_240eba3995",
+      "name": "陰虛感冒",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "陽虛外感": [
+    {
+      "entity_id": "can_5de4e54ad7",
+      "name": "陽虛感冒",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "陽虛": [
+    {
+      "entity_id": "can_5de4e54ad7",
+      "name": "陽虛感冒",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "陽虛浮火": [
+    {
+      "entity_id": "can_9289c6c335",
+      "name": "陽虛浮火",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "雞鳴散": [
+    {
+      "entity_id": "can_cb7ec8d20a",
+      "name": "雞鳴散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "響聲破笛丸《丸": [
+    {
+      "entity_id": "can_f1a025a9fc",
+      "name": "響聲破笛丸",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_e8349e17e8",
+      "name": "響聲破笛丸《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "響聲破笛丸": [
+    {
+      "entity_id": "can_f1a025a9fc",
+      "name": "響聲破笛丸",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_e8349e17e8",
+      "name": "響聲破笛丸《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "寒濕腰痛": [
+    {
+      "entity_id": "can_391fb0fc55",
+      "name": "風寒挾濕腰痛",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "食滯胃痛": [
+    {
+      "entity_id": "can_8197f4a663",
+      "name": "食滯證",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "飲食停積嘔吐": [
+    {
+      "entity_id": "can_37e56625f1",
+      "name": "飲食停積",
+      "type": "pattern",
+      "weight": 7
+    }
+  ],
+  "養肝丸《丸": [
+    {
+      "entity_id": "can_a93e07009b",
+      "name": "養肝丸",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_48838895c4",
+      "name": "養肝丸《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "養肝丸": [
+    {
+      "entity_id": "can_a93e07009b",
+      "name": "養肝丸",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_48838895c4",
+      "name": "養肝丸《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "香蘇散": [
+    {
+      "entity_id": "can_5b4824343b",
+      "name": "香蘇散",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "鳥梅丸": [
+    {
+      "entity_id": "can_8b6fee9cf6",
+      "name": "鳥梅丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "麻杏薏甘湯": [
+    {
+      "entity_id": "can_3acf162d9d",
+      "name": "麻杏薏甘湯",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "川連": [
+    {
+      "entity_id": "can_fd975465de",
+      "name": "黃連",
+      "type": "herb",
+      "weight": 7
+    }
+  ],
+  "黃連上清丸《丸": [
+    {
+      "entity_id": "can_0077942eb8",
+      "name": "黃連上清丸",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_1db12b8a54",
+      "name": "黃連上清丸《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "黃連上清丸": [
+    {
+      "entity_id": "can_0077942eb8",
+      "name": "黃連上清丸",
+      "type": "formula",
+      "weight": 7
+    },
+    {
+      "entity_id": "can_1db12b8a54",
+      "name": "黃連上清丸《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "龍膽瀉肝湯(丸)《丸": [
+    {
+      "entity_id": "can_8ad126b74a",
+      "name": "龍膽瀉肝湯(丸)《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "龍膽瀉肝湯(丸": [
+    {
+      "entity_id": "can_8ad126b74a",
+      "name": "龍膽瀉肝湯(丸)《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ],
+  "龍膽瀉肝湯": [
+    {
+      "entity_id": "can_8ad126b74a",
+      "name": "龍膽瀉肝湯(丸)《丸",
+      "type": "formula",
+      "weight": 7
+    }
+  ]
+}

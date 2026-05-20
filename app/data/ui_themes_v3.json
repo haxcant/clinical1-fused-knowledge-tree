@@ -1,0 +1,25 @@
+{
+  "version": "clinical1-fused-ui-v3",
+  "themes": [
+    {
+      "id": "classic_cream",
+      "name": "經典米白"
+    },
+    {
+      "id": "exam_blue",
+      "name": "清爽藍白"
+    },
+    {
+      "id": "light_wood",
+      "name": "木質暖色"
+    },
+    {
+      "id": "dark_tech",
+      "name": "科技深色"
+    },
+    {
+      "id": "ink_gray",
+      "name": "水墨灰霧"
+    }
+  ]
+}

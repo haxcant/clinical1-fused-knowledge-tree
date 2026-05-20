@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="zh-Hant" data-theme="classic_cream">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>臨床一融合大資料庫 MVP v5.6.9 L11 Guide</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="styles.css?v=5.6.9-L11-guide" />
+<link rel="stylesheet" href="modules/knowledge_tree_styles_v3.css?v=5.6.8-L11" />
+<link rel="stylesheet" href="modules/pivot_analysis_styles_v3.css?v=5.6.8-L11" />
+<link rel="stylesheet" href="modules/structured_modules_styles_v3.css?v=5.6.8-L11" />
+</head>
+<body>
+<div class="app-shell">
+  <aside class="sidebar">
+    <div class="brand"><h1>臨床一融合大資料庫</h1><p>v5.6.9 L11 Guide｜新增導覽頁；內容完整保留；大型題庫／節點／知識樹資料改為 lazy loading。</p><div class="brand-pager"><button class="btn mini" id="globalPrevTab" type="button" title="回到上一個操作狀態">上一步</button><button class="btn mini" id="globalNextTab" type="button" title="回到下一個操作狀態">下一步</button></div></div>
+    <nav class="nav" id="navTabs">
+      <button data-tab="guide" class="active">導覽頁</button>
+      <button data-tab="search">搜尋入口</button>
+      <button data-tab="learning">學習頁</button>
+      <button data-tab="entity">節點頁</button>
+      <button data-tab="tree">知識樹</button>
+      <button data-tab="relationGraph">關係圖</button>
+      <button data-tab="quiz">考題系統</button>
+      <button data-tab="qhotspot">考題熱點</button>
+      <button data-tab="pivot">樞紐分析</button>
+      <button data-tab="formulaTools">方劑工具</button>
+      <button data-tab="shanghan">傷寒論</button>
+      <button data-tab="jingui">金匱要略</button>
+      <button data-tab="wenbing">溫病學</button>
+      <button data-tab="zhengzhi">證治學</button>
+      <button data-tab="diagnosis">診斷學</button>
+      <button data-tab="health">資料健康</button>
+    </nav>
+    <div class="theme-row"><label>色系</label><select id="themeSelect"><option value="classic_cream">經典米白</option><option value="exam_blue">清爽藍白</option><option value="light_wood">木質暖色</option><option value="dark_tech">科技深色</option><option value="ink_gray">水墨灰霧</option></select></div>
+    <div class="card soft" style="margin-top:16px"><b>v5.6.9 L11 Guide 輕量載入版</b><div class="muted">若無法開啟，請完整解壓縮後執行 00_START_CLINICAL1_FUSED_L11_COMPLETE.bat；不要直接用 file:// 開 app/index.html。</div></div>
+  </aside>
+  <main class="main">
+    <section class="hero"><h2 id="pageTitle">導覽頁</h2><p id="pageSub">功能總覽：先看每個頁面能做什麼，再進入搜尋、出題、知識樹或資料頁。</p></section>
+    <section id="tab-guide" class="tab active"><div id="guideRoot"></div></section>
+    <section id="tab-search" class="tab"><div id="searchRoot"></div></section>
+    <section id="tab-learning" class="tab"><div id="learningRoot" class="module-frame card"><div class="spinner">學習頁尚未載入。</div></div></section>
+    <section id="tab-entity" class="tab"><div id="entityRoot" class="card">尚未選擇節點。</div></section>
+    <section id="tab-tree" class="tab"><div id="knowledgeTreeRoot" class="tree-frame card"><div class="spinner">知識樹尚未載入。</div></div></section>
+    <section id="tab-relationGraph" class="tab"><div id="relationGraphRoot" class="tree-frame card"><div class="spinner">關係圖尚未載入。</div></div></section>
+    <section id="tab-quiz" class="tab"><div id="quizRoot"></div></section>
+    <section id="tab-qhotspot" class="tab"><div id="questionHotspotRoot" class="pivot-frame card"><div class="spinner">考題熱點尚未載入。</div></div></section>
+    <section id="tab-pivot" class="tab"><div id="pivotRoot" class="pivot-frame card"><div class="spinner">樞紐分析尚未載入。</div></div></section>
+    <section id="tab-formulaTools" class="tab"><div id="formulaToolsRoot" class="module-frame card"><div class="spinner">方劑工具尚未載入。</div></div></section>
+    <section id="tab-shanghan" class="tab"><div id="shanghanRoot" class="module-frame card"><div class="spinner">傷寒論資料尚未載入。</div></div></section>
+    <section id="tab-jingui" class="tab"><div id="jinguiRoot" class="module-frame card"><div class="spinner">金匱要略資料尚未載入。</div></div></section>
+    <section id="tab-wenbing" class="tab"><div id="wenbingRoot" class="module-frame card"><div class="spinner">溫病學資料尚未載入。</div></div></section>
+    <section id="tab-zhengzhi" class="tab"><div id="zhengzhiRoot" class="module-frame card"><div class="spinner">證治學模組尚未載入。</div></div></section>
+    <section id="tab-diagnosis" class="tab"><div id="diagnosisRoot" class="module-frame card"><div class="spinner">診斷學模組尚未載入。</div></div></section>
+    <section id="tab-health" class="tab"><div id="healthRoot"></div></section>
+  </main>
+</div>
+<script src="modules/lazy_data_loader_l11.js?v=L11-COMPLETE"></script>
+<script src="modules/search_engine_v3.js"></script>
+<script src="modules/knowledge_tree_data_adapter.js?v=5.6.8-L11"></script>
+<script src="modules/knowledge_tree_module_v3.js?v=5.6.8-L11"></script>
+<script src="modules/bar_chart_module_v3.js"></script>
+<script src="modules/pivot_analysis_module_v3.js?v=5.6.8-L11"></script>
+<script src="modules/zhengzhi_module_v3.js"></script>
+<script src="modules/diagnosis_module_v3.js"></script>
+<script src="modules/source_pages_module_v3.js"></script>
+<script src="modules/formula_tools_module_v3.js?v=5.6.8-L11"></script>
+<script src="modules/question_hotspot_module_v3.js?v=5.6.8-L11"></script>
+<script src="modules/learning_page_module_v5.js?v=5.6.8-L11"></script>
+<script src="app.js?v=5.6.9-L11-guide"></script>
+</body></html>

@@ -1,0 +1,280 @@
+{
+  "status": "PASS",
+  "errors": [],
+  "warnings": [],
+  "node_syntax_checked": 14,
+  "json_files": 104,
+  "csv_files": 14,
+  "reconstruct_stats": {
+    "clinical1_fused_entity_pages_v3": {
+      "name": "clinical1_fused_entity_pages_v3",
+      "source_bytes": 52808850,
+      "merges": [
+        {
+          "key": "__root__",
+          "mode": "root_dict_update",
+          "files": 11,
+          "count": 7083,
+          "expected": 7083
+        }
+      ]
+    },
+    "knowledge_tree_payload": {
+      "name": "knowledge_tree_payload",
+      "source_bytes": 60321621,
+      "merges": [
+        {
+          "key": "entities",
+          "mode": "list_extend",
+          "files": 1,
+          "count": 6984,
+          "expected": 6984
+        },
+        {
+          "key": "entity_by_id",
+          "mode": "dict_update",
+          "files": 1,
+          "count": 6984,
+          "expected": 6984
+        },
+        {
+          "key": "name_index",
+          "mode": "list_extend",
+          "files": 1,
+          "count": 6985,
+          "expected": 6985
+        },
+        {
+          "key": "graph_edges",
+          "mode": "list_extend",
+          "files": 7,
+          "count": 98090,
+          "expected": 98090
+        },
+        {
+          "key": "question_by_id",
+          "mode": "dict_update",
+          "files": 1,
+          "count": 7713,
+          "expected": 7713
+        },
+        {
+          "key": "questions_by_entity",
+          "mode": "dict_update",
+          "files": 1,
+          "count": 3088,
+          "expected": 3088
+        }
+      ]
+    },
+    "learning_exam_pattern_payload": {
+      "name": "learning_exam_pattern_payload",
+      "source_bytes": 25833842,
+      "merges": [
+        {
+          "key": "formula_cards",
+          "mode": "list_extend",
+          "files": 1,
+          "count": 619,
+          "expected": 619
+        },
+        {
+          "key": "pattern_disease_cards",
+          "mode": "list_extend",
+          "files": 1,
+          "count": 278,
+          "expected": 278
+        },
+        {
+          "key": "comparison_index",
+          "mode": "dict_update",
+          "files": 3,
+          "count": 5,
+          "expected": 5
+        }
+      ]
+    },
+    "quiz_question_bank_payload": {
+      "name": "quiz_question_bank_payload",
+      "source_bytes": 37280139,
+      "merges": [
+        {
+          "key": "questions",
+          "mode": "list_extend",
+          "files": 5,
+          "count": 7713,
+          "expected": 7713
+        },
+        {
+          "key": "entities",
+          "mode": "dict_update",
+          "files": 1,
+          "count": 7095,
+          "expected": 7095
+        }
+      ]
+    },
+    "search_payload_full": {
+      "name": "search_payload_full",
+      "source_bytes": null,
+      "merges": [
+        {
+          "key": "docs",
+          "mode": "list_extend",
+          "files": 3,
+          "count": 16910,
+          "expected": 16910
+        }
+      ]
+    }
+  },
+  "knowledge_tree_summary": {
+    "shanghan_sections": {
+      "nodes": 181,
+      "own_scope": 107,
+      "inherited_scope": 65,
+      "empty_scope": 9,
+      "scope_id_refs": 2273,
+      "missing_question_ids": 0
+    },
+    "jingui_sections": {
+      "nodes": 50,
+      "own_scope": 47,
+      "inherited_scope": 0,
+      "empty_scope": 3,
+      "scope_id_refs": 541,
+      "missing_question_ids": 0
+    },
+    "wenbing_sections": {
+      "nodes": 69,
+      "own_scope": 55,
+      "inherited_scope": 2,
+      "empty_scope": 12,
+      "scope_id_refs": 774,
+      "missing_question_ids": 0
+    },
+    "zhengzhi_sections": {
+      "nodes": 68,
+      "own_scope": 65,
+      "inherited_scope": 0,
+      "empty_scope": 3,
+      "scope_id_refs": 1629,
+      "missing_question_ids": 0
+    },
+    "diagnosis_sections": {
+      "nodes": 20,
+      "own_scope": 20,
+      "inherited_scope": 0,
+      "empty_scope": 0,
+      "scope_id_refs": 449,
+      "missing_question_ids": 0
+    }
+  },
+  "size_stats": {
+    "file_count": 148,
+    "total_bytes": 296834405,
+    "total_mb": 283.083,
+    "largest_files": [
+      {
+        "path": "app/data/question_hotspot_payload_v3_1.json",
+        "bytes": 15358708,
+        "mb": 14.647
+      },
+      {
+        "path": "app/data/search/search_payload_v3.json",
+        "bytes": 14185860,
+        "mb": 13.529
+      },
+      {
+        "path": "app/data/l11/reconstruct/learning_exam_pattern_payload/comparison_index_0001.json",
+        "bytes": 11400301,
+        "mb": 10.872
+      },
+      {
+        "path": "app/data/diagnosis_pages_payload.json",
+        "bytes": 11232238,
+        "mb": 10.712
+      },
+      {
+        "path": "app/data/clinical1_fused_source_refs_v3.csv",
+        "bytes": 10843568,
+        "mb": 10.341
+      },
+      {
+        "path": "app/data/formula_tools_payload_v3_1.json",
+        "bytes": 9622371,
+        "mb": 9.177
+      },
+      {
+        "path": "app/data/l11/reconstruct/search_payload_full/base.json",
+        "bytes": 7574436,
+        "mb": 7.224
+      },
+      {
+        "path": "app/data/formula/formula_page_blocks_v3.json",
+        "bytes": 6232774,
+        "mb": 5.944
+      },
+      {
+        "path": "app/data/l11/reconstruct/knowledge_tree_payload/base.json",
+        "bytes": 6130754,
+        "mb": 5.847
+      },
+      {
+        "path": "app/data/l11/reconstruct/quiz_question_bank_payload/base.json",
+        "bytes": 5550493,
+        "mb": 5.293
+      },
+      {
+        "path": "app/data/l11/reconstruct/clinical1_fused_entity_pages_v3/pages_0002.json",
+        "bytes": 4998378,
+        "mb": 4.767
+      },
+      {
+        "path": "app/data/l11/reconstruct/clinical1_fused_entity_pages_v3/pages_0007.json",
+        "bytes": 4997642,
+        "mb": 4.766
+      },
+      {
+        "path": "app/data/l11/reconstruct/clinical1_fused_entity_pages_v3/pages_0004.json",
+        "bytes": 4997208,
+        "mb": 4.766
+      },
+      {
+        "path": "app/data/l11/reconstruct/clinical1_fused_entity_pages_v3/pages_0005.json",
+        "bytes": 4995343,
+        "mb": 4.764
+      },
+      {
+        "path": "app/data/l11/reconstruct/clinical1_fused_entity_pages_v3/pages_0006.json",
+        "bytes": 4994327,
+        "mb": 4.763
+      },
+      {
+        "path": "app/data/l11/reconstruct/clinical1_fused_entity_pages_v3/pages_0000.json",
+        "bytes": 4991205,
+        "mb": 4.76
+      },
+      {
+        "path": "app/data/l11/reconstruct/clinical1_fused_entity_pages_v3/pages_0001.json",
+        "bytes": 4991079,
+        "mb": 4.76
+      },
+      {
+        "path": "app/data/l11/reconstruct/clinical1_fused_entity_pages_v3/pages_0008.json",
+        "bytes": 4984528,
+        "mb": 4.754
+      },
+      {
+        "path": "app/data/l11/reconstruct/clinical1_fused_entity_pages_v3/pages_0009.json",
+        "bytes": 4977752,
+        "mb": 4.747
+      },
+      {
+        "path": "app/data/l11/reconstruct/clinical1_fused_entity_pages_v3/pages_0003.json",
+        "bytes": 4977309,
+        "mb": 4.747
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "clinical1_fused_entity_pages_v3",
+  "original_path": "data/clinical1_fused_entity_pages_v3.json",
+  "base": "base.json",
+  "merge": [
+    {
+      "key": "__root__",
+      "mode": "root_dict_update",
+      "files": [
+        "pages_0000.json",
+        "pages_0001.json",
+        "pages_0002.json",
+        "pages_0003.json",
+        "pages_0004.json",
+        "pages_0005.json",
+        "pages_0006.json",
+        "pages_0007.json",
+        "pages_0008.json",
+        "pages_0009.json",
+        "pages_0010.json"
+      ],
+      "count": 7083
+    }
+  ],
+  "source_bytes": 52808850
+}

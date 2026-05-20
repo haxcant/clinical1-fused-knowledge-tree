@@ -1,0 +1,29 @@
+{
+  "name": "quiz_question_bank_payload",
+  "original_path": "data/quiz/quiz_question_bank_payload.json",
+  "base": "base.json",
+  "merge": [
+    {
+      "key": "questions",
+      "mode": "list_extend",
+      "files": [
+        "questions_0000.json",
+        "questions_0001.json",
+        "questions_0002.json",
+        "questions_0003.json",
+        "questions_0004.json"
+      ],
+      "count": 7713
+    },
+    {
+      "key": "entities",
+      "mode": "dict_update",
+      "files": [
+        "entities_0000.json"
+      ],
+      "count": 7095
+    }
+  ],
+  "source_sha16": "626dcd8a83e60ac0",
+  "source_bytes": 37280139
+}

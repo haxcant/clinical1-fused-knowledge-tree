@@ -1,0 +1,6 @@
+{
+  "l11_stub": true,
+  "name": "clinical1_fused_entity_pages_v3",
+  "message": "Use Clinical1LazyData.loadEntityPage(id) or L11 reconstruct on demand.",
+  "manifest": "data/l11/entity_pages/index.json"
+}

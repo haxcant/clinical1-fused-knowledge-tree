@@ -1,0 +1,27 @@
+{
+  "version": "clinical1_fused_frontend_mvp_v3",
+  "built_from": [
+    "L3 fused master v3",
+    "L4.5 formula ontology",
+    "L5 quiz",
+    "L6 knowledge tree",
+    "L7 pivot analysis",
+    "L8 zhengzhi/diagnosis modules",
+    "L9 search v3",
+    "G QA gate"
+  ],
+  "entry": "app/index.html",
+  "ports": {
+    "default": 8020
+  },
+  "data_contract": {
+    "search": "app/data/search/search_payload_v3.json",
+    "entity_pages": "app/data/clinical1_fused_entity_pages_v3.json",
+    "formula_blocks": "app/data/formula/formula_page_blocks_v3.json",
+    "quiz": "app/data/quiz/quiz_question_bank_payload.json",
+    "knowledge_tree": "app/data/knowledge_tree_payload_v3.json",
+    "pivot": "app/data/pivot_analysis_payload.json",
+    "zhengzhi": "app/data/zhengzhi_pages_payload.json",
+    "diagnosis": "app/data/diagnosis_pages_payload.json"
+  }
+}

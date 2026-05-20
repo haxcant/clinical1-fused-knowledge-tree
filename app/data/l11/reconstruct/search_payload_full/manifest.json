@@ -1,0 +1,18 @@
+{
+  "name": "search_payload_full",
+  "original_path": "data/search/search_payload_v3.json",
+  "base": "base.json",
+  "merge": [
+    {
+      "key": "docs",
+      "mode": "list_extend",
+      "files": [
+        "docs_0000.json",
+        "docs_0001.json",
+        "docs_0002.json"
+      ],
+      "count": 16910
+    }
+  ],
+  "note": "Full search payload preserved. Runtime initial search uses a light index."
+}

@@ -1,0 +1,389 @@
+book,section_id,parent_section_id,level,section_title,page_start,page_end,question_count,pdf_marker_count
+shanghan,pdfsec_shanghan_b21dd74f90,,1,概論,1,2,9,3
+shanghan,pdfsec_shanghan_b7c794a445,,1,第一章 辨太陽病脈證並治,3,61,499,168
+shanghan,pdfsec_shanghan_8d3ae8c78f,pdfsec_shanghan_b7c794a445,2,概說,3,3,0,0
+shanghan,pdfsec_shanghan_39ef9ee4ac,pdfsec_shanghan_b7c794a445,2,第一節 太陽病綱要,3,4,6,2
+shanghan,pdfsec_shanghan_4914c10cc8,pdfsec_shanghan_39ef9ee4ac,3,一、太陽病脈證提綱,3,3,0,0
+shanghan,pdfsec_shanghan_279f3884c8,pdfsec_shanghan_39ef9ee4ac,3,二、太陽病分類,3,3,6,2
+shanghan,pdfsec_shanghan_fbc1348b8d,pdfsec_shanghan_39ef9ee4ac,3,三、辨病發於陽、病發於陰,4,4,0,0
+shanghan,pdfsec_shanghan_9c8cdb0768,pdfsec_shanghan_39ef9ee4ac,3,四、辨傳辨與欲解時,4,4,0,0
+shanghan,pdfsec_shanghan_bbf2165f04,pdfsec_shanghan_b7c794a445,2,第二節 太陽病本證,5,22,167,56
+shanghan,pdfsec_shanghan_bb14f4b849,pdfsec_shanghan_bbf2165f04,3,一、中風表虛證,5,13,89,29
+shanghan,pdfsec_shanghan_cd242366d4,pdfsec_shanghan_bb14f4b849,4,桂枝湯證,5,5,0,0
+shanghan,pdfsec_shanghan_1df6a03e5e,pdfsec_shanghan_bb14f4b849,4,桂枝湯禁例,5,5,0,0
+shanghan,pdfsec_shanghan_a44f566cdb,pdfsec_shanghan_bb14f4b849,4,兼證,6,6,0,0
+shanghan,pdfsec_shanghan_72083a7b6b,pdfsec_shanghan_bb14f4b849,4,中風表虛證方劑整理,6,13,89,29
+shanghan,pdfsec_shanghan_0082773a75,pdfsec_shanghan_bbf2165f04,3,二、傷寒表實證,14,20,63,22
+shanghan,pdfsec_shanghan_a631c54b84,pdfsec_shanghan_0082773a75,4,麻黃湯證,14,14,0,0
+shanghan,pdfsec_shanghan_7087ae58fb,pdfsec_shanghan_0082773a75,4,麻黃湯禁例,14,14,0,0
+shanghan,pdfsec_shanghan_50c90d10f4,pdfsec_shanghan_0082773a75,4,麻黃湯兼證,15,15,0,0
+shanghan,pdfsec_shanghan_04053d4039,pdfsec_shanghan_0082773a75,4,傷寒表實證方劑整理,15,20,63,22
+shanghan,pdfsec_shanghan_3722e89e4c,pdfsec_shanghan_bbf2165f04,3,三、表鬱輕症,21,22,15,5
+shanghan,pdfsec_shanghan_a37d3b6640,pdfsec_shanghan_b7c794a445,2,第三節 太陽病兼變證,23,57,305,102
+shanghan,pdfsec_shanghan_ac4b2a9ef3,pdfsec_shanghan_a37d3b6640,3,一、變證治則,23,23,0,0
+shanghan,pdfsec_shanghan_dc263a0e42,pdfsec_shanghan_a37d3b6640,3,二、辨虛證實證,23,23,0,0
+shanghan,pdfsec_shanghan_b2a18c12c8,pdfsec_shanghan_a37d3b6640,3,三、辨寒熱真假,23,23,6,2
+shanghan,pdfsec_shanghan_f722c31ed9,pdfsec_shanghan_a37d3b6640,3,四、辨汗下先後,24,25,9,3
+shanghan,pdfsec_shanghan_1b03ed9af6,pdfsec_shanghan_a37d3b6640,3,五、熱證,26,30,33,11
+shanghan,pdfsec_shanghan_b32797578b,pdfsec_shanghan_1b03ed9af6,4,梔子鼓湯類證,26,26,0,0
+shanghan,pdfsec_shanghan_1a9e4c5c6e,pdfsec_shanghan_1b03ed9af6,4,麻黃杏仁甘草石膏湯證,26,26,0,0
+shanghan,pdfsec_shanghan_9fe41199d0,pdfsec_shanghan_1b03ed9af6,4,白虎加人參湯證,26,26,0,0
+shanghan,pdfsec_shanghan_852a5fd5ba,pdfsec_shanghan_1b03ed9af6,4,葛根芩連湯證,26,26,0,0
+shanghan,pdfsec_shanghan_b44ff3420c,pdfsec_shanghan_1b03ed9af6,4,黃芩湯與黃芩加半夏生薑湯證,26,26,0,0
+shanghan,pdfsec_shanghan_adbb079e5c,pdfsec_shanghan_1b03ed9af6,4,熱證方劑整理,26,30,33,11
+shanghan,pdfsec_shanghan_312a396441,pdfsec_shanghan_a37d3b6640,3,六、虛寒證,31,36,68,22
+shanghan,pdfsec_shanghan_46ef0c7d35,pdfsec_shanghan_312a396441,4,心陽虛,31,31,0,0
+shanghan,pdfsec_shanghan_15be48fddc,pdfsec_shanghan_312a396441,4,陽虛兼水氣證,31,31,0,0
+shanghan,pdfsec_shanghan_787e8f2493,pdfsec_shanghan_312a396441,4,脾虛證,31,31,0,0
+shanghan,pdfsec_shanghan_53d5980958,pdfsec_shanghan_312a396441,4,腎陽虛,31,31,0,0
+shanghan,pdfsec_shanghan_3509913183,pdfsec_shanghan_312a396441,4,虛寒證方劑整理,32,36,68,22
+shanghan,pdfsec_shanghan_ff90c396f8,pdfsec_shanghan_a37d3b6640,3,七、陰陽兩虛證,37,38,6,2
+shanghan,pdfsec_shanghan_702b8bdeb0,pdfsec_shanghan_ff90c396f8,4,甘草乾薑湯證、芍藥甘草湯證,37,37,0,0
+shanghan,pdfsec_shanghan_ca05f3147b,pdfsec_shanghan_ff90c396f8,4,芍藥甘草附子湯證,37,37,0,0
+shanghan,pdfsec_shanghan_ac5f8c093b,pdfsec_shanghan_ff90c396f8,4,炙甘草湯證,37,37,0,0
+shanghan,pdfsec_shanghan_cf39c2e974,pdfsec_shanghan_ff90c396f8,4,陰陽兩虛證方劑整理,37,38,6,2
+shanghan,pdfsec_shanghan_024befef2f,pdfsec_shanghan_a37d3b6640,3,八、蓄水證,39,41,30,10
+shanghan,pdfsec_shanghan_6fd114b90c,pdfsec_shanghan_a37d3b6640,3,九、蓄血證,42,44,30,10
+shanghan,pdfsec_shanghan_bd691d91b3,pdfsec_shanghan_a37d3b6640,3,十、結胸證,45,48,42,14
+shanghan,pdfsec_shanghan_790e29d0fe,pdfsec_shanghan_bd691d91b3,4,結胸證辨,45,45,0,0
+shanghan,pdfsec_shanghan_f6e0e8b4a5,pdfsec_shanghan_bd691d91b3,4,熱實結胸,45,45,0,0
+shanghan,pdfsec_shanghan_be6e7cf6e2,pdfsec_shanghan_bd691d91b3,4,寒實結胸,45,45,0,0
+shanghan,pdfsec_shanghan_5771c0f5c7,pdfsec_shanghan_bd691d91b3,4,結胸證方劑整理,46,48,42,14
+shanghan,pdfsec_shanghan_e6fe01cbff,pdfsec_shanghan_a37d3b6640,3,十一、臟結證,49,49,9,3
+shanghan,pdfsec_shanghan_4496c1e16a,pdfsec_shanghan_a37d3b6640,3,十二、痞證,50,54,57,19
+shanghan,pdfsec_shanghan_5160994ead,pdfsec_shanghan_4496c1e16a,4,痞證的形成,50,50,0,0
+shanghan,pdfsec_shanghan_cfd5b8a506,pdfsec_shanghan_4496c1e16a,4,大黃黃連瀉心湯證,50,50,0,0
+shanghan,pdfsec_shanghan_8d8f512574,pdfsec_shanghan_4496c1e16a,4,附子瀉心湯證,50,50,0,0
+shanghan,pdfsec_shanghan_c8a497fba5,pdfsec_shanghan_4496c1e16a,4,半夏瀉心湯證,50,50,0,0
+shanghan,pdfsec_shanghan_b5c789aaab,pdfsec_shanghan_4496c1e16a,4,生薑瀉心湯證,50,50,0,0
+shanghan,pdfsec_shanghan_8af8fcb9ea,pdfsec_shanghan_4496c1e16a,4,甘草瀉心湯證,50,50,0,0
+shanghan,pdfsec_shanghan_c40d9c1338,pdfsec_shanghan_4496c1e16a,4,赤石脂禹餘糧湯證,50,50,0,0
+shanghan,pdfsec_shanghan_18aff7113a,pdfsec_shanghan_4496c1e16a,4,五苓散證,51,51,0,0
+shanghan,pdfsec_shanghan_fbaacef739,pdfsec_shanghan_4496c1e16a,4,旋覆代赭湯證,51,51,0,0
+shanghan,pdfsec_shanghan_5b9662ff07,pdfsec_shanghan_4496c1e16a,4,痞證方劑整理,51,54,57,19
+shanghan,pdfsec_shanghan_6410cb5ac2,pdfsec_shanghan_a37d3b6640,3,十三、上熱下寒證,55,56,18,6
+shanghan,pdfsec_shanghan_b7cf9bc072,pdfsec_shanghan_a37d3b6640,3,十四、火逆證,57,57,0,0
+shanghan,pdfsec_shanghan_a7756da354,pdfsec_shanghan_a37d3b6640,3,十五、欲愈候,57,57,0,0
+shanghan,pdfsec_shanghan_4fb5df6412,pdfsec_shanghan_b7c794a445,2,第四節 太陽病類似證,58,60,18,6
+shanghan,pdfsec_shanghan_299999886b,pdfsec_shanghan_4fb5df6412,3,一、十棗湯證,58,58,6,2
+shanghan,pdfsec_shanghan_a15fa08be8,pdfsec_shanghan_4fb5df6412,3,二、瓜蒂散證,59,60,12,4
+shanghan,pdfsec_shanghan_4a2f8c72fc,pdfsec_shanghan_b7c794a445,2,第五節 太陽篇備考原文,61,61,6,2
+shanghan,pdfsec_shanghan_9701af153c,,1,第二章 辨陽明病脈證並治,62,90,188,65
+shanghan,pdfsec_shanghan_7f0718c58c,pdfsec_shanghan_9701af153c,2,概說,62,62,0,0
+shanghan,pdfsec_shanghan_e723e21ad0,pdfsec_shanghan_9701af153c,2,第一節 陽明病綱要,62,66,24,8
+shanghan,pdfsec_shanghan_a8498c0c16,pdfsec_shanghan_e723e21ad0,3,一、陽明病提綱,62,62,6,2
+shanghan,pdfsec_shanghan_ad8f2a8ef3,pdfsec_shanghan_e723e21ad0,3,二、陽明病病因病機,63,64,6,2
+shanghan,pdfsec_shanghan_124d15ce1c,pdfsec_shanghan_e723e21ad0,3,三、陽明病脈證,65,66,12,4
+shanghan,pdfsec_shanghan_3487db3c3c,pdfsec_shanghan_9701af153c,2,第二節 陽明病本證,67,80,111,37
+shanghan,pdfsec_shanghan_6ab025a0f6,pdfsec_shanghan_3487db3c3c,3,一、陽明熱證,67,72,54,18
+shanghan,pdfsec_shanghan_19edab407a,pdfsec_shanghan_6ab025a0f6,4,梔子豉湯證,67,67,0,0
+shanghan,pdfsec_shanghan_97472e8ac8,pdfsec_shanghan_6ab025a0f6,4,白虎湯證,67,67,0,0
+shanghan,pdfsec_shanghan_adddf70e34,pdfsec_shanghan_6ab025a0f6,4,白虎加人參湯證,67,67,0,0
+shanghan,pdfsec_shanghan_9187941b4e,pdfsec_shanghan_6ab025a0f6,4,豬苓湯證,67,67,0,0
+shanghan,pdfsec_shanghan_bd98ebac44,pdfsec_shanghan_6ab025a0f6,4,陽明熱證方劑整理,68,72,54,18
+shanghan,pdfsec_shanghan_ba65ba95d3,pdfsec_shanghan_3487db3c3c,3,二、陽明實證,73,80,57,19
+shanghan,pdfsec_shanghan_3083d8e552,pdfsec_shanghan_ba65ba95d3,4,調胃承氣湯證,73,73,0,0
+shanghan,pdfsec_shanghan_c707147f01,pdfsec_shanghan_ba65ba95d3,4,小承氣湯證,73,73,0,0
+shanghan,pdfsec_shanghan_9ebb5948ff,pdfsec_shanghan_ba65ba95d3,4,大承氣湯證,73,73,0,0
+shanghan,pdfsec_shanghan_8cce3a1b21,pdfsec_shanghan_ba65ba95d3,4,潤導法,74,74,0,0
+shanghan,pdfsec_shanghan_0eb9da7e83,pdfsec_shanghan_ba65ba95d3,4,下法辨證,74,74,0,0
+shanghan,pdfsec_shanghan_bc7d76d53b,pdfsec_shanghan_ba65ba95d3,4,下法禁例,75,75,0,0
+shanghan,pdfsec_shanghan_37d562fbfe,pdfsec_shanghan_ba65ba95d3,4,陽明實證方劑整理,75,80,57,19
+shanghan,pdfsec_shanghan_5142b21e59,pdfsec_shanghan_9701af153c,2,第三節 陽明病兼變證,81,86,38,12
+shanghan,pdfsec_shanghan_ecf986612e,pdfsec_shanghan_5142b21e59,3,一、發黃證,81,83,20,6
+shanghan,pdfsec_shanghan_0f60f0efeb,pdfsec_shanghan_5142b21e59,3,二、血熱證,84,86,18,6
+shanghan,pdfsec_shanghan_294a12b483,pdfsec_shanghan_9701af153c,2,第四節 陽明病辨證,87,88,18,6
+shanghan,pdfsec_shanghan_53d947edf8,pdfsec_shanghan_294a12b483,3,一、辨中風中寒,87,87,0,0
+shanghan,pdfsec_shanghan_e700fe00a1,pdfsec_shanghan_294a12b483,3,二、辨虛證實證,87,88,18,6
+shanghan,pdfsec_shanghan_88c1a207d3,pdfsec_shanghan_9701af153c,2,第五節 陽明篇備考原文,89,90,6,2
+shanghan,pdfsec_shanghan_d320f6ca7a,,1,第三章 辨少陽病脈證並治,91,111,110,36
+shanghan,pdfsec_shanghan_ae5de3ba08,pdfsec_shanghan_d320f6ca7a,2,概說,91,91,0,0
+shanghan,pdfsec_shanghan_c840f1f686,pdfsec_shanghan_d320f6ca7a,2,第一節 少陽病綱要,91,92,12,4
+shanghan,pdfsec_shanghan_a80d8294dd,pdfsec_shanghan_d320f6ca7a,2,第二節 少陽病本證,93,99,37,12
+shanghan,pdfsec_shanghan_21d9f65b7f,pdfsec_shanghan_a80d8294dd,3,一、小柴胡湯證,93,98,34,11
+shanghan,pdfsec_shanghan_57f3b2fc08,pdfsec_shanghan_a80d8294dd,3,二、小柴胡湯禁例,99,99,3,1
+shanghan,pdfsec_shanghan_c40eaca4aa,pdfsec_shanghan_d320f6ca7a,2,第三節 少陽病兼變證,100,111,61,20
+shanghan,pdfsec_shanghan_b69aec5c65,pdfsec_shanghan_c40eaca4aa,3,一、變證治則,100,100,0,0
+shanghan,pdfsec_shanghan_2bb86f22e8,pdfsec_shanghan_c40eaca4aa,3,二、柴胡桂枝湯證,100,100,3,1
+shanghan,pdfsec_shanghan_6dedfee19a,pdfsec_shanghan_c40eaca4aa,3,三、大柴胡湯證,101,102,12,4
+shanghan,pdfsec_shanghan_39100d1b36,pdfsec_shanghan_c40eaca4aa,3,四、柴胡加芒硝湯證,103,104,12,4
+shanghan,pdfsec_shanghan_be11a85b6b,pdfsec_shanghan_c40eaca4aa,3,五、柴胡桂枝乾薑湯證,105,107,13,4
+shanghan,pdfsec_shanghan_c31800a2b5,pdfsec_shanghan_c40eaca4aa,3,六、柴胡加龍骨牡蠣湯證,108,109,12,4
+shanghan,pdfsec_shanghan_3d489a784c,pdfsec_shanghan_c40eaca4aa,3,七、傳變與預後,110,110,3,1
+shanghan,pdfsec_shanghan_4f6105594b,pdfsec_shanghan_c40eaca4aa,3,八、熱入血室,111,111,6,2
+shanghan,pdfsec_shanghan_eeeebc90c1,,1,第四章 辨太陰病脈證並治,112,120,52,17
+shanghan,pdfsec_shanghan_4907f49b18,pdfsec_shanghan_eeeebc90c1,2,概說,112,112,6,2
+shanghan,pdfsec_shanghan_890cc27cbb,pdfsec_shanghan_eeeebc90c1,2,第一節 太陰病綱要,113,114,15,5
+shanghan,pdfsec_shanghan_37be171ae7,pdfsec_shanghan_890cc27cbb,3,一、太陰病提綱,113,113,0,0
+shanghan,pdfsec_shanghan_3b045d3d22,pdfsec_shanghan_890cc27cbb,3,二、太陰病欲愈候,113,114,15,5
+shanghan,pdfsec_shanghan_43d4da35fe,pdfsec_shanghan_eeeebc90c1,2,第二節 太陰病本證,115,115,6,2
+shanghan,pdfsec_shanghan_7f3eada0ae,pdfsec_shanghan_eeeebc90c1,2,第三節 太陰病兼變證,116,120,25,8
+shanghan,pdfsec_shanghan_b1d2750d00,pdfsec_shanghan_7f3eada0ae,3,一、太陰病兼表證,116,116,3,1
+shanghan,pdfsec_shanghan_8b448d8546,pdfsec_shanghan_7f3eada0ae,3,二、太陰病腹痛證,116,117,6,2
+shanghan,pdfsec_shanghan_18b4723963,pdfsec_shanghan_7f3eada0ae,3,三、太陰病轉愈 與 轉屬陽明的辨證,118,120,16,5
+shanghan,pdfsec_shanghan_8240111bfc,pdfsec_shanghan_18b4723963,4,太陰病轉愈的臨床表現及其機理,118,118,0,0
+shanghan,pdfsec_shanghan_84e431d27a,pdfsec_shanghan_18b4723963,4,太陰轉屬陽明的臨床特徵,118,120,16,5
+shanghan,pdfsec_shanghan_1aa7ebdd6b,,1,第五章 辨少陰病脈證並治,121,148,147,49
+shanghan,pdfsec_shanghan_4e03b7a32e,pdfsec_shanghan_1aa7ebdd6b,2,概說,121,122,9,3
+shanghan,pdfsec_shanghan_2b592d0e5d,pdfsec_shanghan_1aa7ebdd6b,2,第一節 少陰病綱要,123,124,6,2
+shanghan,pdfsec_shanghan_8f17179d61,pdfsec_shanghan_2b592d0e5d,3,一、少陰寒化證主要脈證,123,123,0,0
+shanghan,pdfsec_shanghan_243ad11a30,pdfsec_shanghan_2b592d0e5d,3,二、少陰病治禁,123,124,6,2
+shanghan,pdfsec_shanghan_d92dec8782,pdfsec_shanghan_1aa7ebdd6b,2,第二節 少陰病本證,125,138,87,29
+shanghan,pdfsec_shanghan_d840dee593,pdfsec_shanghan_d92dec8782,3,一、少陰寒化證,125,136,75,25
+shanghan,pdfsec_shanghan_b1740fe521,pdfsec_shanghan_d840dee593,4,四逆湯證,125,125,0,0
+shanghan,pdfsec_shanghan_ec8f0003a0,pdfsec_shanghan_d840dee593,4,通脈四逆湯證,125,125,0,0
+shanghan,pdfsec_shanghan_7ecf6be2e6,pdfsec_shanghan_d840dee593,4,白通及白通加諸膽汁湯證,125,125,0,0
+shanghan,pdfsec_shanghan_4e8ec9788d,pdfsec_shanghan_d840dee593,4,真武湯證,125,125,0,0
+shanghan,pdfsec_shanghan_48dea1a5af,pdfsec_shanghan_d840dee593,4,附子湯證,125,125,0,0
+shanghan,pdfsec_shanghan_8eed4f39c5,pdfsec_shanghan_d840dee593,4,吳茱萸湯證,125,125,0,0
+shanghan,pdfsec_shanghan_7c2f683cd6,pdfsec_shanghan_d840dee593,4,桃花湯證,125,125,0,0
+shanghan,pdfsec_shanghan_1798f6b42e,pdfsec_shanghan_d840dee593,4,刺灸法,126,126,0,0
+shanghan,pdfsec_shanghan_45a00985c2,pdfsec_shanghan_d840dee593,4,預後,126,126,0,0
+shanghan,pdfsec_shanghan_5653479c0d,pdfsec_shanghan_d840dee593,4,少陰寒化證方劑整理,127,136,75,25
+shanghan,pdfsec_shanghan_12b71b878d,pdfsec_shanghan_d92dec8782,3,二、少陰熱化證,137,138,12,4
+shanghan,pdfsec_shanghan_b56859073c,pdfsec_shanghan_12b71b878d,4,黃連阿膠湯證,137,137,0,0
+shanghan,pdfsec_shanghan_c929ac119f,pdfsec_shanghan_12b71b878d,4,豬苓湯證,137,137,0,0
+shanghan,pdfsec_shanghan_60276829e1,pdfsec_shanghan_12b71b878d,4,少陰熱化證方劑整理,137,138,12,4
+shanghan,pdfsec_shanghan_1f082eceb2,pdfsec_shanghan_1aa7ebdd6b,2,第三節 少陰病兼變證,139,145,30,10
+shanghan,pdfsec_shanghan_0d27f23ba7,pdfsec_shanghan_1f082eceb2,3,一、麻黃細辛附子湯證、麻黃附子甘草湯證,139,140,6,2
+shanghan,pdfsec_shanghan_a94cde7f68,pdfsec_shanghan_1f082eceb2,3,二、少陰三急下證,141,141,3,1
+shanghan,pdfsec_shanghan_40078e5b5c,pdfsec_shanghan_1f082eceb2,3,三、四逆散證,141,142,6,2
+shanghan,pdfsec_shanghan_855e800aff,pdfsec_shanghan_1f082eceb2,3,四、熱移膀胱證,143,143,6,2
+shanghan,pdfsec_shanghan_c0306cc1af,pdfsec_shanghan_1f082eceb2,3,五、傷津動血證,144,145,9,3
+shanghan,pdfsec_shanghan_931a5dc572,pdfsec_shanghan_1aa7ebdd6b,2,第四節 咽痛證,146,148,15,5
+shanghan,pdfsec_shanghan_5bb8c3dbbc,pdfsec_shanghan_931a5dc572,3,一、豬膚湯證,146,146,0,0
+shanghan,pdfsec_shanghan_dd8116d6a4,pdfsec_shanghan_931a5dc572,3,二、甘草湯證、桔梗湯證,146,146,0,0
+shanghan,pdfsec_shanghan_3a204e1fae,pdfsec_shanghan_931a5dc572,3,三、苦酒湯證,146,146,0,0
+shanghan,pdfsec_shanghan_590f2f1bdd,pdfsec_shanghan_931a5dc572,3,四、半夏散及湯證,146,148,15,5
+shanghan,pdfsec_shanghan_aebb252679,,1,第六章 辨厥陰病脈證並治,149,172,94,31
+shanghan,pdfsec_shanghan_d15f023ccb,pdfsec_shanghan_aebb252679,2,概說,149,149,0,0
+shanghan,pdfsec_shanghan_c5f140af2e,pdfsec_shanghan_aebb252679,2,第一節 厥陰病綱要,149,149,3,1
+shanghan,pdfsec_shanghan_8757d0f79e,pdfsec_shanghan_aebb252679,2,第二節 上熱下寒證,150,154,15,5
+shanghan,pdfsec_shanghan_2623611341,pdfsec_shanghan_8757d0f79e,3,一、烏梅丸證,150,152,6,2
+shanghan,pdfsec_shanghan_4282ab6d71,pdfsec_shanghan_8757d0f79e,3,二、乾薑黃芩黃連人參湯證,153,153,3,1
+shanghan,pdfsec_shanghan_771a917c18,pdfsec_shanghan_8757d0f79e,3,三、麻黃升麻湯證,153,154,6,2
+shanghan,pdfsec_shanghan_4567fcce8e,pdfsec_shanghan_aebb252679,2,第三節 辨厥熱勝復,155,157,13,4
+shanghan,pdfsec_shanghan_a5c14a06a4,pdfsec_shanghan_aebb252679,2,第四節 辨厥,158,163,30,10
+shanghan,pdfsec_shanghan_8e072c89db,pdfsec_shanghan_a5c14a06a4,3,一、厥病的病理機制與証候特點,158,158,0,0
+shanghan,pdfsec_shanghan_751085b4ee,pdfsec_shanghan_a5c14a06a4,3,二、熱厥,158,158,6,2
+shanghan,pdfsec_shanghan_9dc1023cd6,pdfsec_shanghan_a5c14a06a4,3,三、寒厥,159,161,18,6
+shanghan,pdfsec_shanghan_c3dfaa260c,pdfsec_shanghan_a5c14a06a4,3,四、其它厥證,162,162,3,1
+shanghan,pdfsec_shanghan_f7f4963d6c,pdfsec_shanghan_a5c14a06a4,3,五、厥證治禁,163,163,3,1
+shanghan,pdfsec_shanghan_d2efd3dcf7,pdfsec_shanghan_aebb252679,2,第五節 辨下利,164,167,15,5
+shanghan,pdfsec_shanghan_340382f58d,pdfsec_shanghan_aebb252679,2,第六節 辨嘔噦,168,170,15,5
+shanghan,pdfsec_shanghan_0732b6c683,pdfsec_shanghan_340382f58d,3,一、辨嘔,168,169,3,1
+shanghan,pdfsec_shanghan_f93ed64ed7,pdfsec_shanghan_340382f58d,3,二、辨噦,170,170,12,4
+shanghan,pdfsec_shanghan_240ef8ab76,pdfsec_shanghan_aebb252679,2,第七節 預後,171,172,3,1
+shanghan,pdfsec_shanghan_46fc0a4b99,pdfsec_shanghan_240ef8ab76,3,一、厥陰寒證愈後辨,171,171,0,0
+shanghan,pdfsec_shanghan_618a209f3c,pdfsec_shanghan_240ef8ab76,3,二、厥陰虛寒證死候辨,171,171,0,0
+shanghan,pdfsec_shanghan_3fe394e355,pdfsec_shanghan_240ef8ab76,3,三、厥陰虛寒下利轉歸辨,171,172,3,1
+shanghan,pdfsec_shanghan_ebfea30a79,,1,第七章 辨霍亂病脈證並治,173,179,51,17
+shanghan,pdfsec_shanghan_f1688282a2,,1,第八章 辨陰陽易差後勞復病脈證並治,180,183,33,11
+shanghan,pdfsec_shanghan_e9af2819cc,pdfsec_shanghan_f1688282a2,2,陰陽易差後勞復病備考原文,183,183,0,0
+jingui,pdfsec_jingui_fd41be2bd5,,1,臟腑經絡先後病脈證第一,1,5,21,7
+jingui,pdfsec_jingui_31f220cc60,,1,痙濕暍病脈證治第二,6,13,69,23
+jingui,pdfsec_jingui_b438b8a69e,pdfsec_jingui_31f220cc60,2,痙病,6,8,24,8
+jingui,pdfsec_jingui_128d44a008,pdfsec_jingui_31f220cc60,2,濕病,9,12,39,13
+jingui,pdfsec_jingui_380ef25c54,pdfsec_jingui_31f220cc60,2,暍病,13,13,6,2
+jingui,pdfsec_jingui_887782fd38,,1,百合狐惑陰陽毒病脈證治第三,14,20,54,18
+jingui,pdfsec_jingui_1898eace9c,pdfsec_jingui_887782fd38,2,百合病,14,17,33,11
+jingui,pdfsec_jingui_b15fc8e245,pdfsec_jingui_887782fd38,2,狐惑,18,19,15,5
+jingui,pdfsec_jingui_a744909a16,pdfsec_jingui_887782fd38,2,陰陽毒,20,20,6,2
+jingui,pdfsec_jingui_a01ed218eb,,1,瘧病脈證並治第四,21,23,18,6
+jingui,pdfsec_jingui_60145c21d1,,1,中風歷節病脈證並治第五,24,27,36,12
+jingui,pdfsec_jingui_fd84ddb538,pdfsec_jingui_60145c21d1,2,中風,24,24,9,3
+jingui,pdfsec_jingui_e669da96a0,pdfsec_jingui_60145c21d1,2,歷節,25,27,27,9
+jingui,pdfsec_jingui_6d8e1c6542,,1,血痹虛勞病脈證並治第六,28,33,54,18
+jingui,pdfsec_jingui_d14d55087b,pdfsec_jingui_6d8e1c6542,2,血痹,28,28,9,3
+jingui,pdfsec_jingui_44ab3bd27f,pdfsec_jingui_6d8e1c6542,2,虛勞,29,33,45,15
+jingui,pdfsec_jingui_9d49f77886,,1,肺痿肺癰咳嗽上氣病脈證治第七,34,43,71,23
+jingui,pdfsec_jingui_8006d3a68c,pdfsec_jingui_9d49f77886,2,肺痿,34,35,18,6
+jingui,pdfsec_jingui_59a9a70ed5,pdfsec_jingui_9d49f77886,2,肺癰,36,38,18,6
+jingui,pdfsec_jingui_74e7ac7693,pdfsec_jingui_9d49f77886,2,咳嗽上氣,39,43,35,11
+jingui,pdfsec_jingui_3954cb4ff0,,1,奔豚氣病脈證治第八,44,46,24,8
+jingui,pdfsec_jingui_dd5a12b208,,1,胸痹心痛短氣病脈證治第九,47,51,54,18
+jingui,pdfsec_jingui_2512f4325a,,1,腹滿寒疝宿食病脈證治第十,52,58,45,15
+jingui,pdfsec_jingui_13fc9536f3,pdfsec_jingui_2512f4325a,2,腹滿,52,55,33,11
+jingui,pdfsec_jingui_c6e3b07a80,pdfsec_jingui_2512f4325a,2,寒疝,56,57,6,2
+jingui,pdfsec_jingui_2b85104615,pdfsec_jingui_2512f4325a,2,宿食,58,58,6,2
+jingui,pdfsec_jingui_5fddee890c,,1,五臟風寒積聚病脈證並治第十一,59,63,28,9
+jingui,pdfsec_jingui_9e5720cb81,,1,痰飲咳嗽病脈證並治第十二,64,76,129,44
+jingui,pdfsec_jingui_fbd17f50cf,,1,消渴小便利淋病脈證並治第十三,77,81,39,13
+jingui,pdfsec_jingui_0134be883b,pdfsec_jingui_fbd17f50cf,2,消渴小便不利,77,80,33,11
+jingui,pdfsec_jingui_a1dfb03c11,pdfsec_jingui_fbd17f50cf,2,淋病,81,81,6,2
+jingui,pdfsec_jingui_713ad9afcd,,1,水氣病脈證並治第十四,82,91,84,28
+jingui,pdfsec_jingui_8e3471b031,,1,黃疸病脈證並治第十五,92,98,72,24
+jingui,pdfsec_jingui_75133e8b75,,1,驚悸吐衄下血胸滿瘀血病脈證治第十六,99,105,39,13
+jingui,pdfsec_jingui_12d79ffa5f,pdfsec_jingui_75133e8b75,2,驚悸,99,99,0,0
+jingui,pdfsec_jingui_bc509de572,pdfsec_jingui_75133e8b75,2,吐衄,100,102,12,4
+jingui,pdfsec_jingui_96fce899f6,pdfsec_jingui_75133e8b75,2,下血,103,104,15,5
+jingui,pdfsec_jingui_44608f7e4d,pdfsec_jingui_75133e8b75,2,胸滿瘀血,105,105,12,4
+jingui,pdfsec_jingui_47f36c2666,,1,嘔吐噦下利病脈證治第十七,106,120,114,38
+jingui,pdfsec_jingui_261c1574e2,pdfsec_jingui_47f36c2666,2,嘔吐,106,115,84,28
+jingui,pdfsec_jingui_9027868847,pdfsec_jingui_47f36c2666,2,下痢,116,120,30,10
+jingui,pdfsec_jingui_3a658fc2a9,,1,瘡癰腸癰浸淫病脈證並治第十八,121,123,13,5
+jingui,pdfsec_jingui_8bbfcb96ba,pdfsec_jingui_3a658fc2a9,2,瘡癰,121,121,0,0
+jingui,pdfsec_jingui_8b2acab93f,pdfsec_jingui_3a658fc2a9,2,腸癰,121,121,0,0
+jingui,pdfsec_jingui_41b0a1fa23,pdfsec_jingui_3a658fc2a9,2,浸淫瘡,122,122,10,4
+jingui,pdfsec_jingui_b4c89cd37d,pdfsec_jingui_3a658fc2a9,2,金瘡,123,123,3,1
+jingui,pdfsec_jingui_2d7e50fe35,,1,趺蹶手指臂腫轉筋陰狐疝蚘蟲病脈證治第十九,124,125,3,1
+jingui,pdfsec_jingui_e1b89d0c84,,1,婦人妊娠病脈證並治第二十,126,129,39,13
+jingui,pdfsec_jingui_b3df46d956,,1,婦人產後病脈證治第二十一,130,135,48,16
+jingui,pdfsec_jingui_5d9e52fdf8,,1,婦人雜病脈證並治第二十二,136,136,36,12
+wenbing,pdfsec_wenbing_3397c25907,,1,第一章 緒論,1,7,36,18
+wenbing,pdfsec_wenbing_99a282c92e,pdfsec_wenbing_3397c25907,2,第一節 溫病學的成長,1,4,20,10
+wenbing,pdfsec_wenbing_8aadcf1e88,pdfsec_wenbing_3397c25907,2,第二節 溫病概說,5,7,16,8
+wenbing,pdfsec_wenbing_f8b6179cc1,,1,第二章 溫病的病因與發病,8,12,30,16
+wenbing,pdfsec_wenbing_69cf5314cc,pdfsec_wenbing_f8b6179cc1,2,第一節 概說,8,8,4,2
+wenbing,pdfsec_wenbing_0f8b772eca,pdfsec_wenbing_f8b6179cc1,2,第二節 六淫病因學說的臨床意義,9,12,26,14
+wenbing,pdfsec_wenbing_3421d51f5d,,1,第三章 溫病的病機與辨證,13,19,28,14
+wenbing,pdfsec_wenbing_200b2b8883,pdfsec_wenbing_3421d51f5d,2,第一節 衛氣營血,13,16,16,8
+wenbing,pdfsec_wenbing_3ec088ec6f,pdfsec_wenbing_3421d51f5d,2,第二節 三焦,17,18,8,4
+wenbing,pdfsec_wenbing_f0795fddc6,pdfsec_wenbing_3421d51f5d,2,第三節 衛氣營血與三焦的關係和區別,19,19,4,2
+wenbing,pdfsec_wenbing_946a5f2e98,,1,第四章 溫病的診斷,20,43,68,34
+wenbing,pdfsec_wenbing_9683009091,pdfsec_wenbing_946a5f2e98,2,第一節 辨舌,20,30,34,17
+wenbing,pdfsec_wenbing_b63d98600f,pdfsec_wenbing_9683009091,3,1.1 辨舌苔：白苔,20,22,12,6
+wenbing,pdfsec_wenbing_02cb9cd7f6,pdfsec_wenbing_9683009091,3,1.2 辨舌苔：黃苔,23,24,4,2
+wenbing,pdfsec_wenbing_45f919b5dd,pdfsec_wenbing_9683009091,3,1.3 辨舌苔：灰苔,25,25,0,0
+wenbing,pdfsec_wenbing_46dc086cb4,pdfsec_wenbing_9683009091,3,1.4 辨舌苔：黑苔,25,25,0,0
+wenbing,pdfsec_wenbing_3aa1a048a0,pdfsec_wenbing_9683009091,3,2.1 辨舌質：紅舌,26,27,6,3
+wenbing,pdfsec_wenbing_a425ae71a4,pdfsec_wenbing_9683009091,3,2.2 辨舌質：絳舌,28,29,6,3
+wenbing,pdfsec_wenbing_63a568fc8f,pdfsec_wenbing_9683009091,3,2.3 辨舌質：紫舌,30,30,6,3
+wenbing,pdfsec_wenbing_32f35ba301,pdfsec_wenbing_946a5f2e98,2,第二節 驗齒,31,32,6,3
+wenbing,pdfsec_wenbing_2d20b3a1cd,pdfsec_wenbing_946a5f2e98,2,第三節 審五官,33,34,2,1
+wenbing,pdfsec_wenbing_96ee23f1db,pdfsec_wenbing_946a5f2e98,2,第四節 按胸腹,35,36,6,3
+wenbing,pdfsec_wenbing_bfa28ecb04,pdfsec_wenbing_946a5f2e98,2,第五節 切脈象,37,38,4,2
+wenbing,pdfsec_wenbing_dfc5af9c21,pdfsec_wenbing_946a5f2e98,2,第六節 溫病幾個常見症狀的鑑別診斷,39,43,16,8
+wenbing,pdfsec_wenbing_469fe27cfe,,1,第五章 溫病的治法,44,61,74,38
+wenbing,pdfsec_wenbing_73ac0e885d,pdfsec_wenbing_469fe27cfe,2,第一節 概說,44,44,2,1
+wenbing,pdfsec_wenbing_f02c230f7c,pdfsec_wenbing_469fe27cfe,2,第二節 辨證論治的常用治法,45,53,46,23
+wenbing,pdfsec_wenbing_b5d6c0ab69,pdfsec_wenbing_469fe27cfe,2,第三節 溫病兼挾證的治療,54,56,14,7
+wenbing,pdfsec_wenbing_c7e8e9069d,pdfsec_wenbing_469fe27cfe,2,第四節 溫病勞復和食復的治療,57,57,2,1
+wenbing,pdfsec_wenbing_27fa1cd126,pdfsec_wenbing_469fe27cfe,2,第五節 溫病後遺證的治療,58,58,2,1
+wenbing,pdfsec_wenbing_e511ed801b,pdfsec_wenbing_469fe27cfe,2,第六節 溫病瘥後調理,59,61,10,5
+wenbing,pdfsec_wenbing_3e88f1edc0,,1,第六章 風溫,62,73,102,53
+wenbing,pdfsec_wenbing_37f5546058,pdfsec_wenbing_3e88f1edc0,2,第一節 風溫概說,62,62,0,0
+wenbing,pdfsec_wenbing_5d5b6b8e53,pdfsec_wenbing_3e88f1edc0,2,第二節 風溫辨證論治,62,63,0,0
+wenbing,pdfsec_wenbing_f235542d69,pdfsec_wenbing_3e88f1edc0,2,第三節 風溫方劑,64,73,102,53
+wenbing,pdfsec_wenbing_ed09d8d1c3,,1,第七章 春溫,74,83,74,37
+wenbing,pdfsec_wenbing_60bfc93e19,pdfsec_wenbing_ed09d8d1c3,2,第一節 春溫概說,74,75,0,0
+wenbing,pdfsec_wenbing_c20e9b34fe,pdfsec_wenbing_ed09d8d1c3,2,第二節 春溫辨證論治,76,76,0,0
+wenbing,pdfsec_wenbing_0d14b09bae,pdfsec_wenbing_ed09d8d1c3,2,第三節 春溫方劑,77,83,74,37
+wenbing,pdfsec_wenbing_68234ac8cb,,1,第三章 暑溫,84,91,52,27
+wenbing,pdfsec_wenbing_5f55c1ead2,pdfsec_wenbing_68234ac8cb,2,第一節 暑溫概說,84,84,0,0
+wenbing,pdfsec_wenbing_9c40051562,pdfsec_wenbing_68234ac8cb,2,第二節 暑溫辨證論治,85,86,0,0
+wenbing,pdfsec_wenbing_62352a6d6e,pdfsec_wenbing_68234ac8cb,2,第三節 暑溫方劑,87,91,52,27
+wenbing,pdfsec_wenbing_50d182cd90,,1,第四章 濕溫,92,104,92,47
+wenbing,pdfsec_wenbing_4f21b2f25e,pdfsec_wenbing_50d182cd90,2,第一節 濕溫概說,92,93,0,0
+wenbing,pdfsec_wenbing_37e0424411,pdfsec_wenbing_50d182cd90,2,第二節 濕溫辨證論治,94,95,0,0
+wenbing,pdfsec_wenbing_cf02dae672,pdfsec_wenbing_50d182cd90,2,第三節 濕溫方劑,96,104,92,47
+wenbing,pdfsec_wenbing_ad13b19963,,1,第五章 伏暑,105,110,34,17
+wenbing,pdfsec_wenbing_0a5c2e6484,pdfsec_wenbing_ad13b19963,2,第一節 伏暑概說,105,105,0,0
+wenbing,pdfsec_wenbing_583cab065e,pdfsec_wenbing_ad13b19963,2,第二節 伏暑辨證論治,106,106,0,0
+wenbing,pdfsec_wenbing_994f5d583e,pdfsec_wenbing_ad13b19963,2,第三節 伏暑方劑,107,110,34,17
+wenbing,pdfsec_wenbing_5953756220,,1,第六章 秋燥,111,118,62,31
+wenbing,pdfsec_wenbing_d880b48cda,pdfsec_wenbing_5953756220,2,第一節 秋燥概說,111,111,0,0
+wenbing,pdfsec_wenbing_0ec83019cc,pdfsec_wenbing_5953756220,2,第二節 秋燥辨證論治,112,112,0,0
+wenbing,pdfsec_wenbing_5b599b567a,pdfsec_wenbing_5953756220,2,第三節 秋燥方劑,113,118,62,31
+wenbing,pdfsec_wenbing_eb2d99a331,,1,第七章 溫毒,119,122,20,10
+wenbing,pdfsec_wenbing_4ab45e810b,pdfsec_wenbing_eb2d99a331,2,第一節 大頭瘟,119,120,4,2
+wenbing,pdfsec_wenbing_4922eb8464,pdfsec_wenbing_eb2d99a331,2,第二節 爛喉痧,121,122,16,8
+wenbing,pdfsec_wenbing_49edddbfa7,,1,第八章 溫疫,123,127,22,11
+wenbing,pdfsec_wenbing_b822373f52,pdfsec_wenbing_49edddbfa7,2,第一節 濕熱疫,124,125,12,6
+wenbing,pdfsec_wenbing_d4f545edb1,pdfsec_wenbing_49edddbfa7,2,第二節 暑燥疫,126,127,8,4
+wenbing,pdfsec_wenbing_0e35ef32b3,,1,第九章 名著選,128,136,28,14
+wenbing,pdfsec_wenbing_87ce08d4b4,pdfsec_wenbing_0e35ef32b3,2,第一節 吳又可《溫疫論》,128,131,12,6
+wenbing,pdfsec_wenbing_7aa7eb83a9,pdfsec_wenbing_0e35ef32b3,2,第二節 葉天士《溫熱論》,132,132,2,1
+wenbing,pdfsec_wenbing_fdd06e8e7b,pdfsec_wenbing_0e35ef32b3,2,第三節 葉天士《三時伏氣外感篇》,133,133,4,2
+wenbing,pdfsec_wenbing_2b8cd324a5,pdfsec_wenbing_0e35ef32b3,2,第四節 王士雄《溫熱經緯》,134,134,6,3
+wenbing,pdfsec_wenbing_fc98ab1eda,pdfsec_wenbing_0e35ef32b3,2,第五節 吳鞠通《溫病條辨》,135,135,2,1
+wenbing,pdfsec_wenbing_85416ba7ef,pdfsec_wenbing_0e35ef32b3,2,第六節 余師愚《疫疹一得》,136,136,2,1
+wenbing,pdfsec_wenbing_cbdc683f5b,,1,第十章 其它,137,137,2,1
+zhengzhi,pdfsec_zhengzhi_9be85f992c,,1,第一章 中醫內科學術理論的源流和發展,1,1,0,0
+zhengzhi,pdfsec_zhengzhi_fee8426561,,1,第二章 辨證論治,1,1,1,1
+zhengzhi,pdfsec_zhengzhi_f7cd9591d9,,1,第三章 臟腑病機四大要素,1,1,0,0
+zhengzhi,pdfsec_zhengzhi_73e04f699e,,1,第四章 中醫病機的內涵與特色,1,1,0,0
+zhengzhi,pdfsec_zhengzhi_61a4324345,,1,第五章 肺系病證,2,43,182,141
+zhengzhi,pdfsec_zhengzhi_f178bb4131,pdfsec_zhengzhi_61a4324345,2,第一節 感冒,2,6,24,20
+zhengzhi,pdfsec_zhengzhi_1e79d275bf,pdfsec_zhengzhi_61a4324345,2,第二節 鼻淵,7,9,13,7
+zhengzhi,pdfsec_zhengzhi_c31566dbdb,pdfsec_zhengzhi_61a4324345,2,第三節 咳嗽,10,17,37,32
+zhengzhi,pdfsec_zhengzhi_76622a63d9,pdfsec_zhengzhi_61a4324345,2,第四節 哮證,18,22,19,15
+zhengzhi,pdfsec_zhengzhi_d999f5895a,pdfsec_zhengzhi_61a4324345,2,第五節 喘證,23,30,36,29
+zhengzhi,pdfsec_zhengzhi_82a88386e5,pdfsec_zhengzhi_61a4324345,2,第六節 肺癰,31,33,14,11
+zhengzhi,pdfsec_zhengzhi_4e31329b1c,pdfsec_zhengzhi_61a4324345,2,第七節 痰飲,34,37,21,13
+zhengzhi,pdfsec_zhengzhi_81468f9b8e,pdfsec_zhengzhi_61a4324345,2,第八節 失音,38,39,10,5
+zhengzhi,pdfsec_zhengzhi_43db1d4c4c,pdfsec_zhengzhi_61a4324345,2,第九節 咳血,40,41,8,6
+zhengzhi,pdfsec_zhengzhi_255f7c3dd5,pdfsec_zhengzhi_61a4324345,2,◎肺痿、肺癰、肺脹、肺癆（高研參：中醫內科學）,42,43,3,3
+zhengzhi,pdfsec_zhengzhi_c913a338a9,,1,第六章 心系病證,44,77,153,110
+zhengzhi,pdfsec_zhengzhi_7e7c9245c6,pdfsec_zhengzhi_c913a338a9,2,第一節 心悸,44,50,35,28
+zhengzhi,pdfsec_zhengzhi_02d0e715c1,pdfsec_zhengzhi_c913a338a9,2,第二節 心痛（胸痹）,51,58,35,26
+zhengzhi,pdfsec_zhengzhi_e86d1fd409,pdfsec_zhengzhi_c913a338a9,2,第三節 不寐,59,65,41,30
+zhengzhi,pdfsec_zhengzhi_27e69bebee,pdfsec_zhengzhi_c913a338a9,2,第四節 癲狂,66,71,20,12
+zhengzhi,pdfsec_zhengzhi_7dadbc85da,pdfsec_zhengzhi_c913a338a9,2,第五節 癲癎,72,77,24,14
+zhengzhi,pdfsec_zhengzhi_1db4ca0f70,,1,第七章 脾胃系病證,78,134,176,132
+zhengzhi,pdfsec_zhengzhi_e15edf541b,pdfsec_zhengzhi_1db4ca0f70,2,第一節 嘔吐,78,82,20,15
+zhengzhi,pdfsec_zhengzhi_f030506fd6,pdfsec_zhengzhi_1db4ca0f70,2,第二節 吐酸(附：嘈雜),83,86,10,6
+zhengzhi,pdfsec_zhengzhi_3f875efe9d,pdfsec_zhengzhi_1db4ca0f70,2,第三節 呃逆(附：噯氣),87,90,10,7
+zhengzhi,pdfsec_zhengzhi_e8615b5ca8,pdfsec_zhengzhi_1db4ca0f70,2,第四節 胃痛(附：痞病),91,101,42,35
+zhengzhi,pdfsec_zhengzhi_beb12eadee,pdfsec_zhengzhi_1db4ca0f70,2,第五節 腹痛,102,104,11,7
+zhengzhi,pdfsec_zhengzhi_7becdbbd10,pdfsec_zhengzhi_1db4ca0f70,2,第六節 泄瀉,105,111,20,18
+zhengzhi,pdfsec_zhengzhi_fd02213aea,pdfsec_zhengzhi_1db4ca0f70,2,第七節 痢疾,112,114,9,7
+zhengzhi,pdfsec_zhengzhi_f3377a3783,pdfsec_zhengzhi_1db4ca0f70,2,第八節 便祕,115,119,16,11
+zhengzhi,pdfsec_zhengzhi_0a72ea19ea,pdfsec_zhengzhi_1db4ca0f70,2,第九節 吐血,120,121,6,3
+zhengzhi,pdfsec_zhengzhi_5e61ebf2d6,pdfsec_zhengzhi_1db4ca0f70,2,第十節 便血,122,125,14,7
+zhengzhi,pdfsec_zhengzhi_f67008525a,pdfsec_zhengzhi_1db4ca0f70,2,◎口瘡(附：口糜),126,129,10,6
+zhengzhi,pdfsec_zhengzhi_a484adce13,pdfsec_zhengzhi_1db4ca0f70,2,◎噎膈(附：反胃),130,133,9,9
+zhengzhi,pdfsec_zhengzhi_2389b388cb,pdfsec_zhengzhi_1db4ca0f70,2,◎霍亂,134,134,1,1
+zhengzhi,pdfsec_zhengzhi_e8757ef8ff,,1,第八章 肝膽系病證,135,183,168,127
+zhengzhi,pdfsec_zhengzhi_2cf3335bbb,pdfsec_zhengzhi_e8757ef8ff,2,第一節 黃疸,135,143,33,24
+zhengzhi,pdfsec_zhengzhi_2e093882cf,pdfsec_zhengzhi_e8757ef8ff,2,第二節 脇痛,144,152,28,18
+zhengzhi,pdfsec_zhengzhi_e8ed488b0e,pdfsec_zhengzhi_e8757ef8ff,2,第三節 臌脹,153,159,32,21
+zhengzhi,pdfsec_zhengzhi_263302e981,pdfsec_zhengzhi_e8757ef8ff,2,第四節 眩暈,160,165,25,17
+zhengzhi,pdfsec_zhengzhi_4a0036d736,pdfsec_zhengzhi_e8757ef8ff,2,第五節 中風,166,180,51,42
+zhengzhi,pdfsec_zhengzhi_48dec3ce68,pdfsec_zhengzhi_e8757ef8ff,2,◎積聚,181,183,5,5
+zhengzhi,pdfsec_zhengzhi_10454c211b,,1,第九章 腎系病證,184,227,127,93
+zhengzhi,pdfsec_zhengzhi_75552c333b,pdfsec_zhengzhi_10454c211b,2,第一節 淋證,186,191,23,17
+zhengzhi,pdfsec_zhengzhi_d2ce236390,pdfsec_zhengzhi_10454c211b,2,第二節 尿濁,192,195,11,6
+zhengzhi,pdfsec_zhengzhi_aae4509b33,pdfsec_zhengzhi_10454c211b,2,第三節 尿血,196,198,9,6
+zhengzhi,pdfsec_zhengzhi_2d1e0cfe9b,pdfsec_zhengzhi_10454c211b,2,第四節 癃閉,199,204,21,19
+zhengzhi,pdfsec_zhengzhi_4bcbf867d1,pdfsec_zhengzhi_10454c211b,2,第五節 遺尿,205,206,4,2
+zhengzhi,pdfsec_zhengzhi_ea6860ae00,pdfsec_zhengzhi_10454c211b,2,第六節 關格,207,212,12,11
+zhengzhi,pdfsec_zhengzhi_b60d1d2cb2,pdfsec_zhengzhi_10454c211b,2,第七節 腰痛,213,218,19,13
+zhengzhi,pdfsec_zhengzhi_dab8017c0e,pdfsec_zhengzhi_10454c211b,2,第八節 耳鳴、耳聾,219,220,8,5
+zhengzhi,pdfsec_zhengzhi_9012d93d74,pdfsec_zhengzhi_10454c211b,2,第九節 遺精,221,224,9,6
+zhengzhi,pdfsec_zhengzhi_21b9f75f6e,pdfsec_zhengzhi_10454c211b,2,第十節 陽痿,225,227,11,6
+zhengzhi,pdfsec_zhengzhi_67a7f4c7a0,,1,第十章 氣血津液病證,228,275,153,121
+zhengzhi,pdfsec_zhengzhi_b9e2caee14,pdfsec_zhengzhi_67a7f4c7a0,2,第一節 鬱證,228,229,8,5
+zhengzhi,pdfsec_zhengzhi_8a05c17fc4,pdfsec_zhengzhi_67a7f4c7a0,2,第二節 瘀證,230,233,8,5
+zhengzhi,pdfsec_zhengzhi_3c76532f81,pdfsec_zhengzhi_67a7f4c7a0,2,第三節 厥證,234,236,13,9
+zhengzhi,pdfsec_zhengzhi_4a778f7830,pdfsec_zhengzhi_67a7f4c7a0,2,第四節 汗證,237,239,10,5
+zhengzhi,pdfsec_zhengzhi_a8c0479b8e,pdfsec_zhengzhi_67a7f4c7a0,2,第五節 水腫,240,248,38,29
+zhengzhi,pdfsec_zhengzhi_00483a9391,pdfsec_zhengzhi_67a7f4c7a0,2,第六節 消渴,249,263,33,30
+zhengzhi,pdfsec_zhengzhi_0cae0dbbba,pdfsec_zhengzhi_67a7f4c7a0,2,第七節 癭病,264,271,34,31
+zhengzhi,pdfsec_zhengzhi_b6e577566b,pdfsec_zhengzhi_67a7f4c7a0,2,第八節 虛勞,272,275,9,7
+zhengzhi,pdfsec_zhengzhi_df72ab1e73,,1,第十一章 經絡肢體病證,276,319,138,105
+zhengzhi,pdfsec_zhengzhi_78fb57cf30,pdfsec_zhengzhi_df72ab1e73,2,第一節 頭痛,276,284,31,23
+zhengzhi,pdfsec_zhengzhi_e52252ef4a,pdfsec_zhengzhi_df72ab1e73,2,第二節 痹證,285,306,61,53
+zhengzhi,pdfsec_zhengzhi_bbcc752663,pdfsec_zhengzhi_df72ab1e73,2,第三節 痿證,307,315,31,19
+zhengzhi,pdfsec_zhengzhi_93d5d8f1bf,pdfsec_zhengzhi_df72ab1e73,2,第四節 痙病,316,319,17,10
+zhengzhi,pdfsec_zhengzhi_70c80eb6e3,,1,其它,320,320,2,1
+diagnosis,pdfsec_diagnosis_74f1033892,,3,緒論(部分承啟版內容),1,2,17,7
+diagnosis,pdfsec_diagnosis_aed3910f95,,1,第一篇：四診,3,64,333,114
+diagnosis,pdfsec_diagnosis_05470cef3a,pdfsec_diagnosis_aed3910f95,2,第一章：望診,3,37,166,57
+diagnosis,pdfsec_diagnosis_08589fcc95,pdfsec_diagnosis_aed3910f95,2,第二章：聞診,38,42,34,12
+diagnosis,pdfsec_diagnosis_301b3a33e7,pdfsec_diagnosis_aed3910f95,2,第三章：問診,43,51,54,18
+diagnosis,pdfsec_diagnosis_2786869d5d,pdfsec_diagnosis_aed3910f95,2,第四章：切診,52,64,79,27
+diagnosis,pdfsec_diagnosis_51699a6e0e,,1,第二篇：八綱,65,71,38,12
+diagnosis,pdfsec_diagnosis_6f1e38e6f5,pdfsec_diagnosis_51699a6e0e,2,第一章：陰陽,65,65,4,1
+diagnosis,pdfsec_diagnosis_49fcb67ba4,pdfsec_diagnosis_51699a6e0e,2,第二章：表裡,66,67,12,4
+diagnosis,pdfsec_diagnosis_33a4f89dbb,pdfsec_diagnosis_51699a6e0e,2,第三章：寒熱,68,69,9,3
+diagnosis,pdfsec_diagnosis_6f60a601df,pdfsec_diagnosis_51699a6e0e,2,第四章：虛實,70,71,10,3
+diagnosis,pdfsec_diagnosis_505344b54d,,1,第三篇：證候分類,72,118,286,99
+diagnosis,pdfsec_diagnosis_1efe77e978,pdfsec_diagnosis_505344b54d,2,第一章：氣血辨證,72,72,9,3
+diagnosis,pdfsec_diagnosis_aa7545b1e2,pdfsec_diagnosis_505344b54d,2,第二章：臟腑辨證,73,87,89,31
+diagnosis,pdfsec_diagnosis_73e2af65b5,pdfsec_diagnosis_505344b54d,2,第三章：六淫與痰食辨證,88,100,85,29
+diagnosis,pdfsec_diagnosis_39557bb80c,pdfsec_diagnosis_505344b54d,2,第四章：傷寒與溫病辨證,101,114,84,29
+diagnosis,pdfsec_diagnosis_9f713f7af2,pdfsec_diagnosis_505344b54d,2,第五章：經絡辨證,115,117,15,5
+diagnosis,pdfsec_diagnosis_3783faeee7,pdfsec_diagnosis_505344b54d,2,第六章：其他辨證分類(承啟版內容：疫癘、七情、外傷),118,118,6,2
+diagnosis,pdfsec_diagnosis_99e52969e7,,1,第四篇：診斷與病案(承啟版內容),119,122,20,8
+diagnosis,pdfsec_diagnosis_b6b4f88611,pdfsec_diagnosis_99e52969e7,3,其他（無法歸類者）,122,122,4,2
